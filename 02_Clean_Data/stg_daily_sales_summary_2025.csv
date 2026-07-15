@@ -1,0 +1,3286 @@
+﻿sales_date,metric_name,amount
+2025-01-01,Gross sales,0.00
+2025-01-01,Refunds,0.00
+2025-01-01,Net sales,0.00
+2025-01-01,Overpayments,0.00
+2025-01-01,Taxes expected,0.00
+2025-01-01,Taxes collected,0.00
+2025-01-01,Tips,0.00
+2025-01-01,Amount collected,0.00
+2025-01-01,Unpaid balance,0.00
+2025-01-02,Gross sales,2306.02
+2025-01-02,Refunds,0.00
+2025-01-02,Net sales,2306.02
+2025-01-02,Overpayments,0.00
+2025-01-02,Taxes expected,214.05
+2025-01-02,Taxes collected,214.05
+2025-01-02,Tips,31.27
+2025-01-02,Amount collected,2551.34
+2025-01-02,Unpaid balance,0.00
+2025-01-03,Gross sales,2776.78
+2025-01-03,Refunds,0.00
+2025-01-03,Net sales,2776.78
+2025-01-03,Overpayments,0.00
+2025-01-03,Taxes expected,256.31
+2025-01-03,Taxes collected,256.31
+2025-01-03,Tips,48.09
+2025-01-03,Amount collected,3081.18
+2025-01-03,Unpaid balance,0.00
+2025-01-04,Gross sales,3162.43
+2025-01-04,Refunds,0.00
+2025-01-04,Net sales,3162.43
+2025-01-04,Overpayments,0.00
+2025-01-04,Taxes expected,288.99
+2025-01-04,Taxes collected,288.99
+2025-01-04,Tips,34.42
+2025-01-04,Amount collected,3485.84
+2025-01-04,Unpaid balance,0.00
+2025-01-05,Gross sales,2793.75
+2025-01-05,Refunds,0.00
+2025-01-05,Net sales,2793.75
+2025-01-05,Overpayments,0.00
+2025-01-05,Taxes expected,259.72
+2025-01-05,Taxes collected,259.72
+2025-01-05,Tips,42.77
+2025-01-05,Amount collected,3096.24
+2025-01-05,Unpaid balance,0.00
+2025-01-06,Gross sales,1932.05
+2025-01-06,Refunds,0.00
+2025-01-06,Net sales,1932.05
+2025-01-06,Overpayments,0.00
+2025-01-06,Taxes expected,175.64
+2025-01-06,Taxes collected,175.64
+2025-01-06,Tips,28.63
+2025-01-06,Amount collected,2136.32
+2025-01-06,Unpaid balance,0.00
+2025-01-07,Gross sales,1773.61
+2025-01-07,Refunds,0.00
+2025-01-07,Net sales,1773.61
+2025-01-07,Overpayments,0.00
+2025-01-07,Taxes expected,164.40
+2025-01-07,Taxes collected,164.40
+2025-01-07,Tips,22.93
+2025-01-07,Amount collected,1960.94
+2025-01-07,Unpaid balance,0.00
+2025-01-08,Gross sales,2234.00
+2025-01-08,Refunds,0.00
+2025-01-08,Net sales,2234.00
+2025-01-08,Overpayments,0.00
+2025-01-08,Taxes expected,203.23
+2025-01-08,Taxes collected,203.23
+2025-01-08,Tips,30.17
+2025-01-08,Amount collected,2467.40
+2025-01-08,Unpaid balance,0.00
+2025-01-09,Gross sales,2261.17
+2025-01-09,Refunds,0.00
+2025-01-09,Net sales,2261.17
+2025-01-09,Overpayments,0.00
+2025-01-09,Taxes expected,207.72
+2025-01-09,Taxes collected,207.72
+2025-01-09,Tips,31.51
+2025-01-09,Amount collected,2500.40
+2025-01-09,Unpaid balance,0.00
+2025-01-10,Gross sales,2828.25
+2025-01-10,Refunds,0.00
+2025-01-10,Net sales,2828.25
+2025-01-10,Overpayments,0.00
+2025-01-10,Taxes expected,256.51
+2025-01-10,Taxes collected,256.51
+2025-01-10,Tips,68.17
+2025-01-10,Amount collected,3152.93
+2025-01-10,Unpaid balance,0.00
+2025-01-11,Gross sales,3302.81
+2025-01-11,Refunds,0.00
+2025-01-11,Net sales,3302.81
+2025-01-11,Overpayments,0.00
+2025-01-11,Taxes expected,302.63
+2025-01-11,Taxes collected,302.63
+2025-01-11,Tips,73.27
+2025-01-11,Amount collected,3678.71
+2025-01-11,Unpaid balance,0.00
+2025-01-12,Gross sales,2613.37
+2025-01-12,Refunds,0.00
+2025-01-12,Net sales,2613.37
+2025-01-12,Overpayments,0.00
+2025-01-12,Taxes expected,241.05
+2025-01-12,Taxes collected,241.05
+2025-01-12,Tips,29.39
+2025-01-12,Amount collected,2883.81
+2025-01-12,Unpaid balance,0.00
+2025-01-13,Gross sales,1957.35
+2025-01-13,Refunds,0.00
+2025-01-13,Net sales,1957.35
+2025-01-13,Overpayments,0.00
+2025-01-13,Taxes expected,178.24
+2025-01-13,Taxes collected,178.24
+2025-01-13,Tips,39.75
+2025-01-13,Amount collected,2175.34
+2025-01-13,Unpaid balance,0.00
+2025-01-14,Gross sales,1757.24
+2025-01-14,Refunds,0.00
+2025-01-14,Net sales,1757.24
+2025-01-14,Overpayments,0.00
+2025-01-14,Taxes expected,159.28
+2025-01-14,Taxes collected,159.28
+2025-01-14,Tips,37.28
+2025-01-14,Amount collected,1953.80
+2025-01-14,Unpaid balance,0.00
+2025-01-15,Gross sales,2374.59
+2025-01-15,Refunds,0.00
+2025-01-15,Net sales,2374.59
+2025-01-15,Overpayments,0.00
+2025-01-15,Taxes expected,218.34
+2025-01-15,Taxes collected,218.34
+2025-01-15,Tips,27.36
+2025-01-15,Amount collected,2620.29
+2025-01-15,Unpaid balance,0.00
+2025-01-16,Gross sales,2067.38
+2025-01-16,Refunds,0.00
+2025-01-16,Net sales,2067.38
+2025-01-16,Overpayments,0.00
+2025-01-16,Taxes expected,192.41
+2025-01-16,Taxes collected,192.22
+2025-01-16,Tips,34.16
+2025-01-16,Amount collected,2293.76
+2025-01-16,Unpaid balance,0.00
+2025-01-17,Gross sales,2933.15
+2025-01-17,Refunds,0.00
+2025-01-17,Net sales,2933.15
+2025-01-17,Overpayments,0.00
+2025-01-17,Taxes expected,271.64
+2025-01-17,Taxes collected,271.64
+2025-01-17,Tips,56.58
+2025-01-17,Amount collected,3248.18
+2025-01-17,Unpaid balance,13.19
+2025-01-18,Gross sales,2961.35
+2025-01-18,Refunds,0.00
+2025-01-18,Net sales,2961.35
+2025-01-18,Overpayments,0.00
+2025-01-18,Taxes expected,269.81
+2025-01-18,Taxes collected,268.72
+2025-01-18,Tips,67.18
+2025-01-18,Amount collected,3297.25
+2025-01-18,Unpaid balance,0.00
+2025-01-19,Gross sales,2940.09
+2025-01-19,Refunds,0.00
+2025-01-19,Net sales,2940.09
+2025-01-19,Overpayments,0.00
+2025-01-19,Taxes expected,272.15
+2025-01-19,Taxes collected,271.53
+2025-01-19,Tips,41.99
+2025-01-19,Amount collected,3253.61
+2025-01-19,Unpaid balance,0.00
+2025-01-20,Gross sales,1823.63
+2025-01-20,Refunds,0.00
+2025-01-20,Net sales,1823.63
+2025-01-20,Overpayments,0.00
+2025-01-20,Taxes expected,165.92
+2025-01-20,Taxes collected,165.92
+2025-01-20,Tips,48.67
+2025-01-20,Amount collected,2038.22
+2025-01-20,Unpaid balance,0.00
+2025-01-21,Gross sales,1925.56
+2025-01-21,Refunds,0.00
+2025-01-21,Net sales,1925.56
+2025-01-21,Overpayments,0.00
+2025-01-21,Taxes expected,177.78
+2025-01-21,Taxes collected,177.78
+2025-01-21,Tips,42.79
+2025-01-21,Amount collected,2146.13
+2025-01-21,Unpaid balance,0.00
+2025-01-22,Gross sales,2230.15
+2025-01-22,Refunds,0.00
+2025-01-22,Net sales,2230.15
+2025-01-22,Overpayments,0.00
+2025-01-22,Taxes expected,206.85
+2025-01-22,Taxes collected,206.85
+2025-01-22,Tips,54.34
+2025-01-22,Amount collected,2491.34
+2025-01-22,Unpaid balance,0.00
+2025-01-23,Gross sales,2061.57
+2025-01-23,Refunds,0.00
+2025-01-23,Net sales,2061.57
+2025-01-23,Overpayments,0.00
+2025-01-23,Taxes expected,188.64
+2025-01-23,Taxes collected,188.64
+2025-01-23,Tips,50.32
+2025-01-23,Amount collected,2300.53
+2025-01-23,Unpaid balance,0.00
+2025-01-24,Gross sales,2560.24
+2025-01-24,Refunds,0.00
+2025-01-24,Net sales,2560.24
+2025-01-24,Overpayments,0.00
+2025-01-24,Taxes expected,237.70
+2025-01-24,Taxes collected,237.70
+2025-01-24,Tips,64.07
+2025-01-24,Amount collected,2862.01
+2025-01-24,Unpaid balance,0.00
+2025-01-25,Gross sales,3157.33
+2025-01-25,Refunds,0.00
+2025-01-25,Net sales,3157.33
+2025-01-25,Overpayments,0.00
+2025-01-25,Taxes expected,289.88
+2025-01-25,Taxes collected,289.88
+2025-01-25,Tips,82.54
+2025-01-25,Amount collected,3529.75
+2025-01-25,Unpaid balance,0.00
+2025-01-26,Gross sales,2421.66
+2025-01-26,Refunds,0.00
+2025-01-26,Net sales,2421.66
+2025-01-26,Overpayments,0.00
+2025-01-26,Taxes expected,222.93
+2025-01-26,Taxes collected,222.93
+2025-01-26,Tips,57.56
+2025-01-26,Amount collected,2702.15
+2025-01-26,Unpaid balance,0.00
+2025-01-27,Gross sales,1665.78
+2025-01-27,Refunds,0.00
+2025-01-27,Net sales,1665.78
+2025-01-27,Overpayments,0.00
+2025-01-27,Taxes expected,152.64
+2025-01-27,Taxes collected,152.64
+2025-01-27,Tips,43.09
+2025-01-27,Amount collected,1861.51
+2025-01-27,Unpaid balance,0.00
+2025-01-28,Gross sales,2066.33
+2025-01-28,Refunds,0.00
+2025-01-28,Net sales,2066.33
+2025-01-28,Overpayments,0.00
+2025-01-28,Taxes expected,192.08
+2025-01-28,Taxes collected,192.08
+2025-01-28,Tips,29.18
+2025-01-28,Amount collected,2287.59
+2025-01-28,Unpaid balance,0.00
+2025-01-29,Gross sales,2310.32
+2025-01-29,Refunds,0.00
+2025-01-29,Net sales,2310.32
+2025-01-29,Overpayments,0.00
+2025-01-29,Taxes expected,209.08
+2025-01-29,Taxes collected,209.08
+2025-01-29,Tips,50.86
+2025-01-29,Amount collected,2570.26
+2025-01-29,Unpaid balance,0.00
+2025-01-30,Gross sales,2274.90
+2025-01-30,Refunds,0.00
+2025-01-30,Net sales,2274.90
+2025-01-30,Overpayments,0.00
+2025-01-30,Taxes expected,208.96
+2025-01-30,Taxes collected,208.96
+2025-01-30,Tips,45.29
+2025-01-30,Amount collected,2529.15
+2025-01-30,Unpaid balance,0.00
+2025-01-31,Gross sales,2666.94
+2025-01-31,Refunds,0.00
+2025-01-31,Net sales,2666.94
+2025-01-31,Overpayments,0.00
+2025-01-31,Taxes expected,242.36
+2025-01-31,Taxes collected,242.36
+2025-01-31,Tips,33.88
+2025-01-31,Amount collected,2943.18
+2025-01-31,Unpaid balance,0.00
+2025-02-01,Gross sales,2946.59
+2025-02-01,Refunds,0.00
+2025-02-01,Net sales,2946.59
+2025-02-01,Overpayments,0.00
+2025-02-01,Taxes expected,269.03
+2025-02-01,Taxes collected,269.03
+2025-02-01,Tips,38.21
+2025-02-01,Amount collected,3253.83
+2025-02-01,Unpaid balance,0.00
+2025-02-02,Gross sales,2872.34
+2025-02-02,Refunds,0.00
+2025-02-02,Net sales,2872.34
+2025-02-02,Overpayments,0.00
+2025-02-02,Taxes expected,263.68
+2025-02-02,Taxes collected,263.68
+2025-02-02,Tips,71.03
+2025-02-02,Amount collected,3207.05
+2025-02-02,Unpaid balance,0.00
+2025-02-03,Gross sales,1835.37
+2025-02-03,Refunds,0.00
+2025-02-03,Net sales,1835.37
+2025-02-03,Overpayments,0.00
+2025-02-03,Taxes expected,166.91
+2025-02-03,Taxes collected,166.91
+2025-02-03,Tips,44.33
+2025-02-03,Amount collected,2046.61
+2025-02-03,Unpaid balance,0.00
+2025-02-04,Gross sales,1859.02
+2025-02-04,Refunds,0.00
+2025-02-04,Net sales,1859.02
+2025-02-04,Overpayments,0.00
+2025-02-04,Taxes expected,168.53
+2025-02-04,Taxes collected,168.53
+2025-02-04,Tips,21.07
+2025-02-04,Amount collected,2048.62
+2025-02-04,Unpaid balance,0.00
+2025-02-05,Gross sales,2125.98
+2025-02-05,Refunds,0.00
+2025-02-05,Net sales,2125.98
+2025-02-05,Overpayments,0.00
+2025-02-05,Taxes expected,197.72
+2025-02-05,Taxes collected,197.72
+2025-02-05,Tips,28.45
+2025-02-05,Amount collected,2352.15
+2025-02-05,Unpaid balance,0.00
+2025-02-06,Gross sales,2414.24
+2025-02-06,Refunds,0.00
+2025-02-06,Net sales,2414.24
+2025-02-06,Overpayments,0.00
+2025-02-06,Taxes expected,221.16
+2025-02-06,Taxes collected,221.16
+2025-02-06,Tips,44.00
+2025-02-06,Amount collected,2679.40
+2025-02-06,Unpaid balance,0.00
+2025-02-07,Gross sales,3099.80
+2025-02-07,Refunds,0.00
+2025-02-07,Net sales,3099.80
+2025-02-07,Overpayments,0.00
+2025-02-07,Taxes expected,288.24
+2025-02-07,Taxes collected,288.24
+2025-02-07,Tips,29.47
+2025-02-07,Amount collected,3417.51
+2025-02-07,Unpaid balance,0.00
+2025-02-08,Gross sales,3379.20
+2025-02-08,Refunds,0.00
+2025-02-08,Net sales,3379.20
+2025-02-08,Overpayments,0.00
+2025-02-08,Taxes expected,310.48
+2025-02-08,Taxes collected,310.48
+2025-02-08,Tips,42.12
+2025-02-08,Amount collected,3731.80
+2025-02-08,Unpaid balance,0.00
+2025-02-09,Gross sales,2518.81
+2025-02-09,Refunds,0.00
+2025-02-09,Net sales,2518.81
+2025-02-09,Overpayments,0.00
+2025-02-09,Taxes expected,230.00
+2025-02-09,Taxes collected,230.00
+2025-02-09,Tips,62.18
+2025-02-09,Amount collected,2810.99
+2025-02-09,Unpaid balance,0.00
+2025-02-10,Gross sales,1832.62
+2025-02-10,Refunds,0.00
+2025-02-10,Net sales,1832.62
+2025-02-10,Overpayments,0.00
+2025-02-10,Taxes expected,165.61
+2025-02-10,Taxes collected,165.61
+2025-02-10,Tips,25.20
+2025-02-10,Amount collected,2023.43
+2025-02-10,Unpaid balance,0.00
+2025-02-11,Gross sales,1851.21
+2025-02-11,Refunds,0.00
+2025-02-11,Net sales,1851.21
+2025-02-11,Overpayments,0.00
+2025-02-11,Taxes expected,168.03
+2025-02-11,Taxes collected,168.03
+2025-02-11,Tips,25.71
+2025-02-11,Amount collected,2044.95
+2025-02-11,Unpaid balance,0.00
+2025-02-12,Gross sales,2102.43
+2025-02-12,Refunds,0.00
+2025-02-12,Net sales,2102.43
+2025-02-12,Overpayments,0.00
+2025-02-12,Taxes expected,192.87
+2025-02-12,Taxes collected,192.87
+2025-02-12,Tips,27.51
+2025-02-12,Amount collected,2322.81
+2025-02-12,Unpaid balance,0.00
+2025-02-13,Gross sales,2470.88
+2025-02-13,Refunds,0.00
+2025-02-13,Net sales,2470.88
+2025-02-13,Overpayments,0.00
+2025-02-13,Taxes expected,223.66
+2025-02-13,Taxes collected,223.66
+2025-02-13,Tips,34.30
+2025-02-13,Amount collected,2728.84
+2025-02-13,Unpaid balance,0.00
+2025-02-14,Gross sales,2638.55
+2025-02-14,Refunds,0.00
+2025-02-14,Net sales,2638.55
+2025-02-14,Overpayments,0.00
+2025-02-14,Taxes expected,241.28
+2025-02-14,Taxes collected,241.28
+2025-02-14,Tips,35.71
+2025-02-14,Amount collected,2915.54
+2025-02-14,Unpaid balance,0.00
+2025-02-15,Gross sales,3476.76
+2025-02-15,Refunds,0.00
+2025-02-15,Net sales,3476.76
+2025-02-15,Overpayments,0.00
+2025-02-15,Taxes expected,316.86
+2025-02-15,Taxes collected,316.86
+2025-02-15,Tips,73.34
+2025-02-15,Amount collected,3866.96
+2025-02-15,Unpaid balance,0.00
+2025-02-16,Gross sales,2672.62
+2025-02-16,Refunds,0.00
+2025-02-16,Net sales,2672.62
+2025-02-16,Overpayments,0.00
+2025-02-16,Taxes expected,244.13
+2025-02-16,Taxes collected,244.13
+2025-02-16,Tips,59.98
+2025-02-16,Amount collected,2976.73
+2025-02-16,Unpaid balance,0.00
+2025-02-17,Gross sales,1660.06
+2025-02-17,Refunds,0.00
+2025-02-17,Net sales,1660.06
+2025-02-17,Overpayments,0.00
+2025-02-17,Taxes expected,150.54
+2025-02-17,Taxes collected,150.54
+2025-02-17,Tips,35.92
+2025-02-17,Amount collected,1846.52
+2025-02-17,Unpaid balance,0.00
+2025-02-18,Gross sales,1708.37
+2025-02-18,Refunds,0.00
+2025-02-18,Net sales,1708.37
+2025-02-18,Overpayments,0.00
+2025-02-18,Taxes expected,158.79
+2025-02-18,Taxes collected,158.79
+2025-02-18,Tips,33.27
+2025-02-18,Amount collected,1900.43
+2025-02-18,Unpaid balance,0.00
+2025-02-19,Gross sales,2200.29
+2025-02-19,Refunds,0.00
+2025-02-19,Net sales,2200.29
+2025-02-19,Overpayments,0.00
+2025-02-19,Taxes expected,204.48
+2025-02-19,Taxes collected,204.48
+2025-02-19,Tips,36.38
+2025-02-19,Amount collected,2441.15
+2025-02-19,Unpaid balance,0.00
+2025-02-20,Gross sales,2155.68
+2025-02-20,Refunds,0.00
+2025-02-20,Net sales,2155.68
+2025-02-20,Overpayments,0.00
+2025-02-20,Taxes expected,199.70
+2025-02-20,Taxes collected,199.70
+2025-02-20,Tips,52.06
+2025-02-20,Amount collected,2407.44
+2025-02-20,Unpaid balance,0.00
+2025-02-21,Gross sales,2820.02
+2025-02-21,Refunds,0.00
+2025-02-21,Net sales,2820.02
+2025-02-21,Overpayments,0.00
+2025-02-21,Taxes expected,255.58
+2025-02-21,Taxes collected,255.58
+2025-02-21,Tips,45.51
+2025-02-21,Amount collected,3121.11
+2025-02-21,Unpaid balance,0.00
+2025-02-22,Gross sales,3331.50
+2025-02-22,Refunds,0.00
+2025-02-22,Net sales,3331.50
+2025-02-22,Overpayments,0.00
+2025-02-22,Taxes expected,305.62
+2025-02-22,Taxes collected,305.62
+2025-02-22,Tips,37.87
+2025-02-22,Amount collected,3674.99
+2025-02-22,Unpaid balance,0.00
+2025-02-23,Gross sales,3130.14
+2025-02-23,Refunds,0.00
+2025-02-23,Net sales,3130.14
+2025-02-23,Overpayments,0.00
+2025-02-23,Taxes expected,287.33
+2025-02-23,Taxes collected,287.33
+2025-02-23,Tips,76.99
+2025-02-23,Amount collected,3494.46
+2025-02-23,Unpaid balance,0.00
+2025-02-24,Gross sales,1836.35
+2025-02-24,Refunds,0.00
+2025-02-24,Net sales,1836.35
+2025-02-24,Overpayments,0.00
+2025-02-24,Taxes expected,170.67
+2025-02-24,Taxes collected,170.67
+2025-02-24,Tips,43.36
+2025-02-24,Amount collected,2050.38
+2025-02-24,Unpaid balance,0.00
+2025-02-25,Gross sales,2072.57
+2025-02-25,Refunds,0.00
+2025-02-25,Net sales,2072.57
+2025-02-25,Overpayments,0.00
+2025-02-25,Taxes expected,192.87
+2025-02-25,Taxes collected,192.87
+2025-02-25,Tips,42.05
+2025-02-25,Amount collected,2307.49
+2025-02-25,Unpaid balance,0.00
+2025-02-26,Gross sales,2255.09
+2025-02-26,Refunds,0.00
+2025-02-26,Net sales,2255.09
+2025-02-26,Overpayments,0.00
+2025-02-26,Taxes expected,208.43
+2025-02-26,Taxes collected,208.43
+2025-02-26,Tips,21.74
+2025-02-26,Amount collected,2485.26
+2025-02-26,Unpaid balance,0.00
+2025-02-27,Gross sales,2026.53
+2025-02-27,Refunds,0.00
+2025-02-27,Net sales,2026.53
+2025-02-27,Overpayments,0.00
+2025-02-27,Taxes expected,185.64
+2025-02-27,Taxes collected,185.64
+2025-02-27,Tips,39.71
+2025-02-27,Amount collected,2251.88
+2025-02-27,Unpaid balance,0.00
+2025-02-28,Gross sales,2819.33
+2025-02-28,Refunds,0.00
+2025-02-28,Net sales,2819.33
+2025-02-28,Overpayments,0.00
+2025-02-28,Taxes expected,261.27
+2025-02-28,Taxes collected,261.27
+2025-02-28,Tips,54.18
+2025-02-28,Amount collected,3134.78
+2025-02-28,Unpaid balance,0.00
+2025-03-01,Gross sales,3581.41
+2025-03-01,Refunds,0.00
+2025-03-01,Net sales,3581.41
+2025-03-01,Overpayments,0.00
+2025-03-01,Taxes expected,332.24
+2025-03-01,Taxes collected,332.24
+2025-03-01,Tips,65.14
+2025-03-01,Amount collected,3978.79
+2025-03-01,Unpaid balance,0.00
+2025-03-02,Gross sales,3256.12
+2025-03-02,Refunds,0.00
+2025-03-02,Net sales,3256.12
+2025-03-02,Overpayments,0.00
+2025-03-02,Taxes expected,299.20
+2025-03-02,Taxes collected,299.20
+2025-03-02,Tips,53.90
+2025-03-02,Amount collected,3609.22
+2025-03-02,Unpaid balance,0.00
+2025-03-03,Gross sales,2077.54
+2025-03-03,Refunds,0.00
+2025-03-03,Net sales,2077.54
+2025-03-03,Overpayments,0.00
+2025-03-03,Taxes expected,190.59
+2025-03-03,Taxes collected,190.59
+2025-03-03,Tips,44.78
+2025-03-03,Amount collected,2312.91
+2025-03-03,Unpaid balance,0.00
+2025-03-04,Gross sales,1971.58
+2025-03-04,Refunds,0.00
+2025-03-04,Net sales,1971.58
+2025-03-04,Overpayments,0.00
+2025-03-04,Taxes expected,183.38
+2025-03-04,Taxes collected,183.38
+2025-03-04,Tips,49.41
+2025-03-04,Amount collected,2204.37
+2025-03-04,Unpaid balance,0.00
+2025-03-05,Gross sales,2473.55
+2025-03-05,Refunds,0.00
+2025-03-05,Net sales,2473.55
+2025-03-05,Overpayments,0.00
+2025-03-05,Taxes expected,227.69
+2025-03-05,Taxes collected,227.69
+2025-03-05,Tips,42.06
+2025-03-05,Amount collected,2743.30
+2025-03-05,Unpaid balance,0.00
+2025-03-06,Gross sales,2376.03
+2025-03-06,Refunds,0.00
+2025-03-06,Net sales,2376.03
+2025-03-06,Overpayments,0.00
+2025-03-06,Taxes expected,216.37
+2025-03-06,Taxes collected,216.37
+2025-03-06,Tips,42.02
+2025-03-06,Amount collected,2634.42
+2025-03-06,Unpaid balance,0.00
+2025-03-07,Gross sales,2821.24
+2025-03-07,Refunds,0.00
+2025-03-07,Net sales,2821.24
+2025-03-07,Overpayments,0.00
+2025-03-07,Taxes expected,258.18
+2025-03-07,Taxes collected,258.18
+2025-03-07,Tips,60.05
+2025-03-07,Amount collected,3139.47
+2025-03-07,Unpaid balance,0.00
+2025-03-08,Gross sales,2986.49
+2025-03-08,Refunds,0.00
+2025-03-08,Net sales,2986.49
+2025-03-08,Overpayments,0.00
+2025-03-08,Taxes expected,271.69
+2025-03-08,Taxes collected,271.69
+2025-03-08,Tips,69.07
+2025-03-08,Amount collected,3327.25
+2025-03-08,Unpaid balance,0.00
+2025-03-09,Gross sales,2787.92
+2025-03-09,Refunds,0.00
+2025-03-09,Net sales,2787.92
+2025-03-09,Overpayments,0.00
+2025-03-09,Taxes expected,256.22
+2025-03-09,Taxes collected,254.75
+2025-03-09,Tips,43.81
+2025-03-09,Amount collected,3086.48
+2025-03-09,Unpaid balance,0.00
+2025-03-10,Gross sales,1915.75
+2025-03-10,Refunds,0.00
+2025-03-10,Net sales,1915.75
+2025-03-10,Overpayments,0.00
+2025-03-10,Taxes expected,176.62
+2025-03-10,Taxes collected,176.62
+2025-03-10,Tips,37.15
+2025-03-10,Amount collected,2129.52
+2025-03-10,Unpaid balance,0.00
+2025-03-11,Gross sales,0.00
+2025-03-11,Refunds,0.00
+2025-03-11,Net sales,0.00
+2025-03-11,Overpayments,0.00
+2025-03-11,Taxes expected,0.00
+2025-03-11,Taxes collected,0.00
+2025-03-11,Tips,0.00
+2025-03-11,Amount collected,0.00
+2025-03-11,Unpaid balance,0.00
+2025-03-12,Gross sales,2050.01
+2025-03-12,Refunds,0.00
+2025-03-12,Net sales,2050.01
+2025-03-12,Overpayments,0.00
+2025-03-12,Taxes expected,190.62
+2025-03-12,Taxes collected,190.62
+2025-03-12,Tips,52.22
+2025-03-12,Amount collected,2292.85
+2025-03-12,Unpaid balance,0.00
+2025-03-13,Gross sales,2665.04
+2025-03-13,Refunds,0.00
+2025-03-13,Net sales,2665.04
+2025-03-13,Overpayments,0.00
+2025-03-13,Taxes expected,247.29
+2025-03-13,Taxes collected,247.29
+2025-03-13,Tips,70.02
+2025-03-13,Amount collected,2982.35
+2025-03-13,Unpaid balance,0.00
+2025-03-14,Gross sales,3457.58
+2025-03-14,Refunds,0.00
+2025-03-14,Net sales,3457.58
+2025-03-14,Overpayments,0.00
+2025-03-14,Taxes expected,321.62
+2025-03-14,Taxes collected,321.62
+2025-03-14,Tips,33.24
+2025-03-14,Amount collected,3812.44
+2025-03-14,Unpaid balance,0.00
+2025-03-15,Gross sales,3542.99
+2025-03-15,Refunds,0.00
+2025-03-15,Net sales,3542.99
+2025-03-15,Overpayments,0.00
+2025-03-15,Taxes expected,329.41
+2025-03-15,Taxes collected,329.41
+2025-03-15,Tips,77.69
+2025-03-15,Amount collected,3950.09
+2025-03-15,Unpaid balance,0.00
+2025-03-16,Gross sales,2568.49
+2025-03-16,Refunds,0.00
+2025-03-16,Net sales,2568.49
+2025-03-16,Overpayments,0.00
+2025-03-16,Taxes expected,239.06
+2025-03-16,Taxes collected,239.06
+2025-03-16,Tips,57.40
+2025-03-16,Amount collected,2864.95
+2025-03-16,Unpaid balance,0.00
+2025-03-17,Gross sales,1803.31
+2025-03-17,Refunds,0.00
+2025-03-17,Net sales,1803.31
+2025-03-17,Overpayments,0.00
+2025-03-17,Taxes expected,166.36
+2025-03-17,Taxes collected,166.36
+2025-03-17,Tips,34.59
+2025-03-17,Amount collected,2004.26
+2025-03-17,Unpaid balance,0.00
+2025-03-18,Gross sales,2185.48
+2025-03-18,Refunds,0.00
+2025-03-18,Net sales,2185.48
+2025-03-18,Overpayments,0.00
+2025-03-18,Taxes expected,197.97
+2025-03-18,Taxes collected,197.97
+2025-03-18,Tips,48.78
+2025-03-18,Amount collected,2432.23
+2025-03-18,Unpaid balance,0.00
+2025-03-19,Gross sales,2533.06
+2025-03-19,Refunds,0.00
+2025-03-19,Net sales,2533.06
+2025-03-19,Overpayments,0.00
+2025-03-19,Taxes expected,235.09
+2025-03-19,Taxes collected,235.09
+2025-03-19,Tips,55.94
+2025-03-19,Amount collected,2824.09
+2025-03-19,Unpaid balance,0.00
+2025-03-20,Gross sales,2660.72
+2025-03-20,Refunds,0.00
+2025-03-20,Net sales,2660.72
+2025-03-20,Overpayments,0.00
+2025-03-20,Taxes expected,241.91
+2025-03-20,Taxes collected,241.91
+2025-03-20,Tips,56.96
+2025-03-20,Amount collected,2959.59
+2025-03-20,Unpaid balance,0.00
+2025-03-21,Gross sales,3370.16
+2025-03-21,Refunds,0.00
+2025-03-21,Net sales,3370.16
+2025-03-21,Overpayments,0.00
+2025-03-21,Taxes expected,308.54
+2025-03-21,Taxes collected,308.54
+2025-03-21,Tips,33.50
+2025-03-21,Amount collected,3712.20
+2025-03-21,Unpaid balance,0.00
+2025-03-22,Gross sales,3226.02
+2025-03-22,Refunds,0.00
+2025-03-22,Net sales,3226.02
+2025-03-22,Overpayments,0.00
+2025-03-22,Taxes expected,293.42
+2025-03-22,Taxes collected,293.42
+2025-03-22,Tips,39.73
+2025-03-22,Amount collected,3559.17
+2025-03-22,Unpaid balance,0.00
+2025-03-23,Gross sales,2800.11
+2025-03-23,Refunds,0.00
+2025-03-23,Net sales,2800.11
+2025-03-23,Overpayments,0.00
+2025-03-23,Taxes expected,257.08
+2025-03-23,Taxes collected,257.08
+2025-03-23,Tips,69.75
+2025-03-23,Amount collected,3126.94
+2025-03-23,Unpaid balance,0.00
+2025-03-24,Gross sales,2007.15
+2025-03-24,Refunds,0.00
+2025-03-24,Net sales,2007.15
+2025-03-24,Overpayments,0.00
+2025-03-24,Taxes expected,186.77
+2025-03-24,Taxes collected,186.77
+2025-03-24,Tips,49.85
+2025-03-24,Amount collected,2243.77
+2025-03-24,Unpaid balance,0.00
+2025-03-25,Gross sales,2145.26
+2025-03-25,Refunds,0.00
+2025-03-25,Net sales,2145.26
+2025-03-25,Overpayments,0.00
+2025-03-25,Taxes expected,196.15
+2025-03-25,Taxes collected,196.15
+2025-03-25,Tips,21.90
+2025-03-25,Amount collected,2363.31
+2025-03-25,Unpaid balance,0.00
+2025-03-26,Gross sales,2514.44
+2025-03-26,Refunds,0.00
+2025-03-26,Net sales,2514.44
+2025-03-26,Overpayments,0.00
+2025-03-26,Taxes expected,228.38
+2025-03-26,Taxes collected,228.38
+2025-03-26,Tips,43.61
+2025-03-26,Amount collected,2786.43
+2025-03-26,Unpaid balance,0.00
+2025-03-27,Gross sales,2235.53
+2025-03-27,Refunds,0.00
+2025-03-27,Net sales,2235.53
+2025-03-27,Overpayments,0.00
+2025-03-27,Taxes expected,204.66
+2025-03-27,Taxes collected,204.66
+2025-03-27,Tips,50.86
+2025-03-27,Amount collected,2491.05
+2025-03-27,Unpaid balance,0.00
+2025-03-28,Gross sales,2917.57
+2025-03-28,Refunds,0.00
+2025-03-28,Net sales,2917.57
+2025-03-28,Overpayments,0.00
+2025-03-28,Taxes expected,266.83
+2025-03-28,Taxes collected,266.83
+2025-03-28,Tips,61.30
+2025-03-28,Amount collected,3245.70
+2025-03-28,Unpaid balance,0.00
+2025-03-29,Gross sales,3519.44
+2025-03-29,Refunds,0.00
+2025-03-29,Net sales,3519.44
+2025-03-29,Overpayments,0.00
+2025-03-29,Taxes expected,324.71
+2025-03-29,Taxes collected,324.71
+2025-03-29,Tips,39.73
+2025-03-29,Amount collected,3883.88
+2025-03-29,Unpaid balance,0.00
+2025-03-30,Gross sales,3095.70
+2025-03-30,Refunds,0.00
+2025-03-30,Net sales,3095.70
+2025-03-30,Overpayments,0.00
+2025-03-30,Taxes expected,280.09
+2025-03-30,Taxes collected,280.09
+2025-03-30,Tips,43.63
+2025-03-30,Amount collected,3419.42
+2025-03-30,Unpaid balance,0.00
+2025-03-31,Gross sales,1963.49
+2025-03-31,Refunds,0.00
+2025-03-31,Net sales,1963.49
+2025-03-31,Overpayments,0.00
+2025-03-31,Taxes expected,181.44
+2025-03-31,Taxes collected,181.44
+2025-03-31,Tips,31.57
+2025-03-31,Amount collected,2176.50
+2025-03-31,Unpaid balance,0.00
+2025-04-01,Gross sales,2104.14
+2025-04-01,Refunds,0.00
+2025-04-01,Net sales,2104.14
+2025-04-01,Overpayments,0.00
+2025-04-01,Taxes expected,193.97
+2025-04-01,Taxes collected,193.97
+2025-04-01,Tips,54.84
+2025-04-01,Amount collected,2352.95
+2025-04-01,Unpaid balance,0.00
+2025-04-02,Gross sales,2003.04
+2025-04-02,Refunds,0.00
+2025-04-02,Net sales,2003.04
+2025-04-02,Overpayments,0.00
+2025-04-02,Taxes expected,182.81
+2025-04-02,Taxes collected,182.81
+2025-04-02,Tips,41.06
+2025-04-02,Amount collected,2226.91
+2025-04-02,Unpaid balance,0.00
+2025-04-03,Gross sales,2266.06
+2025-04-03,Refunds,0.00
+2025-04-03,Net sales,2266.06
+2025-04-03,Overpayments,0.00
+2025-04-03,Taxes expected,209.50
+2025-04-03,Taxes collected,209.50
+2025-04-03,Tips,45.82
+2025-04-03,Amount collected,2521.38
+2025-04-03,Unpaid balance,0.00
+2025-04-04,Gross sales,2784.66
+2025-04-04,Refunds,0.00
+2025-04-04,Net sales,2784.66
+2025-04-04,Overpayments,0.00
+2025-04-04,Taxes expected,252.98
+2025-04-04,Taxes collected,252.98
+2025-04-04,Tips,43.71
+2025-04-04,Amount collected,3081.35
+2025-04-04,Unpaid balance,0.00
+2025-04-05,Gross sales,2966.94
+2025-04-05,Refunds,0.00
+2025-04-05,Net sales,2966.94
+2025-04-05,Overpayments,0.00
+2025-04-05,Taxes expected,271.41
+2025-04-05,Taxes collected,271.41
+2025-04-05,Tips,51.40
+2025-04-05,Amount collected,3289.75
+2025-04-05,Unpaid balance,0.00
+2025-04-06,Gross sales,2727.45
+2025-04-06,Refunds,0.00
+2025-04-06,Net sales,2727.45
+2025-04-06,Overpayments,0.00
+2025-04-06,Taxes expected,248.12
+2025-04-06,Taxes collected,248.12
+2025-04-06,Tips,52.21
+2025-04-06,Amount collected,3027.78
+2025-04-06,Unpaid balance,0.00
+2025-04-07,Gross sales,1791.46
+2025-04-07,Refunds,0.00
+2025-04-07,Net sales,1791.46
+2025-04-07,Overpayments,0.00
+2025-04-07,Taxes expected,163.33
+2025-04-07,Taxes collected,163.33
+2025-04-07,Tips,33.74
+2025-04-07,Amount collected,1988.53
+2025-04-07,Unpaid balance,0.00
+2025-04-08,Gross sales,1929.76
+2025-04-08,Refunds,0.00
+2025-04-08,Net sales,1929.76
+2025-04-08,Overpayments,0.00
+2025-04-08,Taxes expected,177.31
+2025-04-08,Taxes collected,177.31
+2025-04-08,Tips,41.50
+2025-04-08,Amount collected,2148.57
+2025-04-08,Unpaid balance,0.00
+2025-04-09,Gross sales,2254.30
+2025-04-09,Refunds,0.00
+2025-04-09,Net sales,2254.30
+2025-04-09,Overpayments,0.00
+2025-04-09,Taxes expected,204.08
+2025-04-09,Taxes collected,204.08
+2025-04-09,Tips,48.29
+2025-04-09,Amount collected,2506.67
+2025-04-09,Unpaid balance,0.00
+2025-04-10,Gross sales,2361.00
+2025-04-10,Refunds,0.00
+2025-04-10,Net sales,2361.00
+2025-04-10,Overpayments,0.00
+2025-04-10,Taxes expected,217.24
+2025-04-10,Taxes collected,217.24
+2025-04-10,Tips,34.26
+2025-04-10,Amount collected,2612.50
+2025-04-10,Unpaid balance,0.00
+2025-04-11,Gross sales,3110.87
+2025-04-11,Refunds,0.00
+2025-04-11,Net sales,3110.87
+2025-04-11,Overpayments,0.00
+2025-04-11,Taxes expected,286.50
+2025-04-11,Taxes collected,286.50
+2025-04-11,Tips,33.43
+2025-04-11,Amount collected,3430.80
+2025-04-11,Unpaid balance,0.00
+2025-04-12,Gross sales,3499.05
+2025-04-12,Refunds,0.00
+2025-04-12,Net sales,3499.05
+2025-04-12,Overpayments,0.00
+2025-04-12,Taxes expected,318.76
+2025-04-12,Taxes collected,318.76
+2025-04-12,Tips,82.39
+2025-04-12,Amount collected,3900.20
+2025-04-12,Unpaid balance,0.00
+2025-04-13,Gross sales,3180.34
+2025-04-13,Refunds,0.00
+2025-04-13,Net sales,3180.34
+2025-04-13,Overpayments,0.00
+2025-04-13,Taxes expected,291.99
+2025-04-13,Taxes collected,291.99
+2025-04-13,Tips,53.29
+2025-04-13,Amount collected,3525.62
+2025-04-13,Unpaid balance,0.00
+2025-04-14,Gross sales,1914.47
+2025-04-14,Refunds,0.00
+2025-04-14,Net sales,1914.47
+2025-04-14,Overpayments,0.00
+2025-04-14,Taxes expected,174.10
+2025-04-14,Taxes collected,174.10
+2025-04-14,Tips,31.80
+2025-04-14,Amount collected,2120.37
+2025-04-14,Unpaid balance,0.00
+2025-04-15,Gross sales,1720.73
+2025-04-15,Refunds,0.00
+2025-04-15,Net sales,1720.73
+2025-04-15,Overpayments,0.00
+2025-04-15,Taxes expected,157.69
+2025-04-15,Taxes collected,157.69
+2025-04-15,Tips,18.15
+2025-04-15,Amount collected,1896.57
+2025-04-15,Unpaid balance,0.00
+2025-04-16,Gross sales,2563.71
+2025-04-16,Refunds,0.00
+2025-04-16,Net sales,2563.71
+2025-04-16,Overpayments,0.00
+2025-04-16,Taxes expected,233.83
+2025-04-16,Taxes collected,233.38
+2025-04-16,Tips,60.70
+2025-04-16,Amount collected,2857.79
+2025-04-16,Unpaid balance,0.00
+2025-04-17,Gross sales,2445.15
+2025-04-17,Refunds,0.00
+2025-04-17,Net sales,2445.15
+2025-04-17,Overpayments,0.00
+2025-04-17,Taxes expected,223.76
+2025-04-17,Taxes collected,223.76
+2025-04-17,Tips,29.97
+2025-04-17,Amount collected,2698.88
+2025-04-17,Unpaid balance,0.00
+2025-04-18,Gross sales,3451.74
+2025-04-18,Refunds,0.00
+2025-04-18,Net sales,3451.74
+2025-04-18,Overpayments,0.00
+2025-04-18,Taxes expected,320.09
+2025-04-18,Taxes collected,320.09
+2025-04-18,Tips,65.12
+2025-04-18,Amount collected,3831.32
+2025-04-18,Unpaid balance,5.63
+2025-04-19,Gross sales,3166.08
+2025-04-19,Refunds,0.00
+2025-04-19,Net sales,3166.08
+2025-04-19,Overpayments,0.00
+2025-04-19,Taxes expected,286.71
+2025-04-19,Taxes collected,285.15
+2025-04-19,Tips,49.07
+2025-04-19,Amount collected,3500.30
+2025-04-19,Unpaid balance,0.00
+2025-04-20,Gross sales,3211.31
+2025-04-20,Refunds,0.00
+2025-04-20,Net sales,3211.31
+2025-04-20,Overpayments,0.00
+2025-04-20,Taxes expected,293.76
+2025-04-20,Taxes collected,293.76
+2025-04-20,Tips,73.01
+2025-04-20,Amount collected,3578.08
+2025-04-20,Unpaid balance,0.00
+2025-04-21,Gross sales,1802.41
+2025-04-21,Refunds,0.00
+2025-04-21,Net sales,1802.41
+2025-04-21,Overpayments,0.00
+2025-04-21,Taxes expected,167.51
+2025-04-21,Taxes collected,167.51
+2025-04-21,Tips,27.90
+2025-04-21,Amount collected,1997.82
+2025-04-21,Unpaid balance,0.00
+2025-04-22,Gross sales,1851.87
+2025-04-22,Refunds,0.00
+2025-04-22,Net sales,1851.87
+2025-04-22,Overpayments,0.00
+2025-04-22,Taxes expected,171.90
+2025-04-22,Taxes collected,171.90
+2025-04-22,Tips,17.94
+2025-04-22,Amount collected,2041.71
+2025-04-22,Unpaid balance,0.00
+2025-04-23,Gross sales,2552.07
+2025-04-23,Refunds,0.00
+2025-04-23,Net sales,2552.07
+2025-04-23,Overpayments,0.00
+2025-04-23,Taxes expected,234.53
+2025-04-23,Taxes collected,234.53
+2025-04-23,Tips,48.28
+2025-04-23,Amount collected,2834.88
+2025-04-23,Unpaid balance,0.00
+2025-04-24,Gross sales,2285.99
+2025-04-24,Refunds,0.00
+2025-04-24,Net sales,2285.99
+2025-04-24,Overpayments,0.00
+2025-04-24,Taxes expected,212.67
+2025-04-24,Taxes collected,212.67
+2025-04-24,Tips,46.83
+2025-04-24,Amount collected,2545.49
+2025-04-24,Unpaid balance,0.00
+2025-04-25,Gross sales,2876.87
+2025-04-25,Refunds,0.00
+2025-04-25,Net sales,2876.87
+2025-04-25,Overpayments,0.00
+2025-04-25,Taxes expected,261.43
+2025-04-25,Taxes collected,261.43
+2025-04-25,Tips,63.80
+2025-04-25,Amount collected,3202.10
+2025-04-25,Unpaid balance,0.00
+2025-04-26,Gross sales,2927.40
+2025-04-26,Refunds,0.00
+2025-04-26,Net sales,2927.40
+2025-04-26,Overpayments,0.00
+2025-04-26,Taxes expected,266.10
+2025-04-26,Taxes collected,266.10
+2025-04-26,Tips,67.81
+2025-04-26,Amount collected,3261.31
+2025-04-26,Unpaid balance,0.00
+2025-04-27,Gross sales,3237.68
+2025-04-27,Refunds,0.00
+2025-04-27,Net sales,3237.68
+2025-04-27,Overpayments,0.00
+2025-04-27,Taxes expected,299.71
+2025-04-27,Taxes collected,299.71
+2025-04-27,Tips,53.79
+2025-04-27,Amount collected,3591.18
+2025-04-27,Unpaid balance,0.00
+2025-04-28,Gross sales,1876.31
+2025-04-28,Refunds,0.00
+2025-04-28,Net sales,1876.31
+2025-04-28,Overpayments,0.00
+2025-04-28,Taxes expected,174.31
+2025-04-28,Taxes collected,174.31
+2025-04-28,Tips,21.53
+2025-04-28,Amount collected,2072.15
+2025-04-28,Unpaid balance,0.00
+2025-04-29,Gross sales,1999.23
+2025-04-29,Refunds,0.00
+2025-04-29,Net sales,1999.23
+2025-04-29,Overpayments,0.00
+2025-04-29,Taxes expected,184.15
+2025-04-29,Taxes collected,184.15
+2025-04-29,Tips,37.71
+2025-04-29,Amount collected,2221.09
+2025-04-29,Unpaid balance,0.00
+2025-04-30,Gross sales,2030.19
+2025-04-30,Refunds,0.00
+2025-04-30,Net sales,2030.19
+2025-04-30,Overpayments,0.00
+2025-04-30,Taxes expected,188.26
+2025-04-30,Taxes collected,188.26
+2025-04-30,Tips,43.56
+2025-04-30,Amount collected,2262.01
+2025-04-30,Unpaid balance,0.00
+2025-05-01,Gross sales,2403.03
+2025-05-01,Refunds,0.00
+2025-05-01,Net sales,2403.03
+2025-05-01,Overpayments,0.00
+2025-05-01,Taxes expected,217.26
+2025-05-01,Taxes collected,217.26
+2025-05-01,Tips,38.42
+2025-05-01,Amount collected,2658.71
+2025-05-01,Unpaid balance,0.00
+2025-05-02,Gross sales,3331.10
+2025-05-02,Refunds,0.00
+2025-05-02,Net sales,3331.10
+2025-05-02,Overpayments,0.00
+2025-05-02,Taxes expected,305.61
+2025-05-02,Taxes collected,305.61
+2025-05-02,Tips,48.75
+2025-05-02,Amount collected,3685.46
+2025-05-02,Unpaid balance,0.00
+2025-05-03,Gross sales,3516.82
+2025-05-03,Refunds,0.00
+2025-05-03,Net sales,3516.82
+2025-05-03,Overpayments,0.00
+2025-05-03,Taxes expected,322.12
+2025-05-03,Taxes collected,322.12
+2025-05-03,Tips,60.85
+2025-05-03,Amount collected,3899.79
+2025-05-03,Unpaid balance,0.00
+2025-05-04,Gross sales,3213.08
+2025-05-04,Refunds,0.00
+2025-05-04,Net sales,3213.08
+2025-05-04,Overpayments,0.00
+2025-05-04,Taxes expected,296.18
+2025-05-04,Taxes collected,296.18
+2025-05-04,Tips,82.42
+2025-05-04,Amount collected,3591.68
+2025-05-04,Unpaid balance,0.00
+2025-05-05,Gross sales,1885.68
+2025-05-05,Refunds,0.00
+2025-05-05,Net sales,1885.68
+2025-05-05,Overpayments,0.00
+2025-05-05,Taxes expected,175.55
+2025-05-05,Taxes collected,175.55
+2025-05-05,Tips,46.45
+2025-05-05,Amount collected,2107.68
+2025-05-05,Unpaid balance,0.00
+2025-05-06,Gross sales,0.00
+2025-05-06,Refunds,0.00
+2025-05-06,Net sales,0.00
+2025-05-06,Overpayments,0.00
+2025-05-06,Taxes expected,0.00
+2025-05-06,Taxes collected,0.00
+2025-05-06,Tips,0.00
+2025-05-06,Amount collected,0.00
+2025-05-06,Unpaid balance,0.00
+2025-05-07,Gross sales,2127.76
+2025-05-07,Refunds,0.00
+2025-05-07,Net sales,2127.76
+2025-05-07,Overpayments,0.00
+2025-05-07,Taxes expected,192.87
+2025-05-07,Taxes collected,192.87
+2025-05-07,Tips,23.57
+2025-05-07,Amount collected,2344.20
+2025-05-07,Unpaid balance,0.00
+2025-05-08,Gross sales,2229.23
+2025-05-08,Refunds,0.00
+2025-05-08,Net sales,2229.23
+2025-05-08,Overpayments,0.00
+2025-05-08,Taxes expected,204.17
+2025-05-08,Taxes collected,204.17
+2025-05-08,Tips,22.92
+2025-05-08,Amount collected,2456.32
+2025-05-08,Unpaid balance,0.00
+2025-05-09,Gross sales,2937.36
+2025-05-09,Refunds,0.00
+2025-05-09,Net sales,2937.36
+2025-05-09,Overpayments,0.00
+2025-05-09,Taxes expected,272.71
+2025-05-09,Taxes collected,272.71
+2025-05-09,Tips,51.79
+2025-05-09,Amount collected,3261.86
+2025-05-09,Unpaid balance,0.00
+2025-05-10,Gross sales,3275.14
+2025-05-10,Refunds,0.00
+2025-05-10,Net sales,3275.14
+2025-05-10,Overpayments,0.00
+2025-05-10,Taxes expected,302.30
+2025-05-10,Taxes collected,302.30
+2025-05-10,Tips,76.65
+2025-05-10,Amount collected,3654.09
+2025-05-10,Unpaid balance,0.00
+2025-05-11,Gross sales,3365.63
+2025-05-11,Refunds,0.00
+2025-05-11,Net sales,3365.63
+2025-05-11,Overpayments,0.00
+2025-05-11,Taxes expected,307.11
+2025-05-11,Taxes collected,307.11
+2025-05-11,Tips,32.66
+2025-05-11,Amount collected,3705.40
+2025-05-11,Unpaid balance,0.00
+2025-05-12,Gross sales,2099.20
+2025-05-12,Refunds,0.00
+2025-05-12,Net sales,2099.20
+2025-05-12,Overpayments,0.00
+2025-05-12,Taxes expected,192.56
+2025-05-12,Taxes collected,192.03
+2025-05-12,Tips,50.81
+2025-05-12,Amount collected,2342.04
+2025-05-12,Unpaid balance,0.00
+2025-05-13,Gross sales,1890.43
+2025-05-13,Refunds,0.00
+2025-05-13,Net sales,1890.43
+2025-05-13,Overpayments,0.00
+2025-05-13,Taxes expected,170.96
+2025-05-13,Taxes collected,170.96
+2025-05-13,Tips,18.17
+2025-05-13,Amount collected,2079.56
+2025-05-13,Unpaid balance,0.00
+2025-05-14,Gross sales,2350.45
+2025-05-14,Refunds,0.00
+2025-05-14,Net sales,2350.45
+2025-05-14,Overpayments,0.00
+2025-05-14,Taxes expected,215.72
+2025-05-14,Taxes collected,215.72
+2025-05-14,Tips,23.25
+2025-05-14,Amount collected,2589.42
+2025-05-14,Unpaid balance,0.00
+2025-05-15,Gross sales,2295.16
+2025-05-15,Refunds,0.00
+2025-05-15,Net sales,2295.16
+2025-05-15,Overpayments,0.00
+2025-05-15,Taxes expected,212.20
+2025-05-15,Taxes collected,212.20
+2025-05-15,Tips,25.27
+2025-05-15,Amount collected,2532.63
+2025-05-15,Unpaid balance,0.00
+2025-05-16,Gross sales,3159.44
+2025-05-16,Refunds,0.00
+2025-05-16,Net sales,3159.44
+2025-05-16,Overpayments,0.00
+2025-05-16,Taxes expected,290.49
+2025-05-16,Taxes collected,289.50
+2025-05-16,Tips,51.22
+2025-05-16,Amount collected,3500.16
+2025-05-16,Unpaid balance,0.00
+2025-05-17,Gross sales,3065.44
+2025-05-17,Refunds,0.00
+2025-05-17,Net sales,3065.44
+2025-05-17,Overpayments,0.00
+2025-05-17,Taxes expected,282.73
+2025-05-17,Taxes collected,282.53
+2025-05-17,Tips,35.59
+2025-05-17,Amount collected,3383.56
+2025-05-17,Unpaid balance,0.00
+2025-05-18,Gross sales,3362.48
+2025-05-18,Refunds,0.00
+2025-05-18,Net sales,3362.48
+2025-05-18,Overpayments,0.00
+2025-05-18,Taxes expected,305.89
+2025-05-18,Taxes collected,305.89
+2025-05-18,Tips,84.87
+2025-05-18,Amount collected,3753.24
+2025-05-18,Unpaid balance,0.00
+2025-05-19,Gross sales,1854.06
+2025-05-19,Refunds,0.00
+2025-05-19,Net sales,1854.06
+2025-05-19,Overpayments,0.00
+2025-05-19,Taxes expected,169.66
+2025-05-19,Taxes collected,169.66
+2025-05-19,Tips,30.34
+2025-05-19,Amount collected,2054.06
+2025-05-19,Unpaid balance,0.00
+2025-05-20,Gross sales,2072.55
+2025-05-20,Refunds,0.00
+2025-05-20,Net sales,2072.55
+2025-05-20,Overpayments,0.00
+2025-05-20,Taxes expected,187.34
+2025-05-20,Taxes collected,187.34
+2025-05-20,Tips,30.06
+2025-05-20,Amount collected,2289.95
+2025-05-20,Unpaid balance,0.00
+2025-05-21,Gross sales,2470.74
+2025-05-21,Refunds,0.00
+2025-05-21,Net sales,2470.74
+2025-05-21,Overpayments,1.76
+2025-05-21,Taxes expected,224.69
+2025-05-21,Taxes collected,224.69
+2025-05-21,Tips,54.25
+2025-05-21,Amount collected,2751.44
+2025-05-21,Unpaid balance,0.00
+2025-05-22,Gross sales,2438.90
+2025-05-22,Refunds,0.00
+2025-05-22,Net sales,2438.90
+2025-05-22,Overpayments,0.00
+2025-05-22,Taxes expected,220.94
+2025-05-22,Taxes collected,220.94
+2025-05-22,Tips,41.46
+2025-05-22,Amount collected,2701.30
+2025-05-22,Unpaid balance,0.00
+2025-05-23,Gross sales,3191.39
+2025-05-23,Refunds,0.00
+2025-05-23,Net sales,3191.39
+2025-05-23,Overpayments,0.00
+2025-05-23,Taxes expected,288.60
+2025-05-23,Taxes collected,288.60
+2025-05-23,Tips,70.36
+2025-05-23,Amount collected,3550.35
+2025-05-23,Unpaid balance,0.00
+2025-05-24,Gross sales,3039.74
+2025-05-24,Refunds,0.00
+2025-05-24,Net sales,3039.74
+2025-05-24,Overpayments,0.00
+2025-05-24,Taxes expected,278.11
+2025-05-24,Taxes collected,278.11
+2025-05-24,Tips,53.96
+2025-05-24,Amount collected,3371.81
+2025-05-24,Unpaid balance,0.00
+2025-05-25,Gross sales,3071.03
+2025-05-25,Refunds,0.00
+2025-05-25,Net sales,3071.03
+2025-05-25,Overpayments,0.00
+2025-05-25,Taxes expected,281.49
+2025-05-25,Taxes collected,281.49
+2025-05-25,Tips,45.47
+2025-05-25,Amount collected,3397.99
+2025-05-25,Unpaid balance,0.00
+2025-05-26,Gross sales,1811.13
+2025-05-26,Refunds,0.00
+2025-05-26,Net sales,1811.13
+2025-05-26,Overpayments,0.00
+2025-05-26,Taxes expected,168.23
+2025-05-26,Taxes collected,168.23
+2025-05-26,Tips,29.70
+2025-05-26,Amount collected,2009.06
+2025-05-26,Unpaid balance,0.00
+2025-05-27,Gross sales,1911.39
+2025-05-27,Refunds,0.00
+2025-05-27,Net sales,1911.39
+2025-05-27,Overpayments,0.00
+2025-05-27,Taxes expected,177.02
+2025-05-27,Taxes collected,177.02
+2025-05-27,Tips,21.25
+2025-05-27,Amount collected,2109.66
+2025-05-27,Unpaid balance,0.00
+2025-05-28,Gross sales,2587.54
+2025-05-28,Refunds,0.00
+2025-05-28,Net sales,2587.54
+2025-05-28,Overpayments,0.00
+2025-05-28,Taxes expected,235.70
+2025-05-28,Taxes collected,235.70
+2025-05-28,Tips,60.24
+2025-05-28,Amount collected,2883.48
+2025-05-28,Unpaid balance,0.00
+2025-05-29,Gross sales,2512.64
+2025-05-29,Refunds,0.00
+2025-05-29,Net sales,2512.64
+2025-05-29,Overpayments,0.00
+2025-05-29,Taxes expected,229.85
+2025-05-29,Taxes collected,229.85
+2025-05-29,Tips,41.97
+2025-05-29,Amount collected,2784.46
+2025-05-29,Unpaid balance,0.00
+2025-05-30,Gross sales,2695.68
+2025-05-30,Refunds,0.00
+2025-05-30,Net sales,2695.68
+2025-05-30,Overpayments,0.00
+2025-05-30,Taxes expected,248.82
+2025-05-30,Taxes collected,248.82
+2025-05-30,Tips,36.60
+2025-05-30,Amount collected,2981.10
+2025-05-30,Unpaid balance,0.00
+2025-05-31,Gross sales,3663.75
+2025-05-31,Refunds,0.00
+2025-05-31,Net sales,3663.75
+2025-05-31,Overpayments,0.00
+2025-05-31,Taxes expected,332.32
+2025-05-31,Taxes collected,332.32
+2025-05-31,Tips,78.42
+2025-05-31,Amount collected,4074.49
+2025-05-31,Unpaid balance,0.00
+2025-06-01,Gross sales,3285.46
+2025-06-01,Refunds,0.00
+2025-06-01,Net sales,3285.46
+2025-06-01,Overpayments,0.71
+2025-06-01,Taxes expected,302.97
+2025-06-01,Taxes collected,302.97
+2025-06-01,Tips,36.78
+2025-06-01,Amount collected,3625.92
+2025-06-01,Unpaid balance,0.00
+2025-06-02,Gross sales,2084.11
+2025-06-02,Refunds,0.00
+2025-06-02,Net sales,2084.11
+2025-06-02,Overpayments,0.00
+2025-06-02,Taxes expected,191.89
+2025-06-02,Taxes collected,191.89
+2025-06-02,Tips,50.40
+2025-06-02,Amount collected,2326.40
+2025-06-02,Unpaid balance,0.00
+2025-06-03,Gross sales,1855.13
+2025-06-03,Refunds,0.00
+2025-06-03,Net sales,1855.13
+2025-06-03,Overpayments,0.00
+2025-06-03,Taxes expected,172.51
+2025-06-03,Taxes collected,171.92
+2025-06-03,Tips,18.16
+2025-06-03,Amount collected,2045.21
+2025-06-03,Unpaid balance,0.00
+2025-06-04,Gross sales,2510.35
+2025-06-04,Refunds,0.00
+2025-06-04,Net sales,2510.35
+2025-06-04,Overpayments,0.00
+2025-06-04,Taxes expected,230.66
+2025-06-04,Taxes collected,230.66
+2025-06-04,Tips,31.64
+2025-06-04,Amount collected,2772.65
+2025-06-04,Unpaid balance,0.00
+2025-06-05,Gross sales,2423.10
+2025-06-05,Refunds,0.00
+2025-06-05,Net sales,2423.10
+2025-06-05,Overpayments,0.00
+2025-06-05,Taxes expected,224.96
+2025-06-05,Taxes collected,224.96
+2025-06-05,Tips,64.16
+2025-06-05,Amount collected,2712.22
+2025-06-05,Unpaid balance,0.00
+2025-06-06,Gross sales,3565.34
+2025-06-06,Refunds,0.00
+2025-06-06,Net sales,3565.34
+2025-06-06,Overpayments,0.00
+2025-06-06,Taxes expected,330.91
+2025-06-06,Taxes collected,330.91
+2025-06-06,Tips,68.84
+2025-06-06,Amount collected,3965.09
+2025-06-06,Unpaid balance,0.00
+2025-06-07,Gross sales,3615.16
+2025-06-07,Refunds,0.00
+2025-06-07,Net sales,3615.16
+2025-06-07,Overpayments,0.00
+2025-06-07,Taxes expected,336.52
+2025-06-07,Taxes collected,336.52
+2025-06-07,Tips,63.89
+2025-06-07,Amount collected,4015.57
+2025-06-07,Unpaid balance,0.00
+2025-06-08,Gross sales,3202.90
+2025-06-08,Refunds,0.00
+2025-06-08,Net sales,3202.90
+2025-06-08,Overpayments,0.00
+2025-06-08,Taxes expected,289.85
+2025-06-08,Taxes collected,289.85
+2025-06-08,Tips,57.17
+2025-06-08,Amount collected,3534.84
+2025-06-08,Unpaid balance,15.08
+2025-06-09,Gross sales,1864.44
+2025-06-09,Refunds,0.00
+2025-06-09,Net sales,1864.44
+2025-06-09,Overpayments,0.00
+2025-06-09,Taxes expected,172.07
+2025-06-09,Taxes collected,170.90
+2025-06-09,Tips,42.86
+2025-06-09,Amount collected,2078.20
+2025-06-09,Unpaid balance,0.00
+2025-06-10,Gross sales,2146.88
+2025-06-10,Refunds,0.00
+2025-06-10,Net sales,2146.88
+2025-06-10,Overpayments,1.03
+2025-06-10,Taxes expected,194.62
+2025-06-10,Taxes collected,194.62
+2025-06-10,Tips,25.46
+2025-06-10,Amount collected,2367.99
+2025-06-10,Unpaid balance,0.00
+2025-06-11,Gross sales,2266.55
+2025-06-11,Refunds,0.00
+2025-06-11,Net sales,2266.55
+2025-06-11,Overpayments,0.00
+2025-06-11,Taxes expected,207.75
+2025-06-11,Taxes collected,207.75
+2025-06-11,Tips,27.30
+2025-06-11,Amount collected,2501.60
+2025-06-11,Unpaid balance,0.00
+2025-06-12,Gross sales,2427.98
+2025-06-12,Refunds,0.00
+2025-06-12,Net sales,2427.98
+2025-06-12,Overpayments,0.00
+2025-06-12,Taxes expected,220.57
+2025-06-12,Taxes collected,220.57
+2025-06-12,Tips,31.28
+2025-06-12,Amount collected,2679.83
+2025-06-12,Unpaid balance,0.00
+2025-06-13,Gross sales,3153.59
+2025-06-13,Refunds,0.00
+2025-06-13,Net sales,3153.59
+2025-06-13,Overpayments,0.00
+2025-06-13,Taxes expected,287.42
+2025-06-13,Taxes collected,287.42
+2025-06-13,Tips,81.70
+2025-06-13,Amount collected,3522.71
+2025-06-13,Unpaid balance,0.00
+2025-06-14,Gross sales,3505.93
+2025-06-14,Refunds,0.00
+2025-06-14,Net sales,3505.93
+2025-06-14,Overpayments,0.00
+2025-06-14,Taxes expected,322.96
+2025-06-14,Taxes collected,322.96
+2025-06-14,Tips,87.19
+2025-06-14,Amount collected,3916.08
+2025-06-14,Unpaid balance,0.00
+2025-06-15,Gross sales,3088.31
+2025-06-15,Refunds,0.00
+2025-06-15,Net sales,3088.31
+2025-06-15,Overpayments,0.00
+2025-06-15,Taxes expected,284.74
+2025-06-15,Taxes collected,284.74
+2025-06-15,Tips,60.93
+2025-06-15,Amount collected,3433.98
+2025-06-15,Unpaid balance,0.00
+2025-06-16,Gross sales,2105.95
+2025-06-16,Refunds,0.00
+2025-06-16,Net sales,2105.95
+2025-06-16,Overpayments,0.00
+2025-06-16,Taxes expected,193.10
+2025-06-16,Taxes collected,193.10
+2025-06-16,Tips,29.50
+2025-06-16,Amount collected,2328.55
+2025-06-16,Unpaid balance,0.00
+2025-06-17,Gross sales,2094.62
+2025-06-17,Refunds,0.00
+2025-06-17,Net sales,2094.62
+2025-06-17,Overpayments,0.00
+2025-06-17,Taxes expected,193.04
+2025-06-17,Taxes collected,193.04
+2025-06-17,Tips,34.48
+2025-06-17,Amount collected,2322.14
+2025-06-17,Unpaid balance,0.00
+2025-06-18,Gross sales,2488.22
+2025-06-18,Refunds,0.00
+2025-06-18,Net sales,2488.22
+2025-06-18,Overpayments,0.00
+2025-06-18,Taxes expected,226.81
+2025-06-18,Taxes collected,226.81
+2025-06-18,Tips,30.70
+2025-06-18,Amount collected,2745.73
+2025-06-18,Unpaid balance,0.00
+2025-06-19,Gross sales,2205.14
+2025-06-19,Refunds,0.00
+2025-06-19,Net sales,2205.14
+2025-06-19,Overpayments,0.00
+2025-06-19,Taxes expected,202.57
+2025-06-19,Taxes collected,202.57
+2025-06-19,Tips,57.70
+2025-06-19,Amount collected,2465.41
+2025-06-19,Unpaid balance,0.00
+2025-06-20,Gross sales,3523.27
+2025-06-20,Refunds,0.00
+2025-06-20,Net sales,3523.27
+2025-06-20,Overpayments,0.00
+2025-06-20,Taxes expected,320.36
+2025-06-20,Taxes collected,320.36
+2025-06-20,Tips,86.98
+2025-06-20,Amount collected,3930.61
+2025-06-20,Unpaid balance,0.00
+2025-06-21,Gross sales,2939.37
+2025-06-21,Refunds,0.00
+2025-06-21,Net sales,2939.37
+2025-06-21,Overpayments,0.00
+2025-06-21,Taxes expected,273.65
+2025-06-21,Taxes collected,273.65
+2025-06-21,Tips,44.69
+2025-06-21,Amount collected,3257.71
+2025-06-21,Unpaid balance,0.00
+2025-06-22,Gross sales,3257.39
+2025-06-22,Refunds,0.00
+2025-06-22,Net sales,3257.39
+2025-06-22,Overpayments,0.00
+2025-06-22,Taxes expected,302.82
+2025-06-22,Taxes collected,302.82
+2025-06-22,Tips,84.80
+2025-06-22,Amount collected,3645.01
+2025-06-22,Unpaid balance,0.00
+2025-06-23,Gross sales,1971.30
+2025-06-23,Refunds,0.00
+2025-06-23,Net sales,1971.30
+2025-06-23,Overpayments,0.00
+2025-06-23,Taxes expected,180.35
+2025-06-23,Taxes collected,180.35
+2025-06-23,Tips,49.17
+2025-06-23,Amount collected,2200.82
+2025-06-23,Unpaid balance,0.00
+2025-06-24,Gross sales,2172.77
+2025-06-24,Refunds,0.00
+2025-06-24,Net sales,2172.77
+2025-06-24,Overpayments,0.00
+2025-06-24,Taxes expected,197.16
+2025-06-24,Taxes collected,197.16
+2025-06-24,Tips,31.60
+2025-06-24,Amount collected,2401.53
+2025-06-24,Unpaid balance,0.00
+2025-06-25,Gross sales,2201.50
+2025-06-25,Refunds,0.00
+2025-06-25,Net sales,2201.50
+2025-06-25,Overpayments,0.00
+2025-06-25,Taxes expected,203.92
+2025-06-25,Taxes collected,203.92
+2025-06-25,Tips,56.70
+2025-06-25,Amount collected,2462.12
+2025-06-25,Unpaid balance,0.00
+2025-06-26,Gross sales,2661.95
+2025-06-26,Refunds,0.00
+2025-06-26,Net sales,2661.95
+2025-06-26,Overpayments,0.00
+2025-06-26,Taxes expected,240.83
+2025-06-26,Taxes collected,239.65
+2025-06-26,Tips,56.59
+2025-06-26,Amount collected,2958.19
+2025-06-26,Unpaid balance,0.00
+2025-06-27,Gross sales,2897.45
+2025-06-27,Refunds,0.00
+2025-06-27,Net sales,2897.45
+2025-06-27,Overpayments,0.00
+2025-06-27,Taxes expected,263.96
+2025-06-27,Taxes collected,263.96
+2025-06-27,Tips,51.80
+2025-06-27,Amount collected,3213.21
+2025-06-27,Unpaid balance,0.00
+2025-06-28,Gross sales,2998.94
+2025-06-28,Refunds,0.00
+2025-06-28,Net sales,2998.94
+2025-06-28,Overpayments,0.00
+2025-06-28,Taxes expected,275.76
+2025-06-28,Taxes collected,275.76
+2025-06-28,Tips,43.19
+2025-06-28,Amount collected,3317.89
+2025-06-28,Unpaid balance,0.00
+2025-06-29,Gross sales,3390.94
+2025-06-29,Refunds,0.00
+2025-06-29,Net sales,3390.94
+2025-06-29,Overpayments,0.00
+2025-06-29,Taxes expected,306.94
+2025-06-29,Taxes collected,306.94
+2025-06-29,Tips,37.75
+2025-06-29,Amount collected,3735.63
+2025-06-29,Unpaid balance,0.00
+2025-06-30,Gross sales,1715.72
+2025-06-30,Refunds,0.00
+2025-06-30,Net sales,1715.72
+2025-06-30,Overpayments,0.00
+2025-06-30,Taxes expected,158.98
+2025-06-30,Taxes collected,158.98
+2025-06-30,Tips,30.29
+2025-06-30,Amount collected,1904.99
+2025-06-30,Unpaid balance,0.00
+2025-07-01,Gross sales,2038.54
+2025-07-01,Refunds,0.00
+2025-07-01,Net sales,2038.54
+2025-07-01,Overpayments,0.00
+2025-07-01,Taxes expected,189.58
+2025-07-01,Taxes collected,188.69
+2025-07-01,Tips,43.76
+2025-07-01,Amount collected,2270.99
+2025-07-01,Unpaid balance,0.00
+2025-07-02,Gross sales,2573.71
+2025-07-02,Refunds,0.00
+2025-07-02,Net sales,2573.71
+2025-07-02,Overpayments,0.00
+2025-07-02,Taxes expected,233.16
+2025-07-02,Taxes collected,233.16
+2025-07-02,Tips,41.37
+2025-07-02,Amount collected,2848.24
+2025-07-02,Unpaid balance,0.00
+2025-07-03,Gross sales,2643.16
+2025-07-03,Refunds,0.00
+2025-07-03,Net sales,2643.16
+2025-07-03,Overpayments,0.00
+2025-07-03,Taxes expected,243.30
+2025-07-03,Taxes collected,243.30
+2025-07-03,Tips,54.02
+2025-07-03,Amount collected,2940.48
+2025-07-03,Unpaid balance,0.00
+2025-07-04,Gross sales,0.00
+2025-07-04,Refunds,0.00
+2025-07-04,Net sales,0.00
+2025-07-04,Overpayments,0.00
+2025-07-04,Taxes expected,0.00
+2025-07-04,Taxes collected,0.00
+2025-07-04,Tips,0.00
+2025-07-04,Amount collected,0.00
+2025-07-04,Unpaid balance,0.00
+2025-07-05,Gross sales,3480.90
+2025-07-05,Refunds,0.00
+2025-07-05,Net sales,3480.90
+2025-07-05,Overpayments,0.00
+2025-07-05,Taxes expected,316.17
+2025-07-05,Taxes collected,316.17
+2025-07-05,Tips,72.91
+2025-07-05,Amount collected,3869.98
+2025-07-05,Unpaid balance,0.00
+2025-07-06,Gross sales,3283.72
+2025-07-06,Refunds,0.00
+2025-07-06,Net sales,3283.72
+2025-07-06,Overpayments,0.00
+2025-07-06,Taxes expected,301.84
+2025-07-06,Taxes collected,301.84
+2025-07-06,Tips,71.18
+2025-07-06,Amount collected,3656.74
+2025-07-06,Unpaid balance,0.00
+2025-07-07,Gross sales,1883.06
+2025-07-07,Refunds,0.00
+2025-07-07,Net sales,1883.06
+2025-07-07,Overpayments,0.00
+2025-07-07,Taxes expected,173.58
+2025-07-07,Taxes collected,173.58
+2025-07-07,Tips,43.08
+2025-07-07,Amount collected,2099.72
+2025-07-07,Unpaid balance,0.00
+2025-07-08,Gross sales,0.00
+2025-07-08,Refunds,0.00
+2025-07-08,Net sales,0.00
+2025-07-08,Overpayments,0.00
+2025-07-08,Taxes expected,0.00
+2025-07-08,Taxes collected,0.00
+2025-07-08,Tips,0.00
+2025-07-08,Amount collected,0.00
+2025-07-08,Unpaid balance,0.00
+2025-07-09,Gross sales,2258.80
+2025-07-09,Refunds,0.00
+2025-07-09,Net sales,2258.80
+2025-07-09,Overpayments,0.00
+2025-07-09,Taxes expected,207.16
+2025-07-09,Taxes collected,207.16
+2025-07-09,Tips,37.58
+2025-07-09,Amount collected,2503.54
+2025-07-09,Unpaid balance,0.00
+2025-07-10,Gross sales,2503.30
+2025-07-10,Refunds,0.00
+2025-07-10,Net sales,2503.30
+2025-07-10,Overpayments,0.00
+2025-07-10,Taxes expected,229.40
+2025-07-10,Taxes collected,229.40
+2025-07-10,Tips,37.10
+2025-07-10,Amount collected,2769.80
+2025-07-10,Unpaid balance,0.00
+2025-07-11,Gross sales,2879.80
+2025-07-11,Refunds,0.00
+2025-07-11,Net sales,2879.80
+2025-07-11,Overpayments,0.00
+2025-07-11,Taxes expected,265.02
+2025-07-11,Taxes collected,265.02
+2025-07-11,Tips,38.27
+2025-07-11,Amount collected,3183.09
+2025-07-11,Unpaid balance,0.00
+2025-07-12,Gross sales,3882.83
+2025-07-12,Refunds,0.00
+2025-07-12,Net sales,3882.83
+2025-07-12,Overpayments,0.00
+2025-07-12,Taxes expected,359.08
+2025-07-12,Taxes collected,358.48
+2025-07-12,Tips,60.44
+2025-07-12,Amount collected,4301.75
+2025-07-12,Unpaid balance,0.00
+2025-07-13,Gross sales,3023.99
+2025-07-13,Refunds,0.00
+2025-07-13,Net sales,3023.99
+2025-07-13,Overpayments,0.00
+2025-07-13,Taxes expected,274.68
+2025-07-13,Taxes collected,274.68
+2025-07-13,Tips,45.24
+2025-07-13,Amount collected,3343.91
+2025-07-13,Unpaid balance,0.00
+2025-07-14,Gross sales,1996.59
+2025-07-14,Refunds,0.00
+2025-07-14,Net sales,1996.59
+2025-07-14,Overpayments,0.00
+2025-07-14,Taxes expected,183.75
+2025-07-14,Taxes collected,183.75
+2025-07-14,Tips,22.24
+2025-07-14,Amount collected,2202.58
+2025-07-14,Unpaid balance,0.00
+2025-07-15,Gross sales,2134.33
+2025-07-15,Refunds,0.00
+2025-07-15,Net sales,2134.33
+2025-07-15,Overpayments,0.00
+2025-07-15,Taxes expected,195.77
+2025-07-15,Taxes collected,195.77
+2025-07-15,Tips,50.66
+2025-07-15,Amount collected,2380.76
+2025-07-15,Unpaid balance,0.00
+2025-07-16,Gross sales,2574.24
+2025-07-16,Refunds,0.00
+2025-07-16,Net sales,2574.24
+2025-07-16,Overpayments,0.00
+2025-07-16,Taxes expected,236.18
+2025-07-16,Taxes collected,236.18
+2025-07-16,Tips,48.60
+2025-07-16,Amount collected,2859.02
+2025-07-16,Unpaid balance,0.00
+2025-07-17,Gross sales,2528.87
+2025-07-17,Refunds,0.00
+2025-07-17,Net sales,2528.87
+2025-07-17,Overpayments,0.00
+2025-07-17,Taxes expected,234.98
+2025-07-17,Taxes collected,234.98
+2025-07-17,Tips,45.70
+2025-07-17,Amount collected,2809.55
+2025-07-17,Unpaid balance,0.00
+2025-07-18,Gross sales,3584.71
+2025-07-18,Refunds,0.00
+2025-07-18,Net sales,3584.71
+2025-07-18,Overpayments,0.00
+2025-07-18,Taxes expected,329.49
+2025-07-18,Taxes collected,329.49
+2025-07-18,Tips,57.65
+2025-07-18,Amount collected,3971.85
+2025-07-18,Unpaid balance,0.00
+2025-07-19,Gross sales,3890.75
+2025-07-19,Refunds,0.00
+2025-07-19,Net sales,3890.75
+2025-07-19,Overpayments,0.00
+2025-07-19,Taxes expected,353.10
+2025-07-19,Taxes collected,353.10
+2025-07-19,Tips,101.87
+2025-07-19,Amount collected,4345.72
+2025-07-19,Unpaid balance,0.00
+2025-07-20,Gross sales,3305.58
+2025-07-20,Refunds,0.00
+2025-07-20,Net sales,3305.58
+2025-07-20,Overpayments,0.00
+2025-07-20,Taxes expected,306.85
+2025-07-20,Taxes collected,306.85
+2025-07-20,Tips,36.30
+2025-07-20,Amount collected,3648.73
+2025-07-20,Unpaid balance,0.00
+2025-07-21,Gross sales,2049.46
+2025-07-21,Refunds,0.00
+2025-07-21,Net sales,2049.46
+2025-07-21,Overpayments,0.00
+2025-07-21,Taxes expected,189.66
+2025-07-21,Taxes collected,189.66
+2025-07-21,Tips,40.95
+2025-07-21,Amount collected,2280.07
+2025-07-21,Unpaid balance,0.00
+2025-07-22,Gross sales,1882.76
+2025-07-22,Refunds,0.00
+2025-07-22,Net sales,1882.76
+2025-07-22,Overpayments,0.00
+2025-07-22,Taxes expected,173.78
+2025-07-22,Taxes collected,173.78
+2025-07-22,Tips,23.25
+2025-07-22,Amount collected,2079.79
+2025-07-22,Unpaid balance,0.00
+2025-07-23,Gross sales,2261.74
+2025-07-23,Refunds,0.00
+2025-07-23,Net sales,2261.74
+2025-07-23,Overpayments,0.00
+2025-07-23,Taxes expected,204.69
+2025-07-23,Taxes collected,204.69
+2025-07-23,Tips,58.36
+2025-07-23,Amount collected,2524.79
+2025-07-23,Unpaid balance,0.00
+2025-07-24,Gross sales,2718.17
+2025-07-24,Refunds,0.00
+2025-07-24,Net sales,2718.17
+2025-07-24,Overpayments,0.00
+2025-07-24,Taxes expected,247.22
+2025-07-24,Taxes collected,247.22
+2025-07-24,Tips,71.19
+2025-07-24,Amount collected,3036.58
+2025-07-24,Unpaid balance,0.00
+2025-07-25,Gross sales,3034.44
+2025-07-25,Refunds,0.00
+2025-07-25,Net sales,3034.44
+2025-07-25,Overpayments,0.00
+2025-07-25,Taxes expected,274.98
+2025-07-25,Taxes collected,274.98
+2025-07-25,Tips,67.64
+2025-07-25,Amount collected,3377.06
+2025-07-25,Unpaid balance,0.00
+2025-07-26,Gross sales,3741.27
+2025-07-26,Refunds,0.00
+2025-07-26,Net sales,3741.27
+2025-07-26,Overpayments,0.00
+2025-07-26,Taxes expected,339.53
+2025-07-26,Taxes collected,339.53
+2025-07-26,Tips,44.47
+2025-07-26,Amount collected,4125.27
+2025-07-26,Unpaid balance,0.00
+2025-07-27,Gross sales,3494.57
+2025-07-27,Refunds,0.00
+2025-07-27,Net sales,3494.57
+2025-07-27,Overpayments,0.00
+2025-07-27,Taxes expected,323.70
+2025-07-27,Taxes collected,323.70
+2025-07-27,Tips,64.40
+2025-07-27,Amount collected,3882.67
+2025-07-27,Unpaid balance,0.00
+2025-07-28,Gross sales,1869.06
+2025-07-28,Refunds,0.00
+2025-07-28,Net sales,1869.06
+2025-07-28,Overpayments,0.00
+2025-07-28,Taxes expected,173.47
+2025-07-28,Taxes collected,173.47
+2025-07-28,Tips,20.93
+2025-07-28,Amount collected,2063.46
+2025-07-28,Unpaid balance,0.00
+2025-07-29,Gross sales,1942.77
+2025-07-29,Refunds,0.00
+2025-07-29,Net sales,1942.77
+2025-07-29,Overpayments,0.00
+2025-07-29,Taxes expected,178.30
+2025-07-29,Taxes collected,178.30
+2025-07-29,Tips,45.99
+2025-07-29,Amount collected,2167.06
+2025-07-29,Unpaid balance,0.00
+2025-07-30,Gross sales,2548.76
+2025-07-30,Refunds,0.00
+2025-07-30,Net sales,2548.76
+2025-07-30,Overpayments,0.00
+2025-07-30,Taxes expected,233.12
+2025-07-30,Taxes collected,233.12
+2025-07-30,Tips,24.83
+2025-07-30,Amount collected,2806.71
+2025-07-30,Unpaid balance,0.00
+2025-07-31,Gross sales,2446.48
+2025-07-31,Refunds,0.00
+2025-07-31,Net sales,2446.48
+2025-07-31,Overpayments,0.00
+2025-07-31,Taxes expected,227.42
+2025-07-31,Taxes collected,227.42
+2025-07-31,Tips,34.44
+2025-07-31,Amount collected,2708.34
+2025-07-31,Unpaid balance,0.00
+2025-08-01,Gross sales,2931.61
+2025-08-01,Refunds,0.00
+2025-08-01,Net sales,2931.61
+2025-08-01,Overpayments,0.00
+2025-08-01,Taxes expected,268.95
+2025-08-01,Taxes collected,268.95
+2025-08-01,Tips,71.90
+2025-08-01,Amount collected,3272.46
+2025-08-01,Unpaid balance,0.00
+2025-08-02,Gross sales,3461.37
+2025-08-02,Refunds,0.00
+2025-08-02,Net sales,3461.37
+2025-08-02,Overpayments,0.00
+2025-08-02,Taxes expected,320.04
+2025-08-02,Taxes collected,320.04
+2025-08-02,Tips,76.86
+2025-08-02,Amount collected,3858.27
+2025-08-02,Unpaid balance,0.00
+2025-08-03,Gross sales,3163.99
+2025-08-03,Refunds,0.00
+2025-08-03,Net sales,3163.99
+2025-08-03,Overpayments,0.00
+2025-08-03,Taxes expected,292.10
+2025-08-03,Taxes collected,292.10
+2025-08-03,Tips,48.69
+2025-08-03,Amount collected,3504.78
+2025-08-03,Unpaid balance,0.00
+2025-08-04,Gross sales,2180.13
+2025-08-04,Refunds,0.00
+2025-08-04,Net sales,2180.13
+2025-08-04,Overpayments,0.00
+2025-08-04,Taxes expected,199.29
+2025-08-04,Taxes collected,199.29
+2025-08-04,Tips,37.75
+2025-08-04,Amount collected,2417.17
+2025-08-04,Unpaid balance,0.00
+2025-08-05,Gross sales,1962.02
+2025-08-05,Refunds,0.00
+2025-08-05,Net sales,1962.02
+2025-08-05,Overpayments,0.00
+2025-08-05,Taxes expected,182.62
+2025-08-05,Taxes collected,182.62
+2025-08-05,Tips,29.69
+2025-08-05,Amount collected,2174.33
+2025-08-05,Unpaid balance,0.00
+2025-08-06,Gross sales,2512.52
+2025-08-06,Refunds,0.00
+2025-08-06,Net sales,2512.52
+2025-08-06,Overpayments,0.00
+2025-08-06,Taxes expected,231.61
+2025-08-06,Taxes collected,231.61
+2025-08-06,Tips,61.82
+2025-08-06,Amount collected,2805.95
+2025-08-06,Unpaid balance,0.00
+2025-08-07,Gross sales,2687.84
+2025-08-07,Refunds,0.00
+2025-08-07,Net sales,2687.84
+2025-08-07,Overpayments,0.00
+2025-08-07,Taxes expected,244.42
+2025-08-07,Taxes collected,244.42
+2025-08-07,Tips,34.65
+2025-08-07,Amount collected,2966.91
+2025-08-07,Unpaid balance,0.00
+2025-08-08,Gross sales,3047.71
+2025-08-08,Refunds,0.00
+2025-08-08,Net sales,3047.71
+2025-08-08,Overpayments,0.00
+2025-08-08,Taxes expected,276.43
+2025-08-08,Taxes collected,276.43
+2025-08-08,Tips,77.38
+2025-08-08,Amount collected,3401.52
+2025-08-08,Unpaid balance,0.00
+2025-08-09,Gross sales,3729.71
+2025-08-09,Refunds,0.00
+2025-08-09,Net sales,3729.71
+2025-08-09,Overpayments,0.00
+2025-08-09,Taxes expected,343.85
+2025-08-09,Taxes collected,343.85
+2025-08-09,Tips,56.52
+2025-08-09,Amount collected,4130.08
+2025-08-09,Unpaid balance,0.00
+2025-08-10,Gross sales,3190.98
+2025-08-10,Refunds,0.00
+2025-08-10,Net sales,3190.98
+2025-08-10,Overpayments,0.00
+2025-08-10,Taxes expected,290.94
+2025-08-10,Taxes collected,290.70
+2025-08-10,Tips,73.44
+2025-08-10,Amount collected,3555.12
+2025-08-10,Unpaid balance,0.00
+2025-08-11,Gross sales,2186.20
+2025-08-11,Refunds,0.00
+2025-08-11,Net sales,2186.20
+2025-08-11,Overpayments,0.00
+2025-08-11,Taxes expected,199.16
+2025-08-11,Taxes collected,199.16
+2025-08-11,Tips,29.98
+2025-08-11,Amount collected,2415.34
+2025-08-11,Unpaid balance,0.00
+2025-08-12,Gross sales,2273.87
+2025-08-12,Refunds,0.00
+2025-08-12,Net sales,2273.87
+2025-08-12,Overpayments,0.00
+2025-08-12,Taxes expected,207.26
+2025-08-12,Taxes collected,207.26
+2025-08-12,Tips,54.46
+2025-08-12,Amount collected,2535.59
+2025-08-12,Unpaid balance,0.00
+2025-08-13,Gross sales,2406.11
+2025-08-13,Refunds,0.00
+2025-08-13,Net sales,2406.11
+2025-08-13,Overpayments,0.00
+2025-08-13,Taxes expected,223.56
+2025-08-13,Taxes collected,223.56
+2025-08-13,Tips,53.31
+2025-08-13,Amount collected,2682.98
+2025-08-13,Unpaid balance,0.00
+2025-08-14,Gross sales,2752.44
+2025-08-14,Refunds,0.00
+2025-08-14,Net sales,2752.44
+2025-08-14,Overpayments,0.00
+2025-08-14,Taxes expected,251.56
+2025-08-14,Taxes collected,251.56
+2025-08-14,Tips,72.38
+2025-08-14,Amount collected,3076.38
+2025-08-14,Unpaid balance,0.00
+2025-08-15,Gross sales,3349.00
+2025-08-15,Refunds,0.00
+2025-08-15,Net sales,3349.00
+2025-08-15,Overpayments,0.00
+2025-08-15,Taxes expected,302.64
+2025-08-15,Taxes collected,302.64
+2025-08-15,Tips,67.43
+2025-08-15,Amount collected,3719.07
+2025-08-15,Unpaid balance,0.00
+2025-08-16,Gross sales,3890.75
+2025-08-16,Refunds,0.00
+2025-08-16,Net sales,3890.75
+2025-08-16,Overpayments,0.00
+2025-08-16,Taxes expected,352.45
+2025-08-16,Taxes collected,352.45
+2025-08-16,Tips,51.81
+2025-08-16,Amount collected,4295.01
+2025-08-16,Unpaid balance,0.00
+2025-08-17,Gross sales,3050.72
+2025-08-17,Refunds,0.00
+2025-08-17,Net sales,3050.72
+2025-08-17,Overpayments,0.00
+2025-08-17,Taxes expected,283.30
+2025-08-17,Taxes collected,283.30
+2025-08-17,Tips,32.07
+2025-08-17,Amount collected,3366.09
+2025-08-17,Unpaid balance,0.00
+2025-08-18,Gross sales,1936.66
+2025-08-18,Refunds,0.00
+2025-08-18,Net sales,1936.66
+2025-08-18,Overpayments,0.00
+2025-08-18,Taxes expected,176.85
+2025-08-18,Taxes collected,176.65
+2025-08-18,Tips,39.39
+2025-08-18,Amount collected,2152.70
+2025-08-18,Unpaid balance,0.00
+2025-08-19,Gross sales,0.00
+2025-08-19,Refunds,0.00
+2025-08-19,Net sales,0.00
+2025-08-19,Overpayments,0.00
+2025-08-19,Taxes expected,0.00
+2025-08-19,Taxes collected,0.00
+2025-08-19,Tips,0.00
+2025-08-19,Amount collected,0.00
+2025-08-19,Unpaid balance,0.00
+2025-08-20,Gross sales,2285.33
+2025-08-20,Refunds,0.00
+2025-08-20,Net sales,2285.33
+2025-08-20,Overpayments,0.00
+2025-08-20,Taxes expected,210.82
+2025-08-20,Taxes collected,210.82
+2025-08-20,Tips,31.63
+2025-08-20,Amount collected,2527.78
+2025-08-20,Unpaid balance,0.00
+2025-08-21,Gross sales,2431.31
+2025-08-21,Refunds,0.00
+2025-08-21,Net sales,2431.31
+2025-08-21,Overpayments,0.00
+2025-08-21,Taxes expected,220.14
+2025-08-21,Taxes collected,220.14
+2025-08-21,Tips,35.35
+2025-08-21,Amount collected,2686.80
+2025-08-21,Unpaid balance,0.00
+2025-08-22,Gross sales,2853.06
+2025-08-22,Refunds,0.00
+2025-08-22,Net sales,2853.06
+2025-08-22,Overpayments,0.00
+2025-08-22,Taxes expected,263.19
+2025-08-22,Taxes collected,263.19
+2025-08-22,Tips,31.85
+2025-08-22,Amount collected,3148.10
+2025-08-22,Unpaid balance,0.00
+2025-08-23,Gross sales,3513.58
+2025-08-23,Refunds,0.00
+2025-08-23,Net sales,3513.58
+2025-08-23,Overpayments,0.00
+2025-08-23,Taxes expected,320.78
+2025-08-23,Taxes collected,320.78
+2025-08-23,Tips,45.28
+2025-08-23,Amount collected,3879.64
+2025-08-23,Unpaid balance,0.00
+2025-08-24,Gross sales,3439.10
+2025-08-24,Refunds,0.00
+2025-08-24,Net sales,3439.10
+2025-08-24,Overpayments,0.00
+2025-08-24,Taxes expected,318.65
+2025-08-24,Taxes collected,318.65
+2025-08-24,Tips,46.79
+2025-08-24,Amount collected,3804.54
+2025-08-24,Unpaid balance,0.00
+2025-08-25,Gross sales,1869.47
+2025-08-25,Refunds,0.00
+2025-08-25,Net sales,1869.47
+2025-08-25,Overpayments,0.00
+2025-08-25,Taxes expected,169.94
+2025-08-25,Taxes collected,169.94
+2025-08-25,Tips,33.41
+2025-08-25,Amount collected,2072.82
+2025-08-25,Unpaid balance,0.00
+2025-08-26,Gross sales,1981.19
+2025-08-26,Refunds,0.00
+2025-08-26,Net sales,1981.19
+2025-08-26,Overpayments,0.00
+2025-08-26,Taxes expected,183.89
+2025-08-26,Taxes collected,183.89
+2025-08-26,Tips,52.09
+2025-08-26,Amount collected,2217.17
+2025-08-26,Unpaid balance,0.00
+2025-08-27,Gross sales,2677.27
+2025-08-27,Refunds,0.00
+2025-08-27,Net sales,2677.27
+2025-08-27,Overpayments,0.00
+2025-08-27,Taxes expected,246.31
+2025-08-27,Taxes collected,246.31
+2025-08-27,Tips,42.93
+2025-08-27,Amount collected,2966.51
+2025-08-27,Unpaid balance,0.00
+2025-08-28,Gross sales,2605.05
+2025-08-28,Refunds,0.00
+2025-08-28,Net sales,2605.05
+2025-08-28,Overpayments,0.00
+2025-08-28,Taxes expected,237.43
+2025-08-28,Taxes collected,237.43
+2025-08-28,Tips,28.28
+2025-08-28,Amount collected,2870.76
+2025-08-28,Unpaid balance,0.00
+2025-08-29,Gross sales,3397.30
+2025-08-29,Refunds,0.00
+2025-08-29,Net sales,3397.30
+2025-08-29,Overpayments,0.00
+2025-08-29,Taxes expected,307.94
+2025-08-29,Taxes collected,307.94
+2025-08-29,Tips,76.29
+2025-08-29,Amount collected,3781.53
+2025-08-29,Unpaid balance,0.00
+2025-08-30,Gross sales,3683.71
+2025-08-30,Refunds,0.00
+2025-08-30,Net sales,3683.71
+2025-08-30,Overpayments,0.00
+2025-08-30,Taxes expected,340.38
+2025-08-30,Taxes collected,340.38
+2025-08-30,Tips,58.79
+2025-08-30,Amount collected,4082.88
+2025-08-30,Unpaid balance,0.00
+2025-08-31,Gross sales,2889.32
+2025-08-31,Refunds,0.00
+2025-08-31,Net sales,2889.32
+2025-08-31,Overpayments,0.00
+2025-08-31,Taxes expected,262.91
+2025-08-31,Taxes collected,262.91
+2025-08-31,Tips,45.93
+2025-08-31,Amount collected,3198.16
+2025-08-31,Unpaid balance,0.00
+2025-09-01,Gross sales,1721.08
+2025-09-01,Refunds,0.00
+2025-09-01,Net sales,1721.08
+2025-09-01,Overpayments,0.00
+2025-09-01,Taxes expected,155.68
+2025-09-01,Taxes collected,155.68
+2025-09-01,Tips,32.75
+2025-09-01,Amount collected,1909.51
+2025-09-01,Unpaid balance,0.00
+2025-09-02,Gross sales,2079.44
+2025-09-02,Refunds,0.00
+2025-09-02,Net sales,2079.44
+2025-09-02,Overpayments,0.00
+2025-09-02,Taxes expected,191.56
+2025-09-02,Taxes collected,191.56
+2025-09-02,Tips,40.32
+2025-09-02,Amount collected,2311.32
+2025-09-02,Unpaid balance,0.00
+2025-09-03,Gross sales,2135.98
+2025-09-03,Refunds,0.00
+2025-09-03,Net sales,2135.98
+2025-09-03,Overpayments,0.00
+2025-09-03,Taxes expected,193.52
+2025-09-03,Taxes collected,193.52
+2025-09-03,Tips,43.30
+2025-09-03,Amount collected,2372.80
+2025-09-03,Unpaid balance,0.00
+2025-09-04,Gross sales,2596.58
+2025-09-04,Refunds,0.00
+2025-09-04,Net sales,2596.58
+2025-09-04,Overpayments,0.00
+2025-09-04,Taxes expected,240.87
+2025-09-04,Taxes collected,240.87
+2025-09-04,Tips,63.35
+2025-09-04,Amount collected,2900.80
+2025-09-04,Unpaid balance,0.00
+2025-09-05,Gross sales,3090.92
+2025-09-05,Refunds,0.00
+2025-09-05,Net sales,3090.92
+2025-09-05,Overpayments,0.00
+2025-09-05,Taxes expected,287.50
+2025-09-05,Taxes collected,287.50
+2025-09-05,Tips,58.13
+2025-09-05,Amount collected,3436.55
+2025-09-05,Unpaid balance,0.00
+2025-09-06,Gross sales,3564.51
+2025-09-06,Refunds,0.00
+2025-09-06,Net sales,3564.51
+2025-09-06,Overpayments,0.00
+2025-09-06,Taxes expected,331.78
+2025-09-06,Taxes collected,331.78
+2025-09-06,Tips,81.85
+2025-09-06,Amount collected,3978.14
+2025-09-06,Unpaid balance,0.00
+2025-09-07,Gross sales,2669.93
+2025-09-07,Refunds,0.00
+2025-09-07,Net sales,2669.93
+2025-09-07,Overpayments,0.00
+2025-09-07,Taxes expected,245.01
+2025-09-07,Taxes collected,244.22
+2025-09-07,Tips,71.27
+2025-09-07,Amount collected,2985.42
+2025-09-07,Unpaid balance,0.00
+2025-09-08,Gross sales,1807.01
+2025-09-08,Refunds,0.00
+2025-09-08,Net sales,1807.01
+2025-09-08,Overpayments,0.00
+2025-09-08,Taxes expected,166.89
+2025-09-08,Taxes collected,166.89
+2025-09-08,Tips,39.97
+2025-09-08,Amount collected,2013.87
+2025-09-08,Unpaid balance,0.00
+2025-09-09,Gross sales,0.00
+2025-09-09,Refunds,0.00
+2025-09-09,Net sales,0.00
+2025-09-09,Overpayments,0.00
+2025-09-09,Taxes expected,0.00
+2025-09-09,Taxes collected,0.00
+2025-09-09,Tips,0.00
+2025-09-09,Amount collected,0.00
+2025-09-09,Unpaid balance,0.00
+2025-09-10,Gross sales,2027.28
+2025-09-10,Refunds,0.00
+2025-09-10,Net sales,2027.28
+2025-09-10,Overpayments,0.00
+2025-09-10,Taxes expected,188.40
+2025-09-10,Taxes collected,188.40
+2025-09-10,Tips,24.84
+2025-09-10,Amount collected,2240.52
+2025-09-10,Unpaid balance,0.00
+2025-09-11,Gross sales,2591.95
+2025-09-11,Refunds,0.00
+2025-09-11,Net sales,2591.95
+2025-09-11,Overpayments,0.00
+2025-09-11,Taxes expected,235.69
+2025-09-11,Taxes collected,234.52
+2025-09-11,Tips,56.27
+2025-09-11,Amount collected,2882.74
+2025-09-11,Unpaid balance,0.00
+2025-09-12,Gross sales,3217.87
+2025-09-12,Refunds,0.00
+2025-09-12,Net sales,3217.87
+2025-09-12,Overpayments,0.00
+2025-09-12,Taxes expected,299.11
+2025-09-12,Taxes collected,299.11
+2025-09-12,Tips,49.13
+2025-09-12,Amount collected,3566.11
+2025-09-12,Unpaid balance,0.00
+2025-09-13,Gross sales,2945.34
+2025-09-13,Refunds,0.00
+2025-09-13,Net sales,2945.34
+2025-09-13,Overpayments,0.00
+2025-09-13,Taxes expected,274.03
+2025-09-13,Taxes collected,274.03
+2025-09-13,Tips,67.24
+2025-09-13,Amount collected,3286.61
+2025-09-13,Unpaid balance,0.00
+2025-09-14,Gross sales,2817.18
+2025-09-14,Refunds,0.00
+2025-09-14,Net sales,2817.18
+2025-09-14,Overpayments,0.00
+2025-09-14,Taxes expected,262.16
+2025-09-14,Taxes collected,262.16
+2025-09-14,Tips,39.56
+2025-09-14,Amount collected,3118.90
+2025-09-14,Unpaid balance,0.00
+2025-09-15,Gross sales,1917.39
+2025-09-15,Refunds,0.00
+2025-09-15,Net sales,1917.39
+2025-09-15,Overpayments,0.00
+2025-09-15,Taxes expected,173.35
+2025-09-15,Taxes collected,173.35
+2025-09-15,Tips,35.45
+2025-09-15,Amount collected,2126.19
+2025-09-15,Unpaid balance,0.00
+2025-09-16,Gross sales,1791.72
+2025-09-16,Refunds,0.00
+2025-09-16,Net sales,1791.72
+2025-09-16,Overpayments,0.00
+2025-09-16,Taxes expected,164.12
+2025-09-16,Taxes collected,164.12
+2025-09-16,Tips,29.79
+2025-09-16,Amount collected,1985.63
+2025-09-16,Unpaid balance,0.00
+2025-09-17,Gross sales,2513.76
+2025-09-17,Refunds,0.00
+2025-09-17,Net sales,2513.76
+2025-09-17,Overpayments,0.00
+2025-09-17,Taxes expected,227.49
+2025-09-17,Taxes collected,227.49
+2025-09-17,Tips,62.33
+2025-09-17,Amount collected,2803.58
+2025-09-17,Unpaid balance,0.00
+2025-09-18,Gross sales,2356.26
+2025-09-18,Refunds,0.00
+2025-09-18,Net sales,2356.26
+2025-09-18,Overpayments,0.00
+2025-09-18,Taxes expected,217.08
+2025-09-18,Taxes collected,217.08
+2025-09-18,Tips,49.28
+2025-09-18,Amount collected,2622.62
+2025-09-18,Unpaid balance,0.00
+2025-09-19,Gross sales,3297.84
+2025-09-19,Refunds,0.00
+2025-09-19,Net sales,3297.84
+2025-09-19,Overpayments,0.00
+2025-09-19,Taxes expected,298.37
+2025-09-19,Taxes collected,298.37
+2025-09-19,Tips,34.18
+2025-09-19,Amount collected,3630.39
+2025-09-19,Unpaid balance,0.00
+2025-09-20,Gross sales,3307.80
+2025-09-20,Refunds,0.00
+2025-09-20,Net sales,3307.80
+2025-09-20,Overpayments,0.00
+2025-09-20,Taxes expected,304.80
+2025-09-20,Taxes collected,304.80
+2025-09-20,Tips,57.87
+2025-09-20,Amount collected,3670.47
+2025-09-20,Unpaid balance,0.00
+2025-09-21,Gross sales,2769.03
+2025-09-21,Refunds,0.00
+2025-09-21,Net sales,2769.03
+2025-09-21,Overpayments,0.00
+2025-09-21,Taxes expected,257.08
+2025-09-21,Taxes collected,257.08
+2025-09-21,Tips,59.00
+2025-09-21,Amount collected,3085.11
+2025-09-21,Unpaid balance,0.00
+2025-09-22,Gross sales,1709.46
+2025-09-22,Refunds,0.00
+2025-09-22,Net sales,1709.46
+2025-09-22,Overpayments,0.00
+2025-09-22,Taxes expected,155.29
+2025-09-22,Taxes collected,155.29
+2025-09-22,Tips,33.22
+2025-09-22,Amount collected,1897.97
+2025-09-22,Unpaid balance,0.00
+2025-09-23,Gross sales,1782.78
+2025-09-23,Refunds,0.00
+2025-09-23,Net sales,1782.78
+2025-09-23,Overpayments,0.00
+2025-09-23,Taxes expected,161.25
+2025-09-23,Taxes collected,161.25
+2025-09-23,Tips,44.62
+2025-09-23,Amount collected,1988.65
+2025-09-23,Unpaid balance,0.00
+2025-09-24,Gross sales,2314.86
+2025-09-24,Refunds,0.00
+2025-09-24,Net sales,2314.86
+2025-09-24,Overpayments,0.00
+2025-09-24,Taxes expected,211.34
+2025-09-24,Taxes collected,211.34
+2025-09-24,Tips,35.64
+2025-09-24,Amount collected,2561.84
+2025-09-24,Unpaid balance,0.00
+2025-09-25,Gross sales,2260.38
+2025-09-25,Refunds,0.00
+2025-09-25,Net sales,2260.38
+2025-09-25,Overpayments,0.00
+2025-09-25,Taxes expected,210.01
+2025-09-25,Taxes collected,210.01
+2025-09-25,Tips,38.12
+2025-09-25,Amount collected,2508.51
+2025-09-25,Unpaid balance,0.00
+2025-09-26,Gross sales,3126.06
+2025-09-26,Refunds,0.00
+2025-09-26,Net sales,3126.06
+2025-09-26,Overpayments,0.00
+2025-09-26,Taxes expected,288.36
+2025-09-26,Taxes collected,287.92
+2025-09-26,Tips,81.97
+2025-09-26,Amount collected,3495.95
+2025-09-26,Unpaid balance,0.00
+2025-09-27,Gross sales,3041.91
+2025-09-27,Refunds,0.00
+2025-09-27,Net sales,3041.91
+2025-09-27,Overpayments,0.00
+2025-09-27,Taxes expected,277.87
+2025-09-27,Taxes collected,277.87
+2025-09-27,Tips,80.28
+2025-09-27,Amount collected,3400.06
+2025-09-27,Unpaid balance,0.00
+2025-09-28,Gross sales,3238.81
+2025-09-28,Refunds,0.00
+2025-09-28,Net sales,3238.81
+2025-09-28,Overpayments,0.00
+2025-09-28,Taxes expected,297.81
+2025-09-28,Taxes collected,297.81
+2025-09-28,Tips,34.49
+2025-09-28,Amount collected,3571.11
+2025-09-28,Unpaid balance,0.00
+2025-09-29,Gross sales,1837.42
+2025-09-29,Refunds,0.00
+2025-09-29,Net sales,1837.42
+2025-09-29,Overpayments,0.00
+2025-09-29,Taxes expected,166.61
+2025-09-29,Taxes collected,166.61
+2025-09-29,Tips,32.74
+2025-09-29,Amount collected,2036.77
+2025-09-29,Unpaid balance,0.00
+2025-09-30,Gross sales,2225.03
+2025-09-30,Refunds,0.00
+2025-09-30,Net sales,2225.03
+2025-09-30,Overpayments,0.00
+2025-09-30,Taxes expected,203.05
+2025-09-30,Taxes collected,203.05
+2025-09-30,Tips,39.71
+2025-09-30,Amount collected,2467.79
+2025-09-30,Unpaid balance,0.00
+2025-10-01,Gross sales,2203.91
+2025-10-01,Refunds,0.00
+2025-10-01,Net sales,2203.91
+2025-10-01,Overpayments,0.00
+2025-10-01,Taxes expected,201.73
+2025-10-01,Taxes collected,201.73
+2025-10-01,Tips,54.59
+2025-10-01,Amount collected,2460.23
+2025-10-01,Unpaid balance,0.00
+2025-10-02,Gross sales,2191.53
+2025-10-02,Refunds,0.00
+2025-10-02,Net sales,2191.53
+2025-10-02,Overpayments,0.00
+2025-10-02,Taxes expected,199.71
+2025-10-02,Taxes collected,199.71
+2025-10-02,Tips,53.55
+2025-10-02,Amount collected,2442.87
+2025-10-02,Unpaid balance,1.92
+2025-10-03,Gross sales,3204.22
+2025-10-03,Refunds,0.00
+2025-10-03,Net sales,3204.22
+2025-10-03,Overpayments,0.00
+2025-10-03,Taxes expected,293.04
+2025-10-03,Taxes collected,293.04
+2025-10-03,Tips,33.41
+2025-10-03,Amount collected,3530.67
+2025-10-03,Unpaid balance,0.00
+2025-10-04,Gross sales,3625.64
+2025-10-04,Refunds,0.00
+2025-10-04,Net sales,3625.64
+2025-10-04,Overpayments,0.00
+2025-10-04,Taxes expected,336.38
+2025-10-04,Taxes collected,336.38
+2025-10-04,Tips,36.86
+2025-10-04,Amount collected,3998.88
+2025-10-04,Unpaid balance,0.00
+2025-10-05,Gross sales,3032.38
+2025-10-05,Refunds,0.00
+2025-10-05,Net sales,3032.38
+2025-10-05,Overpayments,0.00
+2025-10-05,Taxes expected,276.19
+2025-10-05,Taxes collected,276.19
+2025-10-05,Tips,62.12
+2025-10-05,Amount collected,3363.93
+2025-10-05,Unpaid balance,6.76
+2025-10-06,Gross sales,2139.31
+2025-10-06,Refunds,0.00
+2025-10-06,Net sales,2139.31
+2025-10-06,Overpayments,0.00
+2025-10-06,Taxes expected,196.23
+2025-10-06,Taxes collected,196.23
+2025-10-06,Tips,20.46
+2025-10-06,Amount collected,2356.00
+2025-10-06,Unpaid balance,0.00
+2025-10-07,Gross sales,2144.27
+2025-10-07,Refunds,0.00
+2025-10-07,Net sales,2144.27
+2025-10-07,Overpayments,0.00
+2025-10-07,Taxes expected,199.22
+2025-10-07,Taxes collected,199.07
+2025-10-07,Tips,49.72
+2025-10-07,Amount collected,2393.06
+2025-10-07,Unpaid balance,0.00
+2025-10-08,Gross sales,2231.74
+2025-10-08,Refunds,0.00
+2025-10-08,Net sales,2231.74
+2025-10-08,Overpayments,0.00
+2025-10-08,Taxes expected,204.73
+2025-10-08,Taxes collected,203.90
+2025-10-08,Tips,22.20
+2025-10-08,Amount collected,2457.84
+2025-10-08,Unpaid balance,0.00
+2025-10-09,Gross sales,2171.54
+2025-10-09,Refunds,0.00
+2025-10-09,Net sales,2171.54
+2025-10-09,Overpayments,0.00
+2025-10-09,Taxes expected,198.19
+2025-10-09,Taxes collected,198.19
+2025-10-09,Tips,20.74
+2025-10-09,Amount collected,2390.47
+2025-10-09,Unpaid balance,0.00
+2025-10-10,Gross sales,3431.11
+2025-10-10,Refunds,0.00
+2025-10-10,Net sales,3431.11
+2025-10-10,Overpayments,0.00
+2025-10-10,Taxes expected,314.35
+2025-10-10,Taxes collected,314.35
+2025-10-10,Tips,78.09
+2025-10-10,Amount collected,3823.55
+2025-10-10,Unpaid balance,0.00
+2025-10-11,Gross sales,3130.97
+2025-10-11,Refunds,0.00
+2025-10-11,Net sales,3130.97
+2025-10-11,Overpayments,0.00
+2025-10-11,Taxes expected,284.00
+2025-10-11,Taxes collected,284.00
+2025-10-11,Tips,37.59
+2025-10-11,Amount collected,3452.56
+2025-10-11,Unpaid balance,0.00
+2025-10-12,Gross sales,2765.23
+2025-10-12,Refunds,0.00
+2025-10-12,Net sales,2765.23
+2025-10-12,Overpayments,0.29
+2025-10-12,Taxes expected,257.00
+2025-10-12,Taxes collected,257.00
+2025-10-12,Tips,53.08
+2025-10-12,Amount collected,3075.60
+2025-10-12,Unpaid balance,0.00
+2025-10-13,Gross sales,1730.75
+2025-10-13,Refunds,0.00
+2025-10-13,Net sales,1730.75
+2025-10-13,Overpayments,0.00
+2025-10-13,Taxes expected,159.31
+2025-10-13,Taxes collected,159.31
+2025-10-13,Tips,23.73
+2025-10-13,Amount collected,1913.79
+2025-10-13,Unpaid balance,0.00
+2025-10-14,Gross sales,2117.25
+2025-10-14,Refunds,0.00
+2025-10-14,Net sales,2117.25
+2025-10-14,Overpayments,0.00
+2025-10-14,Taxes expected,195.36
+2025-10-14,Taxes collected,195.36
+2025-10-14,Tips,34.47
+2025-10-14,Amount collected,2347.08
+2025-10-14,Unpaid balance,0.00
+2025-10-15,Gross sales,2400.09
+2025-10-15,Refunds,0.00
+2025-10-15,Net sales,2400.09
+2025-10-15,Overpayments,0.00
+2025-10-15,Taxes expected,220.57
+2025-10-15,Taxes collected,220.57
+2025-10-15,Tips,45.38
+2025-10-15,Amount collected,2666.04
+2025-10-15,Unpaid balance,0.00
+2025-10-16,Gross sales,2547.98
+2025-10-16,Refunds,0.00
+2025-10-16,Net sales,2547.98
+2025-10-16,Overpayments,0.00
+2025-10-16,Taxes expected,230.32
+2025-10-16,Taxes collected,230.32
+2025-10-16,Tips,61.33
+2025-10-16,Amount collected,2839.63
+2025-10-16,Unpaid balance,0.00
+2025-10-17,Gross sales,3242.40
+2025-10-17,Refunds,0.00
+2025-10-17,Net sales,3242.40
+2025-10-17,Overpayments,0.00
+2025-10-17,Taxes expected,295.81
+2025-10-17,Taxes collected,295.81
+2025-10-17,Tips,84.81
+2025-10-17,Amount collected,3623.02
+2025-10-17,Unpaid balance,0.00
+2025-10-18,Gross sales,3712.68
+2025-10-18,Refunds,0.00
+2025-10-18,Net sales,3712.68
+2025-10-18,Overpayments,0.00
+2025-10-18,Taxes expected,336.22
+2025-10-18,Taxes collected,336.22
+2025-10-18,Tips,67.96
+2025-10-18,Amount collected,4116.86
+2025-10-18,Unpaid balance,0.00
+2025-10-19,Gross sales,3040.14
+2025-10-19,Refunds,0.00
+2025-10-19,Net sales,3040.14
+2025-10-19,Overpayments,0.00
+2025-10-19,Taxes expected,279.89
+2025-10-19,Taxes collected,279.89
+2025-10-19,Tips,64.79
+2025-10-19,Amount collected,3384.82
+2025-10-19,Unpaid balance,0.00
+2025-10-20,Gross sales,2101.80
+2025-10-20,Refunds,0.00
+2025-10-20,Net sales,2101.80
+2025-10-20,Overpayments,0.00
+2025-10-20,Taxes expected,195.44
+2025-10-20,Taxes collected,195.44
+2025-10-20,Tips,37.32
+2025-10-20,Amount collected,2334.56
+2025-10-20,Unpaid balance,0.00
+2025-10-21,Gross sales,1906.87
+2025-10-21,Refunds,0.00
+2025-10-21,Net sales,1906.87
+2025-10-21,Overpayments,0.00
+2025-10-21,Taxes expected,177.08
+2025-10-21,Taxes collected,177.08
+2025-10-21,Tips,47.04
+2025-10-21,Amount collected,2130.99
+2025-10-21,Unpaid balance,0.00
+2025-10-22,Gross sales,2453.43
+2025-10-22,Refunds,0.00
+2025-10-22,Net sales,2453.43
+2025-10-22,Overpayments,0.00
+2025-10-22,Taxes expected,222.86
+2025-10-22,Taxes collected,222.86
+2025-10-22,Tips,31.71
+2025-10-22,Amount collected,2708.00
+2025-10-22,Unpaid balance,0.00
+2025-10-23,Gross sales,2269.11
+2025-10-23,Refunds,0.00
+2025-10-23,Net sales,2269.11
+2025-10-23,Overpayments,0.00
+2025-10-23,Taxes expected,206.97
+2025-10-23,Taxes collected,206.97
+2025-10-23,Tips,53.72
+2025-10-23,Amount collected,2517.20
+2025-10-23,Unpaid balance,12.60
+2025-10-24,Gross sales,2989.28
+2025-10-24,Refunds,0.00
+2025-10-24,Net sales,2989.28
+2025-10-24,Overpayments,0.00
+2025-10-24,Taxes expected,274.17
+2025-10-24,Taxes collected,274.17
+2025-10-24,Tips,58.09
+2025-10-24,Amount collected,3321.54
+2025-10-24,Unpaid balance,0.00
+2025-10-25,Gross sales,3032.23
+2025-10-25,Refunds,0.00
+2025-10-25,Net sales,3032.23
+2025-10-25,Overpayments,0.00
+2025-10-25,Taxes expected,277.56
+2025-10-25,Taxes collected,277.56
+2025-10-25,Tips,32.51
+2025-10-25,Amount collected,3342.30
+2025-10-25,Unpaid balance,0.00
+2025-10-26,Gross sales,2858.29
+2025-10-26,Refunds,0.00
+2025-10-26,Net sales,2858.29
+2025-10-26,Overpayments,0.00
+2025-10-26,Taxes expected,263.13
+2025-10-26,Taxes collected,263.13
+2025-10-26,Tips,46.87
+2025-10-26,Amount collected,3168.29
+2025-10-26,Unpaid balance,0.00
+2025-10-27,Gross sales,1975.12
+2025-10-27,Refunds,0.00
+2025-10-27,Net sales,1975.12
+2025-10-27,Overpayments,0.00
+2025-10-27,Taxes expected,182.99
+2025-10-27,Taxes collected,182.99
+2025-10-27,Tips,51.78
+2025-10-27,Amount collected,2209.89
+2025-10-27,Unpaid balance,0.00
+2025-10-28,Gross sales,2203.47
+2025-10-28,Refunds,0.00
+2025-10-28,Net sales,2203.47
+2025-10-28,Overpayments,0.00
+2025-10-28,Taxes expected,201.13
+2025-10-28,Taxes collected,201.13
+2025-10-28,Tips,47.78
+2025-10-28,Amount collected,2452.38
+2025-10-28,Unpaid balance,0.00
+2025-10-29,Gross sales,2404.14
+2025-10-29,Refunds,0.00
+2025-10-29,Net sales,2404.14
+2025-10-29,Overpayments,0.00
+2025-10-29,Taxes expected,217.44
+2025-10-29,Taxes collected,217.44
+2025-10-29,Tips,26.51
+2025-10-29,Amount collected,2648.09
+2025-10-29,Unpaid balance,0.00
+2025-10-30,Gross sales,2366.48
+2025-10-30,Refunds,0.00
+2025-10-30,Net sales,2366.48
+2025-10-30,Overpayments,0.00
+2025-10-30,Taxes expected,219.56
+2025-10-30,Taxes collected,219.56
+2025-10-30,Tips,48.93
+2025-10-30,Amount collected,2634.97
+2025-10-30,Unpaid balance,0.00
+2025-10-31,Gross sales,3279.75
+2025-10-31,Refunds,0.00
+2025-10-31,Net sales,3279.75
+2025-10-31,Overpayments,0.00
+2025-10-31,Taxes expected,303.18
+2025-10-31,Taxes collected,303.18
+2025-10-31,Tips,76.84
+2025-10-31,Amount collected,3659.77
+2025-10-31,Unpaid balance,0.00
+2025-11-01,Gross sales,3227.45
+2025-11-01,Refunds,0.00
+2025-11-01,Net sales,3227.45
+2025-11-01,Overpayments,0.00
+2025-11-01,Taxes expected,292.49
+2025-11-01,Taxes collected,292.49
+2025-11-01,Tips,46.54
+2025-11-01,Amount collected,3566.48
+2025-11-01,Unpaid balance,0.00
+2025-11-02,Gross sales,3359.15
+2025-11-02,Refunds,0.00
+2025-11-02,Net sales,3359.15
+2025-11-02,Overpayments,0.00
+2025-11-02,Taxes expected,311.84
+2025-11-02,Taxes collected,311.84
+2025-11-02,Tips,86.20
+2025-11-02,Amount collected,3757.19
+2025-11-02,Unpaid balance,0.00
+2025-11-03,Gross sales,2103.26
+2025-11-03,Refunds,0.00
+2025-11-03,Net sales,2103.26
+2025-11-03,Overpayments,0.00
+2025-11-03,Taxes expected,190.74
+2025-11-03,Taxes collected,190.74
+2025-11-03,Tips,41.99
+2025-11-03,Amount collected,2335.99
+2025-11-03,Unpaid balance,0.00
+2025-11-04,Gross sales,0.00
+2025-11-04,Refunds,0.00
+2025-11-04,Net sales,0.00
+2025-11-04,Overpayments,0.00
+2025-11-04,Taxes expected,0.00
+2025-11-04,Taxes collected,0.00
+2025-11-04,Tips,0.00
+2025-11-04,Amount collected,0.00
+2025-11-04,Unpaid balance,0.00
+2025-11-05,Gross sales,2585.71
+2025-11-05,Refunds,0.00
+2025-11-05,Net sales,2585.71
+2025-11-05,Overpayments,0.00
+2025-11-05,Taxes expected,236.87
+2025-11-05,Taxes collected,236.87
+2025-11-05,Tips,47.43
+2025-11-05,Amount collected,2870.01
+2025-11-05,Unpaid balance,0.00
+2025-11-06,Gross sales,2386.38
+2025-11-06,Refunds,0.00
+2025-11-06,Net sales,2386.38
+2025-11-06,Overpayments,0.00
+2025-11-06,Taxes expected,219.71
+2025-11-06,Taxes collected,219.71
+2025-11-06,Tips,46.89
+2025-11-06,Amount collected,2652.98
+2025-11-06,Unpaid balance,0.00
+2025-11-07,Gross sales,3464.54
+2025-11-07,Refunds,0.00
+2025-11-07,Net sales,3464.54
+2025-11-07,Overpayments,0.00
+2025-11-07,Taxes expected,313.11
+2025-11-07,Taxes collected,313.11
+2025-11-07,Tips,35.95
+2025-11-07,Amount collected,3813.60
+2025-11-07,Unpaid balance,0.00
+2025-11-08,Gross sales,3666.59
+2025-11-08,Refunds,0.00
+2025-11-08,Net sales,3666.59
+2025-11-08,Overpayments,0.00
+2025-11-08,Taxes expected,336.74
+2025-11-08,Taxes collected,336.74
+2025-11-08,Tips,96.35
+2025-11-08,Amount collected,4099.68
+2025-11-08,Unpaid balance,0.00
+2025-11-09,Gross sales,3073.57
+2025-11-09,Refunds,0.00
+2025-11-09,Net sales,3073.57
+2025-11-09,Overpayments,0.00
+2025-11-09,Taxes expected,279.03
+2025-11-09,Taxes collected,279.03
+2025-11-09,Tips,63.91
+2025-11-09,Amount collected,3416.51
+2025-11-09,Unpaid balance,0.00
+2025-11-10,Gross sales,2033.49
+2025-11-10,Refunds,0.00
+2025-11-10,Net sales,2033.49
+2025-11-10,Overpayments,0.00
+2025-11-10,Taxes expected,188.76
+2025-11-10,Taxes collected,188.76
+2025-11-10,Tips,29.19
+2025-11-10,Amount collected,2251.44
+2025-11-10,Unpaid balance,0.00
+2025-11-11,Gross sales,2085.75
+2025-11-11,Refunds,0.00
+2025-11-11,Net sales,2085.75
+2025-11-11,Overpayments,0.00
+2025-11-11,Taxes expected,193.84
+2025-11-11,Taxes collected,193.84
+2025-11-11,Tips,29.51
+2025-11-11,Amount collected,2309.10
+2025-11-11,Unpaid balance,0.00
+2025-11-12,Gross sales,2736.83
+2025-11-12,Refunds,0.00
+2025-11-12,Net sales,2736.83
+2025-11-12,Overpayments,0.00
+2025-11-12,Taxes expected,251.79
+2025-11-12,Taxes collected,251.79
+2025-11-12,Tips,70.68
+2025-11-12,Amount collected,3059.30
+2025-11-12,Unpaid balance,0.00
+2025-11-13,Gross sales,2459.60
+2025-11-13,Refunds,0.00
+2025-11-13,Net sales,2459.60
+2025-11-13,Overpayments,0.00
+2025-11-13,Taxes expected,228.93
+2025-11-13,Taxes collected,228.93
+2025-11-13,Tips,47.55
+2025-11-13,Amount collected,2736.08
+2025-11-13,Unpaid balance,0.00
+2025-11-14,Gross sales,3100.03
+2025-11-14,Refunds,0.00
+2025-11-14,Net sales,3100.03
+2025-11-14,Overpayments,0.00
+2025-11-14,Taxes expected,280.36
+2025-11-14,Taxes collected,280.36
+2025-11-14,Tips,61.99
+2025-11-14,Amount collected,3442.38
+2025-11-14,Unpaid balance,0.00
+2025-11-15,Gross sales,3322.61
+2025-11-15,Refunds,0.00
+2025-11-15,Net sales,3322.61
+2025-11-15,Overpayments,0.00
+2025-11-15,Taxes expected,308.40
+2025-11-15,Taxes collected,308.40
+2025-11-15,Tips,49.92
+2025-11-15,Amount collected,3680.93
+2025-11-15,Unpaid balance,0.00
+2025-11-16,Gross sales,3319.73
+2025-11-16,Refunds,0.00
+2025-11-16,Net sales,3319.73
+2025-11-16,Overpayments,0.00
+2025-11-16,Taxes expected,305.05
+2025-11-16,Taxes collected,305.05
+2025-11-16,Tips,33.20
+2025-11-16,Amount collected,3657.98
+2025-11-16,Unpaid balance,0.00
+2025-11-17,Gross sales,1888.85
+2025-11-17,Refunds,0.00
+2025-11-17,Net sales,1888.85
+2025-11-17,Overpayments,0.00
+2025-11-17,Taxes expected,173.72
+2025-11-17,Taxes collected,173.72
+2025-11-17,Tips,22.61
+2025-11-17,Amount collected,2085.18
+2025-11-17,Unpaid balance,0.00
+2025-11-18,Gross sales,0.00
+2025-11-18,Refunds,0.00
+2025-11-18,Net sales,0.00
+2025-11-18,Overpayments,0.00
+2025-11-18,Taxes expected,0.00
+2025-11-18,Taxes collected,0.00
+2025-11-18,Tips,0.00
+2025-11-18,Amount collected,0.00
+2025-11-18,Unpaid balance,0.00
+2025-11-19,Gross sales,2285.13
+2025-11-19,Refunds,0.00
+2025-11-19,Net sales,2285.13
+2025-11-19,Overpayments,0.00
+2025-11-19,Taxes expected,207.31
+2025-11-19,Taxes collected,207.31
+2025-11-19,Tips,44.36
+2025-11-19,Amount collected,2536.80
+2025-11-19,Unpaid balance,0.00
+2025-11-20,Gross sales,2317.00
+2025-11-20,Refunds,0.00
+2025-11-20,Net sales,2317.00
+2025-11-20,Overpayments,0.00
+2025-11-20,Taxes expected,215.56
+2025-11-20,Taxes collected,215.56
+2025-11-20,Tips,52.54
+2025-11-20,Amount collected,2585.10
+2025-11-20,Unpaid balance,0.00
+2025-11-21,Gross sales,3526.92
+2025-11-21,Refunds,0.00
+2025-11-21,Net sales,3526.92
+2025-11-21,Overpayments,0.00
+2025-11-21,Taxes expected,319.55
+2025-11-21,Taxes collected,319.55
+2025-11-21,Tips,41.74
+2025-11-21,Amount collected,3888.21
+2025-11-21,Unpaid balance,0.00
+2025-11-22,Gross sales,3505.03
+2025-11-22,Refunds,0.00
+2025-11-22,Net sales,3505.03
+2025-11-22,Overpayments,0.00
+2025-11-22,Taxes expected,318.45
+2025-11-22,Taxes collected,318.45
+2025-11-22,Tips,43.54
+2025-11-22,Amount collected,3867.02
+2025-11-22,Unpaid balance,0.00
+2025-11-23,Gross sales,2881.67
+2025-11-23,Refunds,0.00
+2025-11-23,Net sales,2881.67
+2025-11-23,Overpayments,0.00
+2025-11-23,Taxes expected,266.29
+2025-11-23,Taxes collected,266.29
+2025-11-23,Tips,30.89
+2025-11-23,Amount collected,3178.85
+2025-11-23,Unpaid balance,0.00
+2025-11-24,Gross sales,2069.96
+2025-11-24,Refunds,0.00
+2025-11-24,Net sales,2069.96
+2025-11-24,Overpayments,0.00
+2025-11-24,Taxes expected,188.24
+2025-11-24,Taxes collected,188.24
+2025-11-24,Tips,37.10
+2025-11-24,Amount collected,2295.30
+2025-11-24,Unpaid balance,0.00
+2025-11-25,Gross sales,1949.05
+2025-11-25,Refunds,0.00
+2025-11-25,Net sales,1949.05
+2025-11-25,Overpayments,0.00
+2025-11-25,Taxes expected,178.35
+2025-11-25,Taxes collected,178.35
+2025-11-25,Tips,26.36
+2025-11-25,Amount collected,2153.76
+2025-11-25,Unpaid balance,0.00
+2025-11-26,Gross sales,2579.17
+2025-11-26,Refunds,0.00
+2025-11-26,Net sales,2579.17
+2025-11-26,Overpayments,0.00
+2025-11-26,Taxes expected,235.35
+2025-11-26,Taxes collected,235.35
+2025-11-26,Tips,46.78
+2025-11-26,Amount collected,2861.30
+2025-11-26,Unpaid balance,0.00
+2025-11-27,Gross sales,0.00
+2025-11-27,Refunds,0.00
+2025-11-27,Net sales,0.00
+2025-11-27,Overpayments,0.00
+2025-11-27,Taxes expected,0.00
+2025-11-27,Taxes collected,0.00
+2025-11-27,Tips,0.00
+2025-11-27,Amount collected,0.00
+2025-11-27,Unpaid balance,0.00
+2025-11-28,Gross sales,3612.98
+2025-11-28,Refunds,0.00
+2025-11-28,Net sales,3612.98
+2025-11-28,Overpayments,0.00
+2025-11-28,Taxes expected,326.99
+2025-11-28,Taxes collected,326.99
+2025-11-28,Tips,95.90
+2025-11-28,Amount collected,4035.87
+2025-11-28,Unpaid balance,0.00
+2025-11-29,Gross sales,3583.84
+2025-11-29,Refunds,0.00
+2025-11-29,Net sales,3583.84
+2025-11-29,Overpayments,1.70
+2025-11-29,Taxes expected,326.64
+2025-11-29,Taxes collected,326.64
+2025-11-29,Tips,51.26
+2025-11-29,Amount collected,3963.44
+2025-11-29,Unpaid balance,0.00
+2025-11-30,Gross sales,2929.09
+2025-11-30,Refunds,0.00
+2025-11-30,Net sales,2929.09
+2025-11-30,Overpayments,0.00
+2025-11-30,Taxes expected,266.19
+2025-11-30,Taxes collected,266.19
+2025-11-30,Tips,65.06
+2025-11-30,Amount collected,3260.34
+2025-11-30,Unpaid balance,0.00
+2025-12-01,Gross sales,1900.11
+2025-12-01,Refunds,0.00
+2025-12-01,Net sales,1900.11
+2025-12-01,Overpayments,0.00
+2025-12-01,Taxes expected,173.94
+2025-12-01,Taxes collected,173.94
+2025-12-01,Tips,24.37
+2025-12-01,Amount collected,2098.42
+2025-12-01,Unpaid balance,0.00
+2025-12-02,Gross sales,2110.82
+2025-12-02,Refunds,0.00
+2025-12-02,Net sales,2110.82
+2025-12-02,Overpayments,0.00
+2025-12-02,Taxes expected,194.90
+2025-12-02,Taxes collected,194.90
+2025-12-02,Tips,27.54
+2025-12-02,Amount collected,2333.26
+2025-12-02,Unpaid balance,0.00
+2025-12-03,Gross sales,2509.68
+2025-12-03,Refunds,0.00
+2025-12-03,Net sales,2509.68
+2025-12-03,Overpayments,0.00
+2025-12-03,Taxes expected,228.74
+2025-12-03,Taxes collected,228.74
+2025-12-03,Tips,52.61
+2025-12-03,Amount collected,2791.03
+2025-12-03,Unpaid balance,0.00
+2025-12-04,Gross sales,2565.43
+2025-12-04,Refunds,0.00
+2025-12-04,Net sales,2565.43
+2025-12-04,Overpayments,0.00
+2025-12-04,Taxes expected,238.48
+2025-12-04,Taxes collected,238.48
+2025-12-04,Tips,62.34
+2025-12-04,Amount collected,2866.25
+2025-12-04,Unpaid balance,0.00
+2025-12-05,Gross sales,3315.83
+2025-12-05,Refunds,0.00
+2025-12-05,Net sales,3315.83
+2025-12-05,Overpayments,0.00
+2025-12-05,Taxes expected,305.62
+2025-12-05,Taxes collected,305.62
+2025-12-05,Tips,84.49
+2025-12-05,Amount collected,3705.94
+2025-12-05,Unpaid balance,0.00
+2025-12-06,Gross sales,3801.02
+2025-12-06,Refunds,0.00
+2025-12-06,Net sales,3801.02
+2025-12-06,Overpayments,0.00
+2025-12-06,Taxes expected,343.49
+2025-12-06,Taxes collected,343.49
+2025-12-06,Tips,51.96
+2025-12-06,Amount collected,4196.47
+2025-12-06,Unpaid balance,0.00
+2025-12-07,Gross sales,3378.71
+2025-12-07,Refunds,0.00
+2025-12-07,Net sales,3378.71
+2025-12-07,Overpayments,0.00
+2025-12-07,Taxes expected,306.44
+2025-12-07,Taxes collected,306.44
+2025-12-07,Tips,57.43
+2025-12-07,Amount collected,3742.58
+2025-12-07,Unpaid balance,0.00
+2025-12-08,Gross sales,1888.83
+2025-12-08,Refunds,0.00
+2025-12-08,Net sales,1888.83
+2025-12-08,Overpayments,0.00
+2025-12-08,Taxes expected,175.26
+2025-12-08,Taxes collected,175.26
+2025-12-08,Tips,29.83
+2025-12-08,Amount collected,2093.92
+2025-12-08,Unpaid balance,0.00
+2025-12-09,Gross sales,2195.99
+2025-12-09,Refunds,0.00
+2025-12-09,Net sales,2195.99
+2025-12-09,Overpayments,0.00
+2025-12-09,Taxes expected,201.88
+2025-12-09,Taxes collected,201.88
+2025-12-09,Tips,35.21
+2025-12-09,Amount collected,2433.08
+2025-12-09,Unpaid balance,0.00
+2025-12-10,Gross sales,2776.82
+2025-12-10,Refunds,0.00
+2025-12-10,Net sales,2776.82
+2025-12-10,Overpayments,0.00
+2025-12-10,Taxes expected,256.51
+2025-12-10,Taxes collected,256.51
+2025-12-10,Tips,46.59
+2025-12-10,Amount collected,3079.92
+2025-12-10,Unpaid balance,0.00
+2025-12-11,Gross sales,2868.29
+2025-12-11,Refunds,0.00
+2025-12-11,Net sales,2868.29
+2025-12-11,Overpayments,0.00
+2025-12-11,Taxes expected,261.61
+2025-12-11,Taxes collected,261.61
+2025-12-11,Tips,64.04
+2025-12-11,Amount collected,3193.94
+2025-12-11,Unpaid balance,0.00
+2025-12-12,Gross sales,3422.33
+2025-12-12,Refunds,0.00
+2025-12-12,Net sales,3422.33
+2025-12-12,Overpayments,0.00
+2025-12-12,Taxes expected,317.42
+2025-12-12,Taxes collected,317.42
+2025-12-12,Tips,86.52
+2025-12-12,Amount collected,3826.27
+2025-12-12,Unpaid balance,0.00
+2025-12-13,Gross sales,3747.43
+2025-12-13,Refunds,0.00
+2025-12-13,Net sales,3747.43
+2025-12-13,Overpayments,0.00
+2025-12-13,Taxes expected,347.74
+2025-12-13,Taxes collected,347.74
+2025-12-13,Tips,75.14
+2025-12-13,Amount collected,4170.31
+2025-12-13,Unpaid balance,0.00
+2025-12-14,Gross sales,3515.93
+2025-12-14,Refunds,0.00
+2025-12-14,Net sales,3515.93
+2025-12-14,Overpayments,0.96
+2025-12-14,Taxes expected,324.46
+2025-12-14,Taxes collected,324.46
+2025-12-14,Tips,46.82
+2025-12-14,Amount collected,3888.17
+2025-12-14,Unpaid balance,0.00
+2025-12-15,Gross sales,1945.67
+2025-12-15,Refunds,0.00
+2025-12-15,Net sales,1945.67
+2025-12-15,Overpayments,0.00
+2025-12-15,Taxes expected,177.72
+2025-12-15,Taxes collected,177.72
+2025-12-15,Tips,45.18
+2025-12-15,Amount collected,2168.57
+2025-12-15,Unpaid balance,0.00
+2025-12-16,Gross sales,1987.37
+2025-12-16,Refunds,0.00
+2025-12-16,Net sales,1987.37
+2025-12-16,Overpayments,0.00
+2025-12-16,Taxes expected,180.29
+2025-12-16,Taxes collected,180.29
+2025-12-16,Tips,32.33
+2025-12-16,Amount collected,2199.99
+2025-12-16,Unpaid balance,0.00
+2025-12-17,Gross sales,2575.38
+2025-12-17,Refunds,0.00
+2025-12-17,Net sales,2575.38
+2025-12-17,Overpayments,0.00
+2025-12-17,Taxes expected,237.14
+2025-12-17,Taxes collected,237.14
+2025-12-17,Tips,42.76
+2025-12-17,Amount collected,2855.28
+2025-12-17,Unpaid balance,0.00
+2025-12-18,Gross sales,2515.92
+2025-12-18,Refunds,0.00
+2025-12-18,Net sales,2515.92
+2025-12-18,Overpayments,0.00
+2025-12-18,Taxes expected,234.25
+2025-12-18,Taxes collected,234.25
+2025-12-18,Tips,29.38
+2025-12-18,Amount collected,2779.55
+2025-12-18,Unpaid balance,0.00
+2025-12-19,Gross sales,3826.81
+2025-12-19,Refunds,0.00
+2025-12-19,Net sales,3826.81
+2025-12-19,Overpayments,0.00
+2025-12-19,Taxes expected,351.08
+2025-12-19,Taxes collected,351.08
+2025-12-19,Tips,47.68
+2025-12-19,Amount collected,4225.57
+2025-12-19,Unpaid balance,0.00
+2025-12-20,Gross sales,3297.88
+2025-12-20,Refunds,0.00
+2025-12-20,Net sales,3297.88
+2025-12-20,Overpayments,0.00
+2025-12-20,Taxes expected,305.95
+2025-12-20,Taxes collected,305.95
+2025-12-20,Tips,58.81
+2025-12-20,Amount collected,3662.64
+2025-12-20,Unpaid balance,0.00
+2025-12-21,Gross sales,3512.88
+2025-12-21,Refunds,0.00
+2025-12-21,Net sales,3512.88
+2025-12-21,Overpayments,0.00
+2025-12-21,Taxes expected,321.87
+2025-12-21,Taxes collected,321.87
+2025-12-21,Tips,73.29
+2025-12-21,Amount collected,3908.04
+2025-12-21,Unpaid balance,0.00
+2025-12-22,Gross sales,2164.70
+2025-12-22,Refunds,0.00
+2025-12-22,Net sales,2164.70
+2025-12-22,Overpayments,0.00
+2025-12-22,Taxes expected,200.23
+2025-12-22,Taxes collected,200.23
+2025-12-22,Tips,27.01
+2025-12-22,Amount collected,2391.94
+2025-12-22,Unpaid balance,0.00
+2025-12-23,Gross sales,2260.85
+2025-12-23,Refunds,0.00
+2025-12-23,Net sales,2260.85
+2025-12-23,Overpayments,0.00
+2025-12-23,Taxes expected,205.42
+2025-12-23,Taxes collected,205.42
+2025-12-23,Tips,26.88
+2025-12-23,Amount collected,2493.15
+2025-12-23,Unpaid balance,0.00
+2025-12-24,Gross sales,2686.33
+2025-12-24,Refunds,0.00
+2025-12-24,Net sales,2686.33
+2025-12-24,Overpayments,0.44
+2025-12-24,Taxes expected,250.02
+2025-12-24,Taxes collected,250.02
+2025-12-24,Tips,56.29
+2025-12-24,Amount collected,2993.08
+2025-12-24,Unpaid balance,0.00
+2025-12-25,Gross sales,0.00
+2025-12-25,Refunds,0.00
+2025-12-25,Net sales,0.00
+2025-12-25,Overpayments,0.00
+2025-12-25,Taxes expected,0.00
+2025-12-25,Taxes collected,0.00
+2025-12-25,Tips,0.00
+2025-12-25,Amount collected,0.00
+2025-12-25,Unpaid balance,0.00
+2025-12-26,Gross sales,3520.19
+2025-12-26,Refunds,0.00
+2025-12-26,Net sales,3520.19
+2025-12-26,Overpayments,0.00
+2025-12-26,Taxes expected,323.12
+2025-12-26,Taxes collected,323.12
+2025-12-26,Tips,90.88
+2025-12-26,Amount collected,3934.19
+2025-12-26,Unpaid balance,0.00
+2025-12-27,Gross sales,3825.09
+2025-12-27,Refunds,0.00
+2025-12-27,Net sales,3825.09
+2025-12-27,Overpayments,0.00
+2025-12-27,Taxes expected,353.51
+2025-12-27,Taxes collected,353.51
+2025-12-27,Tips,55.62
+2025-12-27,Amount collected,4234.22
+2025-12-27,Unpaid balance,0.00
+2025-12-28,Gross sales,3344.26
+2025-12-28,Refunds,0.00
+2025-12-28,Net sales,3344.26
+2025-12-28,Overpayments,0.00
+2025-12-28,Taxes expected,305.07
+2025-12-28,Taxes collected,305.07
+2025-12-28,Tips,66.61
+2025-12-28,Amount collected,3715.94
+2025-12-28,Unpaid balance,0.00
+2025-12-29,Gross sales,1866.45
+2025-12-29,Refunds,0.00
+2025-12-29,Net sales,1866.45
+2025-12-29,Overpayments,0.00
+2025-12-29,Taxes expected,169.66
+2025-12-29,Taxes collected,169.66
+2025-12-29,Tips,22.68
+2025-12-29,Amount collected,2058.79
+2025-12-29,Unpaid balance,0.00
+2025-12-30,Gross sales,2286.35
+2025-12-30,Refunds,0.00
+2025-12-30,Net sales,2286.35
+2025-12-30,Overpayments,0.00
+2025-12-30,Taxes expected,208.65
+2025-12-30,Taxes collected,208.65
+2025-12-30,Tips,31.40
+2025-12-30,Amount collected,2526.40
+2025-12-30,Unpaid balance,0.00
+2025-12-31,Gross sales,2512.67
+2025-12-31,Refunds,0.00
+2025-12-31,Net sales,2512.67
+2025-12-31,Overpayments,0.00
+2025-12-31,Taxes expected,233.91
+2025-12-31,Taxes collected,233.91
+2025-12-31,Tips,63.65
+2025-12-31,Amount collected,2810.23
+2025-12-31,Unpaid balance,0.00
