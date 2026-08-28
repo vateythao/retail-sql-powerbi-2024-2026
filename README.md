@@ -2,18 +2,46 @@
 
 ## Project Overview
 
-This project demonstrates a full local data analytics workflow using SQL Server Express, SQL Server Management Studio, Excel/CSV files, Power Query, and Power BI Desktop.
+This project demonstrates an end-to-end retail data analytics workflow using Python, SQL Server, and Power BI.
 
-The project uses fake retail sales and inventory data from 2024 through 2026. The goal was to practice importing data into SQL Server, creating staging tables, cleaning and combining yearly files, building SQL reporting views, and creating a Power BI dashboard for business analysis.
+The project uses fake retail sales and inventory data from 2024 through 2026. Python is used to extract and clean yearly Excel sales reports, perform automated data-quality checks, reshape the data into an analytics-ready format, combine multiple years, and load the cleaned dataset into SQL Server. SQL Server is used for data storage, transformation, reporting views, and analytical queries, while Power BI is used to build an interactive business dashboard.
+
+The Python ETL pipeline can process all three years and load 9,864 validated sales records into SQL Server with a single command.
+
+
 
 ## Tools Used
 
-* SQL Server Express
-* SQL Server Management Studio
-* Excel / CSV
-* Power Query
-* Power BI Desktop
-* Windows local development environment
+- Python 3.14
+- pandas
+- openpyxl
+- pyodbc
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- Power BI
+- Git
+- GitHub
+
+## ETL Workflow
+
+The Python ETL pipeline automates the preparation of retail sales data before it is loaded into SQL Server.
+
+```text
+Raw Excel Files (2024–2026)
+        ↓
+Python Data Cleaning
+        ↓
+Data Quality Validation
+        ↓
+Reshape to Long Format
+        ↓
+Combine All Years
+        ↓
+Clean CSV Output
+        ↓
+Load into SQL Server
+        ↓
+Power BI Dashboard
 
 ## Database
 
@@ -29,6 +57,90 @@ SQL Server connection:
 localhost\SQLEXPRESS
 ```
 
+## How to Run the ETL Pipeline
+
+1. Create and activate a Python virtual environment.
+
+```powershell
+python -m venv .venv
+.venv\Scripts\activate
+
+## SQL Server Configuration
+
+The Python scripts use Windows Authentication to connect to SQL Server.
+
+By default, the scripts use:
+
+```text
+Server: localhost\SQLEXPRESS
+Database: RetailPortfolio_2024_2026
+## Project Structure
+
+```text
+RetailPortfolio_2024_2026/
+│
+├── 01_Raw_Data/
+│   ├── Sales/
+│   ├── Inventory/
+│   └── Other_Reports/
+│
+├── 02_Clean_Data/
+│   ├── sales_2024_clean.csv
+│   ├── sales_2025_clean.csv
+│   ├── sales_2026_clean.csv
+│   └── sales_2024_2026_combined.csv
+│
+├── 03_Python_Scripts/
+│   ├── data_quality_check.py
+│   ├── combine_sales_data.py
+│   ├── load_sales_to_sql.py
+│   ├── test_sql_connection.py
+│   └── run_etl_pipeline.py
+│
+├── 03_SQL_Scripts/
+├── 04_PowerBI/
+├── 05_Screenshots/
+├── requirements.txt
+├── .gitignore
+└── README.md
+
+## Key Features
+
+- End-to-end retail analytics workflow using Python, SQL Server, and Power BI
+- Automated processing of 2024, 2025, and 2026 sales workbooks
+- Data cleaning and validation with pandas
+- Detection of missing values and duplicate records
+- Currency and date standardization
+- Transformation from report-style Excel data into analytics-ready long format
+- Automated combination of multiple yearly datasets
+- SQL Server loading with pyodbc
+- Safe table refresh process to prevent duplicate inserts
+- One-command master ETL pipeline
+- Power BI dashboard for business reporting and trend analysis
+
+## Data Quality Results
+
+The final combined dataset contains:
+
+- 9,864 validated sales records
+- 0 missing values
+- 0 duplicate Metric + SalesDate records
+- Complete date coverage from January 1, 2024 through December 31, 2026
+- 9 core sales metrics processed for each daily reporting period
+
+## What This Project Demonstrates
+
+This project demonstrates practical experience with:
+
+- Python data cleaning and transformation
+- ETL pipeline design and automation
+- Data quality validation
+- SQL Server database integration
+- Working with multi-year datasets
+- Preparing analytics-ready data for reporting
+- Power BI dashboard development
+- Git and GitHub version control
+- Organizing a real-world analytics project for reproducibility and portfolio presentation
 ## Project Workflow
 
 1. Created a local SQL Server database.
