@@ -1,5 +1,13 @@
 # Retail Analytics Portfolio Project: Python, SQL Server & Power BI (2024–2026)
 
+### Project Highlights
+
+- **End-to-End Pipeline:** Raw Excel → Python ETL → SQL Server → Power BI
+- **Data Coverage:** 2024–2026 retail sales data
+- **Validated Records:** 9,864 cleaned sales records
+- **Automation:** Full ETL pipeline runs with one Python command
+- **Core Technologies:** Python, pandas, SQL Server, Power BI, Git
+
 ## Project Overview
 
 This project demonstrates an end-to-end retail data analytics workflow using Python, SQL Server, and Power BI.
@@ -12,14 +20,6 @@ The Python ETL pipeline can process all three years and load 9,864 validated sal
 
 ![Power BI Executive Overview](05_Screenshots/06_powerbi_executive_overview_2024_2026.png)
 
-
-### Project Highlights
-
-- **End-to-End Pipeline:** Raw Excel → Python ETL → SQL Server → Power BI
-- **Data Coverage:** 2024–2026 retail sales data
-- **Validated Records:** 9,864 cleaned sales records
-- **Automation:** Full ETL pipeline runs with one Python command
-- **Core Technologies:** Python, pandas, SQL Server, Power BI, Git
 
 ## Tools Used
 
