@@ -37,22 +37,16 @@ The Python ETL pipeline can process all three years and load 9,864 validated sal
 
 The Python ETL pipeline automates the preparation of retail sales data before it is loaded into SQL Server.
 
-```text
-Raw Excel Files (2024–2026)
-        ↓
-Python Data Cleaning
-        ↓
-Data Quality Validation
-        ↓
-Reshape to Long Format
-        ↓
-Combine All Years
-        ↓
-Clean CSV Output
-        ↓
-Load into SQL Server
-        ↓
-Power BI Dashboard
+```mermaid
+flowchart TD
+    A["Raw Excel Files (2024-2026)"] --> B["Python Data Cleaning"]
+    B --> C["Data Quality Validation"]
+    C --> D["Reshape to Long Format"]
+    D --> E["Combine All Years"]
+    E --> F["Clean CSV Output"]
+    F --> G["Load into SQL Server"]
+    G --> H["Power BI Dashboard"]
+```
 
 ## Database
 
