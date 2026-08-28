@@ -70,6 +70,40 @@ flowchart LR
     M["Calendar"] --> N["Power BI Date Analysis"]
 ```
 
+## Business Questions Answered
+
+This project supports analysis of key retail business questions, including:
+
+- How do net sales change from 2024 through 2026?
+- Which months generate the highest and lowest sales?
+- How do gross sales compare with net sales?
+- How much revenue is lost through refunds?
+- How much tax is expected versus actually collected?
+- Which days of the week generate the strongest sales performance?
+- How does overall sales performance change over time?
+
+## Key Insights
+
+The project highlights several useful retail performance patterns:
+
+- Sales performance varies across years and months, making trend analysis important for planning.
+- Net sales and gross sales remain closely related, while refunds reduce realized revenue.
+- Tax expected and tax collected can be compared to identify collection differences.
+- Daily and monthly views help identify periods of stronger and weaker performance.
+- Combining Python, SQL Server, and Power BI creates a repeatable workflow from raw data to business reporting.
+
+## Future Enhancements
+
+Potential improvements to make the pipeline more production-ready include:
+
+- Add structured logging and error handling for ETL runs
+- Implement incremental loading instead of full-table refreshes
+- Store database configuration securely using environment variables
+- Add automated unit and data-quality tests
+- Schedule the ETL pipeline to run automatically
+- Add Python visualizations for exploratory data analysis
+- Deploy the data pipeline using a cloud platform such as Azure or AWS
+
 ## Database
 
 Database name:
