@@ -48,6 +48,28 @@ flowchart TD
     G --> H["Power BI Dashboard"]
 ```
 
+## Data Model
+
+The SQL Server layer organizes the cleaned retail data into structured tables and views designed for reporting and Power BI analysis.
+
+```mermaid
+flowchart LR
+    A["stg_daily_sales_summary_2024"] --> D["DailySalesSummary"]
+    B["stg_daily_sales_summary_2025"] --> D
+    C["stg_daily_sales_summary_2026"] --> D
+
+    D --> E["vw_daily_sales_summary"]
+    E --> F["vw_monthly_sales"]
+    E --> G["vw_yearly_sales"]
+    E --> H["vw_sales_kpi_daily"]
+
+    I["Products"] --> J["vw_product_catalog"]
+
+    K["Python ETL"] --> L["python_sales_clean"]
+
+    M["Calendar"] --> N["Power BI Date Analysis"]
+```
+
 ## Database
 
 Database name:
