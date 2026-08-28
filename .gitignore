@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+# Power BI generated/recovery files
+04_PowerBI/recover.pbix
+04_PowerBI/*.Report/
+04_PowerBI/*.SemanticModel/
+04_PowerBI/*.Report.zip
+04_PowerBI/*.pbip
+04_PowerBI/.gitignore

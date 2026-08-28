@@ -1,0 +1,3286 @@
+Metric,SalesDate,Amount
+Gross sales,2026-01-01,0.0
+Refunds,2026-01-01,0.0
+Net sales,2026-01-01,0.0
+Overpayments,2026-01-01,0.0
+Taxes expected,2026-01-01,0.0
+Taxes collected,2026-01-01,0.0
+Tips,2026-01-01,0.0
+Amount collected,2026-01-01,0.0
+Unpaid balance,2026-01-01,0.0
+Gross sales,2026-01-02,3033.5
+Refunds,2026-01-02,0.0
+Net sales,2026-01-02,3033.5
+Overpayments,2026-01-02,0.0
+Taxes expected,2026-01-02,282.34
+Taxes collected,2026-01-02,282.34
+Tips,2026-01-02,41.53
+Amount collected,2026-01-02,3357.37
+Unpaid balance,2026-01-02,0.0
+Gross sales,2026-01-03,3149.85
+Refunds,2026-01-03,0.0
+Net sales,2026-01-03,3149.85
+Overpayments,2026-01-03,0.0
+Taxes expected,2026-01-03,287.44
+Taxes collected,2026-01-03,287.44
+Tips,2026-01-03,51.08
+Amount collected,2026-01-03,3488.37
+Unpaid balance,2026-01-03,0.0
+Gross sales,2026-01-04,3074.12
+Refunds,2026-01-04,0.0
+Net sales,2026-01-04,3074.12
+Overpayments,2026-01-04,0.0
+Taxes expected,2026-01-04,280.45
+Taxes collected,2026-01-04,280.45
+Tips,2026-01-04,76.92
+Amount collected,2026-01-04,3431.49
+Unpaid balance,2026-01-04,0.0
+Gross sales,2026-01-05,1737.34
+Refunds,2026-01-05,0.0
+Net sales,2026-01-05,1737.34
+Overpayments,2026-01-05,0.0
+Taxes expected,2026-01-05,157.55
+Taxes collected,2026-01-05,157.0
+Tips,2026-01-05,26.36
+Amount collected,2026-01-05,1920.7
+Unpaid balance,2026-01-05,0.0
+Gross sales,2026-01-06,1912.01
+Refunds,2026-01-06,0.0
+Net sales,2026-01-06,1912.01
+Overpayments,2026-01-06,0.0
+Taxes expected,2026-01-06,175.86
+Taxes collected,2026-01-06,175.86
+Tips,2026-01-06,18.59
+Amount collected,2026-01-06,2106.46
+Unpaid balance,2026-01-06,0.0
+Gross sales,2026-01-07,2250.17
+Refunds,2026-01-07,0.0
+Net sales,2026-01-07,2250.17
+Overpayments,2026-01-07,0.0
+Taxes expected,2026-01-07,205.51
+Taxes collected,2026-01-07,205.51
+Tips,2026-01-07,25.79
+Amount collected,2026-01-07,2481.47
+Unpaid balance,2026-01-07,0.0
+Gross sales,2026-01-08,2509.9
+Refunds,2026-01-08,0.0
+Net sales,2026-01-08,2509.9
+Overpayments,2026-01-08,0.0
+Taxes expected,2026-01-08,231.23
+Taxes collected,2026-01-08,231.23
+Tips,2026-01-08,37.54
+Amount collected,2026-01-08,2778.67
+Unpaid balance,2026-01-08,0.0
+Gross sales,2026-01-09,2871.87
+Refunds,2026-01-09,0.0
+Net sales,2026-01-09,2871.87
+Overpayments,2026-01-09,0.0
+Taxes expected,2026-01-09,261.91
+Taxes collected,2026-01-09,261.91
+Tips,2026-01-09,69.55
+Amount collected,2026-01-09,3203.33
+Unpaid balance,2026-01-09,0.0
+Gross sales,2026-01-10,3240.55
+Refunds,2026-01-10,0.0
+Net sales,2026-01-10,3240.55
+Overpayments,2026-01-10,0.0
+Taxes expected,2026-01-10,301.43
+Taxes collected,2026-01-10,301.43
+Tips,2026-01-10,43.52
+Amount collected,2026-01-10,3585.5
+Unpaid balance,2026-01-10,0.0
+Gross sales,2026-01-11,2850.91
+Refunds,2026-01-11,0.0
+Net sales,2026-01-11,2850.91
+Overpayments,2026-01-11,0.0
+Taxes expected,2026-01-11,264.81
+Taxes collected,2026-01-11,264.81
+Tips,2026-01-11,31.66
+Amount collected,2026-01-11,3147.38
+Unpaid balance,2026-01-11,0.0
+Gross sales,2026-01-12,1743.73
+Refunds,2026-01-12,0.0
+Net sales,2026-01-12,1743.73
+Overpayments,2026-01-12,0.0
+Taxes expected,2026-01-12,160.56
+Taxes collected,2026-01-12,160.3
+Tips,2026-01-12,42.04
+Amount collected,2026-01-12,1946.07
+Unpaid balance,2026-01-12,0.0
+Gross sales,2026-01-13,1827.43
+Refunds,2026-01-13,0.0
+Net sales,2026-01-13,1827.43
+Overpayments,2026-01-13,0.0
+Taxes expected,2026-01-13,167.17
+Taxes collected,2026-01-13,167.17
+Tips,2026-01-13,48.3
+Amount collected,2026-01-13,2042.9
+Unpaid balance,2026-01-13,0.0
+Gross sales,2026-01-14,2176.28
+Refunds,2026-01-14,0.0
+Net sales,2026-01-14,2176.28
+Overpayments,2026-01-14,0.0
+Taxes expected,2026-01-14,200.64
+Taxes collected,2026-01-14,200.64
+Tips,2026-01-14,41.96
+Amount collected,2026-01-14,2418.88
+Unpaid balance,2026-01-14,0.0
+Gross sales,2026-01-15,2421.87
+Refunds,2026-01-15,0.0
+Net sales,2026-01-15,2421.87
+Overpayments,2026-01-15,0.0
+Taxes expected,2026-01-15,220.34
+Taxes collected,2026-01-15,220.34
+Tips,2026-01-15,44.67
+Amount collected,2026-01-15,2686.88
+Unpaid balance,2026-01-15,0.0
+Gross sales,2026-01-16,2706.99
+Refunds,2026-01-16,0.0
+Net sales,2026-01-16,2706.99
+Overpayments,2026-01-16,0.0
+Taxes expected,2026-01-16,245.67
+Taxes collected,2026-01-16,245.67
+Tips,2026-01-16,51.6
+Amount collected,2026-01-16,3004.26
+Unpaid balance,2026-01-16,0.0
+Gross sales,2026-01-17,3029.39
+Refunds,2026-01-17,0.0
+Net sales,2026-01-17,3029.39
+Overpayments,2026-01-17,0.0
+Taxes expected,2026-01-17,278.72
+Taxes collected,2026-01-17,278.72
+Tips,2026-01-17,48.78
+Amount collected,2026-01-17,3356.89
+Unpaid balance,2026-01-17,0.0
+Gross sales,2026-01-18,2526.64
+Refunds,2026-01-18,0.0
+Net sales,2026-01-18,2526.64
+Overpayments,2026-01-18,0.0
+Taxes expected,2026-01-18,234.17
+Taxes collected,2026-01-18,234.17
+Tips,2026-01-18,51.62
+Amount collected,2026-01-18,2812.43
+Unpaid balance,2026-01-18,0.0
+Gross sales,2026-01-19,1613.85
+Refunds,2026-01-19,0.0
+Net sales,2026-01-19,1613.85
+Overpayments,2026-01-19,0.0
+Taxes expected,2026-01-19,149.61
+Taxes collected,2026-01-19,149.61
+Tips,2026-01-19,17.19
+Amount collected,2026-01-19,1779.02
+Unpaid balance,2026-01-19,1.63
+Gross sales,2026-01-20,0.0
+Refunds,2026-01-20,0.0
+Net sales,2026-01-20,0.0
+Overpayments,2026-01-20,0.0
+Taxes expected,2026-01-20,0.0
+Taxes collected,2026-01-20,0.0
+Tips,2026-01-20,0.0
+Amount collected,2026-01-20,0.0
+Unpaid balance,2026-01-20,0.0
+Gross sales,2026-01-21,2195.3
+Refunds,2026-01-21,0.0
+Net sales,2026-01-21,2195.3
+Overpayments,2026-01-21,0.0
+Taxes expected,2026-01-21,203.02
+Taxes collected,2026-01-21,203.02
+Tips,2026-01-21,50.53
+Amount collected,2026-01-21,2448.85
+Unpaid balance,2026-01-21,0.0
+Gross sales,2026-01-22,2455.68
+Refunds,2026-01-22,0.0
+Net sales,2026-01-22,2455.68
+Overpayments,2026-01-22,0.0
+Taxes expected,2026-01-22,226.42
+Taxes collected,2026-01-22,226.42
+Tips,2026-01-22,41.3
+Amount collected,2026-01-22,2723.4
+Unpaid balance,2026-01-22,0.0
+Gross sales,2026-01-23,2491.38
+Refunds,2026-01-23,0.0
+Net sales,2026-01-23,2491.38
+Overpayments,2026-01-23,0.0
+Taxes expected,2026-01-23,227.26
+Taxes collected,2026-01-23,227.26
+Tips,2026-01-23,33.87
+Amount collected,2026-01-23,2752.51
+Unpaid balance,2026-01-23,0.0
+Gross sales,2026-01-24,2733.43
+Refunds,2026-01-24,0.0
+Net sales,2026-01-24,2733.43
+Overpayments,2026-01-24,0.0
+Taxes expected,2026-01-24,247.45
+Taxes collected,2026-01-24,247.45
+Tips,2026-01-24,26.73
+Amount collected,2026-01-24,3007.61
+Unpaid balance,2026-01-24,0.0
+Gross sales,2026-01-25,2819.62
+Refunds,2026-01-25,0.0
+Net sales,2026-01-25,2819.62
+Overpayments,2026-01-25,0.0
+Taxes expected,2026-01-25,255.08
+Taxes collected,2026-01-25,255.08
+Tips,2026-01-25,68.4
+Amount collected,2026-01-25,3143.1
+Unpaid balance,2026-01-25,0.0
+Gross sales,2026-01-26,1744.02
+Refunds,2026-01-26,0.0
+Net sales,2026-01-26,1744.02
+Overpayments,2026-01-26,0.0
+Taxes expected,2026-01-26,161.17
+Taxes collected,2026-01-26,161.17
+Tips,2026-01-26,46.02
+Amount collected,2026-01-26,1951.21
+Unpaid balance,2026-01-26,0.0
+Gross sales,2026-01-27,0.0
+Refunds,2026-01-27,0.0
+Net sales,2026-01-27,0.0
+Overpayments,2026-01-27,0.0
+Taxes expected,2026-01-27,0.0
+Taxes collected,2026-01-27,0.0
+Tips,2026-01-27,0.0
+Amount collected,2026-01-27,0.0
+Unpaid balance,2026-01-27,0.0
+Gross sales,2026-01-28,2422.09
+Refunds,2026-01-28,0.0
+Net sales,2026-01-28,2422.09
+Overpayments,2026-01-28,0.0
+Taxes expected,2026-01-28,219.24
+Taxes collected,2026-01-28,219.24
+Tips,2026-01-28,60.95
+Amount collected,2026-01-28,2702.28
+Unpaid balance,2026-01-28,0.0
+Gross sales,2026-01-29,2477.56
+Refunds,2026-01-29,0.0
+Net sales,2026-01-29,2477.56
+Overpayments,2026-01-29,0.0
+Taxes expected,2026-01-29,225.88
+Taxes collected,2026-01-29,225.88
+Tips,2026-01-29,32.35
+Amount collected,2026-01-29,2735.79
+Unpaid balance,2026-01-29,0.0
+Gross sales,2026-01-30,2441.09
+Refunds,2026-01-30,0.0
+Net sales,2026-01-30,2441.09
+Overpayments,2026-01-30,0.0
+Taxes expected,2026-01-30,224.42
+Taxes collected,2026-01-30,224.42
+Tips,2026-01-30,38.17
+Amount collected,2026-01-30,2703.68
+Unpaid balance,2026-01-30,0.0
+Gross sales,2026-01-31,3401.42
+Refunds,2026-01-31,0.0
+Net sales,2026-01-31,3401.42
+Overpayments,2026-01-31,0.0
+Taxes expected,2026-01-31,313.25
+Taxes collected,2026-01-31,313.25
+Tips,2026-01-31,50.58
+Amount collected,2026-01-31,3765.25
+Unpaid balance,2026-01-31,0.0
+Gross sales,2026-02-01,2524.07
+Refunds,2026-02-01,0.0
+Net sales,2026-02-01,2524.07
+Overpayments,2026-02-01,0.0
+Taxes expected,2026-02-01,228.63
+Taxes collected,2026-02-01,228.63
+Tips,2026-02-01,25.42
+Amount collected,2026-02-01,2778.12
+Unpaid balance,2026-02-01,0.0
+Gross sales,2026-02-02,1966.56
+Refunds,2026-02-02,0.0
+Net sales,2026-02-02,1966.56
+Overpayments,2026-02-02,0.0
+Taxes expected,2026-02-02,178.8
+Taxes collected,2026-02-02,178.8
+Tips,2026-02-02,38.26
+Amount collected,2026-02-02,2183.62
+Unpaid balance,2026-02-02,0.0
+Gross sales,2026-02-03,1951.09
+Refunds,2026-02-03,0.0
+Net sales,2026-02-03,1951.09
+Overpayments,2026-02-03,0.0
+Taxes expected,2026-02-03,178.88
+Taxes collected,2026-02-03,178.88
+Tips,2026-02-03,43.69
+Amount collected,2026-02-03,2173.66
+Unpaid balance,2026-02-03,0.0
+Gross sales,2026-02-04,2196.37
+Refunds,2026-02-04,0.0
+Net sales,2026-02-04,2196.37
+Overpayments,2026-02-04,0.0
+Taxes expected,2026-02-04,203.62
+Taxes collected,2026-02-04,203.62
+Tips,2026-02-04,40.17
+Amount collected,2026-02-04,2440.16
+Unpaid balance,2026-02-04,0.0
+Gross sales,2026-02-05,2515.38
+Refunds,2026-02-05,0.0
+Net sales,2026-02-05,2515.38
+Overpayments,2026-02-05,0.0
+Taxes expected,2026-02-05,233.13
+Taxes collected,2026-02-05,233.13
+Tips,2026-02-05,44.89
+Amount collected,2026-02-05,2793.4
+Unpaid balance,2026-02-05,0.0
+Gross sales,2026-02-06,3087.89
+Refunds,2026-02-06,0.0
+Net sales,2026-02-06,3087.89
+Overpayments,2026-02-06,0.0
+Taxes expected,2026-02-06,281.4
+Taxes collected,2026-02-06,281.4
+Tips,2026-02-06,61.48
+Amount collected,2026-02-06,3430.77
+Unpaid balance,2026-02-06,0.0
+Gross sales,2026-02-07,3246.17
+Refunds,2026-02-07,0.0
+Net sales,2026-02-07,3246.17
+Overpayments,2026-02-07,0.0
+Taxes expected,2026-02-07,297.91
+Taxes collected,2026-02-07,297.91
+Tips,2026-02-07,57.25
+Amount collected,2026-02-07,3601.33
+Unpaid balance,2026-02-07,0.0
+Gross sales,2026-02-08,3157.67
+Refunds,2026-02-08,0.0
+Net sales,2026-02-08,3157.67
+Overpayments,2026-02-08,0.0
+Taxes expected,2026-02-08,286.69
+Taxes collected,2026-02-08,286.69
+Tips,2026-02-08,51.06
+Amount collected,2026-02-08,3495.42
+Unpaid balance,2026-02-08,0.0
+Gross sales,2026-02-09,2057.15
+Refunds,2026-02-09,0.0
+Net sales,2026-02-09,2057.15
+Overpayments,2026-02-09,0.0
+Taxes expected,2026-02-09,189.72
+Taxes collected,2026-02-09,189.72
+Tips,2026-02-09,45.67
+Amount collected,2026-02-09,2292.54
+Unpaid balance,2026-02-09,0.0
+Gross sales,2026-02-10,1895.28
+Refunds,2026-02-10,0.0
+Net sales,2026-02-10,1895.28
+Overpayments,2026-02-10,0.0
+Taxes expected,2026-02-10,172.33
+Taxes collected,2026-02-10,172.33
+Tips,2026-02-10,45.18
+Amount collected,2026-02-10,2112.79
+Unpaid balance,2026-02-10,0.0
+Gross sales,2026-02-11,2296.42
+Refunds,2026-02-11,0.0
+Net sales,2026-02-11,2296.42
+Overpayments,2026-02-11,0.0
+Taxes expected,2026-02-11,210.54
+Taxes collected,2026-02-11,210.54
+Tips,2026-02-11,27.95
+Amount collected,2026-02-11,2534.91
+Unpaid balance,2026-02-11,0.0
+Gross sales,2026-02-12,2335.92
+Refunds,2026-02-12,0.0
+Net sales,2026-02-12,2335.92
+Overpayments,2026-02-12,0.0
+Taxes expected,2026-02-12,212.11
+Taxes collected,2026-02-12,211.79
+Tips,2026-02-12,62.44
+Amount collected,2026-02-12,2610.15
+Unpaid balance,2026-02-12,0.0
+Gross sales,2026-02-13,2964.45
+Refunds,2026-02-13,0.0
+Net sales,2026-02-13,2964.45
+Overpayments,2026-02-13,0.0
+Taxes expected,2026-02-13,269.13
+Taxes collected,2026-02-13,269.13
+Tips,2026-02-13,30.53
+Amount collected,2026-02-13,3264.11
+Unpaid balance,2026-02-13,0.0
+Gross sales,2026-02-14,3551.61
+Refunds,2026-02-14,0.0
+Net sales,2026-02-14,3551.61
+Overpayments,2026-02-14,0.0
+Taxes expected,2026-02-14,321.67
+Taxes collected,2026-02-14,320.55
+Tips,2026-02-14,80.31
+Amount collected,2026-02-14,3952.47
+Unpaid balance,2026-02-14,0.0
+Gross sales,2026-02-15,2812.33
+Refunds,2026-02-15,0.0
+Net sales,2026-02-15,2812.33
+Overpayments,2026-02-15,0.0
+Taxes expected,2026-02-15,259.34
+Taxes collected,2026-02-15,259.34
+Tips,2026-02-15,60.26
+Amount collected,2026-02-15,3131.93
+Unpaid balance,2026-02-15,0.0
+Gross sales,2026-02-16,2009.17
+Refunds,2026-02-16,0.0
+Net sales,2026-02-16,2009.17
+Overpayments,2026-02-16,0.0
+Taxes expected,2026-02-16,183.11
+Taxes collected,2026-02-16,183.11
+Tips,2026-02-16,36.48
+Amount collected,2026-02-16,2228.76
+Unpaid balance,2026-02-16,0.0
+Gross sales,2026-02-17,2112.61
+Refunds,2026-02-17,0.0
+Net sales,2026-02-17,2112.61
+Overpayments,2026-02-17,0.0
+Taxes expected,2026-02-17,194.21
+Taxes collected,2026-02-17,194.21
+Tips,2026-02-17,52.49
+Amount collected,2026-02-17,2359.31
+Unpaid balance,2026-02-17,0.0
+Gross sales,2026-02-18,2394.73
+Refunds,2026-02-18,0.0
+Net sales,2026-02-18,2394.73
+Overpayments,2026-02-18,0.0
+Taxes expected,2026-02-18,217.67
+Taxes collected,2026-02-18,217.67
+Tips,2026-02-18,37.31
+Amount collected,2026-02-18,2649.71
+Unpaid balance,2026-02-18,0.0
+Gross sales,2026-02-19,2425.9
+Refunds,2026-02-19,0.0
+Net sales,2026-02-19,2425.9
+Overpayments,2026-02-19,0.0
+Taxes expected,2026-02-19,223.89
+Taxes collected,2026-02-19,223.89
+Tips,2026-02-19,36.37
+Amount collected,2026-02-19,2686.16
+Unpaid balance,2026-02-19,0.0
+Gross sales,2026-02-20,3005.06
+Refunds,2026-02-20,0.0
+Net sales,2026-02-20,3005.06
+Overpayments,2026-02-20,0.0
+Taxes expected,2026-02-20,277.84
+Taxes collected,2026-02-20,277.84
+Tips,2026-02-20,62.81
+Amount collected,2026-02-20,3345.71
+Unpaid balance,2026-02-20,0.0
+Gross sales,2026-02-21,3581.13
+Refunds,2026-02-21,0.0
+Net sales,2026-02-21,3581.13
+Overpayments,2026-02-21,0.0
+Taxes expected,2026-02-21,327.35
+Taxes collected,2026-02-21,326.31
+Tips,2026-02-21,90.9
+Amount collected,2026-02-21,3998.34
+Unpaid balance,2026-02-21,0.0
+Gross sales,2026-02-22,2875.62
+Refunds,2026-02-22,0.0
+Net sales,2026-02-22,2875.62
+Overpayments,2026-02-22,0.0
+Taxes expected,2026-02-22,264.31
+Taxes collected,2026-02-22,264.31
+Tips,2026-02-22,67.79
+Amount collected,2026-02-22,3207.72
+Unpaid balance,2026-02-22,0.0
+Gross sales,2026-02-23,1742.55
+Refunds,2026-02-23,0.0
+Net sales,2026-02-23,1742.55
+Overpayments,2026-02-23,0.0
+Taxes expected,2026-02-23,161.81
+Taxes collected,2026-02-23,161.81
+Tips,2026-02-23,32.97
+Amount collected,2026-02-23,1937.33
+Unpaid balance,2026-02-23,0.0
+Gross sales,2026-02-24,1788.39
+Refunds,2026-02-24,0.0
+Net sales,2026-02-24,1788.39
+Overpayments,2026-02-24,0.0
+Taxes expected,2026-02-24,163.72
+Taxes collected,2026-02-24,163.72
+Tips,2026-02-24,30.92
+Amount collected,2026-02-24,1983.03
+Unpaid balance,2026-02-24,0.0
+Gross sales,2026-02-25,2301.06
+Refunds,2026-02-25,0.0
+Net sales,2026-02-25,2301.06
+Overpayments,2026-02-25,0.0
+Taxes expected,2026-02-25,209.54
+Taxes collected,2026-02-25,209.54
+Tips,2026-02-25,57.53
+Amount collected,2026-02-25,2568.13
+Unpaid balance,2026-02-25,0.0
+Gross sales,2026-02-26,2621.19
+Refunds,2026-02-26,0.0
+Net sales,2026-02-26,2621.19
+Overpayments,2026-02-26,0.0
+Taxes expected,2026-02-26,243.17
+Taxes collected,2026-02-26,243.17
+Tips,2026-02-26,66.91
+Amount collected,2026-02-26,2931.27
+Unpaid balance,2026-02-26,0.0
+Gross sales,2026-02-27,2713.53
+Refunds,2026-02-27,0.0
+Net sales,2026-02-27,2713.53
+Overpayments,2026-02-27,0.0
+Taxes expected,2026-02-27,247.13
+Taxes collected,2026-02-27,247.13
+Tips,2026-02-27,32.91
+Amount collected,2026-02-27,2993.57
+Unpaid balance,2026-02-27,0.0
+Gross sales,2026-02-28,3520.61
+Refunds,2026-02-28,0.0
+Net sales,2026-02-28,3520.61
+Overpayments,2026-02-28,0.0
+Taxes expected,2026-02-28,324.91
+Taxes collected,2026-02-28,324.91
+Tips,2026-02-28,49.93
+Amount collected,2026-02-28,3895.45
+Unpaid balance,2026-02-28,0.0
+Gross sales,2026-03-01,3172.19
+Refunds,2026-03-01,0.0
+Net sales,2026-03-01,3172.19
+Overpayments,2026-03-01,0.0
+Taxes expected,2026-03-01,289.14
+Taxes collected,2026-03-01,289.14
+Tips,2026-03-01,76.94
+Amount collected,2026-03-01,3538.27
+Unpaid balance,2026-03-01,0.0
+Gross sales,2026-03-02,1819.54
+Refunds,2026-03-02,0.0
+Net sales,2026-03-02,1819.54
+Overpayments,2026-03-02,0.0
+Taxes expected,2026-03-02,169.01
+Taxes collected,2026-03-02,169.01
+Tips,2026-03-02,34.99
+Amount collected,2026-03-02,2023.54
+Unpaid balance,2026-03-02,0.0
+Gross sales,2026-03-03,1957.38
+Refunds,2026-03-03,0.0
+Net sales,2026-03-03,1957.38
+Overpayments,2026-03-03,1.23
+Taxes expected,2026-03-03,181.61
+Taxes collected,2026-03-03,180.39
+Tips,2026-03-03,33.83
+Amount collected,2026-03-03,2172.83
+Unpaid balance,2026-03-03,0.0
+Gross sales,2026-03-04,2586.41
+Refunds,2026-03-04,0.0
+Net sales,2026-03-04,2586.41
+Overpayments,2026-03-04,0.0
+Taxes expected,2026-03-04,235.47
+Taxes collected,2026-03-04,235.47
+Tips,2026-03-04,37.17
+Amount collected,2026-03-04,2859.05
+Unpaid balance,2026-03-04,0.0
+Gross sales,2026-03-05,2551.9
+Refunds,2026-03-05,0.0
+Net sales,2026-03-05,2551.9
+Overpayments,2026-03-05,0.0
+Taxes expected,2026-03-05,235.88
+Taxes collected,2026-03-05,235.88
+Tips,2026-03-05,41.6
+Amount collected,2026-03-05,2829.38
+Unpaid balance,2026-03-05,0.0
+Gross sales,2026-03-06,3219.44
+Refunds,2026-03-06,0.0
+Net sales,2026-03-06,3219.44
+Overpayments,2026-03-06,0.0
+Taxes expected,2026-03-06,296.55
+Taxes collected,2026-03-06,296.55
+Tips,2026-03-06,74.15
+Amount collected,2026-03-06,3590.14
+Unpaid balance,2026-03-06,0.0
+Gross sales,2026-03-07,3494.62
+Refunds,2026-03-07,0.0
+Net sales,2026-03-07,3494.62
+Overpayments,2026-03-07,0.0
+Taxes expected,2026-03-07,316.72
+Taxes collected,2026-03-07,316.72
+Tips,2026-03-07,88.66
+Amount collected,2026-03-07,3900.0
+Unpaid balance,2026-03-07,0.0
+Gross sales,2026-03-08,2868.26
+Refunds,2026-03-08,0.0
+Net sales,2026-03-08,2868.26
+Overpayments,2026-03-08,0.0
+Taxes expected,2026-03-08,261.44
+Taxes collected,2026-03-08,261.44
+Tips,2026-03-08,34.97
+Amount collected,2026-03-08,3164.67
+Unpaid balance,2026-03-08,0.0
+Gross sales,2026-03-09,1708.17
+Refunds,2026-03-09,0.0
+Net sales,2026-03-09,1708.17
+Overpayments,2026-03-09,0.0
+Taxes expected,2026-03-09,157.71
+Taxes collected,2026-03-09,157.71
+Tips,2026-03-09,39.73
+Amount collected,2026-03-09,1905.61
+Unpaid balance,2026-03-09,0.0
+Gross sales,2026-03-10,0.0
+Refunds,2026-03-10,0.0
+Net sales,2026-03-10,0.0
+Overpayments,2026-03-10,0.0
+Taxes expected,2026-03-10,0.0
+Taxes collected,2026-03-10,0.0
+Tips,2026-03-10,0.0
+Amount collected,2026-03-10,0.0
+Unpaid balance,2026-03-10,0.0
+Gross sales,2026-03-11,2373.8
+Refunds,2026-03-11,0.0
+Net sales,2026-03-11,2373.8
+Overpayments,2026-03-11,0.0
+Taxes expected,2026-03-11,216.66
+Taxes collected,2026-03-11,216.66
+Tips,2026-03-11,36.3
+Amount collected,2026-03-11,2626.76
+Unpaid balance,2026-03-11,0.0
+Gross sales,2026-03-12,2373.16
+Refunds,2026-03-12,0.0
+Net sales,2026-03-12,2373.16
+Overpayments,2026-03-12,0.0
+Taxes expected,2026-03-12,220.46
+Taxes collected,2026-03-12,220.46
+Tips,2026-03-12,61.26
+Amount collected,2026-03-12,2654.88
+Unpaid balance,2026-03-12,0.0
+Gross sales,2026-03-13,3306.39
+Refunds,2026-03-13,0.0
+Net sales,2026-03-13,3306.39
+Overpayments,2026-03-13,0.0
+Taxes expected,2026-03-13,306.5
+Taxes collected,2026-03-13,306.5
+Tips,2026-03-13,83.27
+Amount collected,2026-03-13,3696.16
+Unpaid balance,2026-03-13,0.0
+Gross sales,2026-03-14,3255.56
+Refunds,2026-03-14,0.0
+Net sales,2026-03-14,3255.56
+Overpayments,2026-03-14,0.0
+Taxes expected,2026-03-14,299.33
+Taxes collected,2026-03-14,299.33
+Tips,2026-03-14,65.84
+Amount collected,2026-03-14,3620.73
+Unpaid balance,2026-03-14,0.0
+Gross sales,2026-03-15,2832.56
+Refunds,2026-03-15,0.0
+Net sales,2026-03-15,2832.56
+Overpayments,2026-03-15,0.0
+Taxes expected,2026-03-15,262.75
+Taxes collected,2026-03-15,261.36
+Tips,2026-03-15,41.73
+Amount collected,2026-03-15,3135.65
+Unpaid balance,2026-03-15,0.0
+Gross sales,2026-03-16,1793.79
+Refunds,2026-03-16,0.0
+Net sales,2026-03-16,1793.79
+Overpayments,2026-03-16,0.0
+Taxes expected,2026-03-16,165.64
+Taxes collected,2026-03-16,165.64
+Tips,2026-03-16,20.45
+Amount collected,2026-03-16,1979.88
+Unpaid balance,2026-03-16,0.0
+Gross sales,2026-03-17,1838.98
+Refunds,2026-03-17,0.0
+Net sales,2026-03-17,1838.98
+Overpayments,2026-03-17,0.0
+Taxes expected,2026-03-17,167.95
+Taxes collected,2026-03-17,167.95
+Tips,2026-03-17,22.31
+Amount collected,2026-03-17,2029.24
+Unpaid balance,2026-03-17,0.0
+Gross sales,2026-03-18,2562.61
+Refunds,2026-03-18,0.0
+Net sales,2026-03-18,2562.61
+Overpayments,2026-03-18,0.0
+Taxes expected,2026-03-18,238.45
+Taxes collected,2026-03-18,236.92
+Tips,2026-03-18,45.14
+Amount collected,2026-03-18,2844.67
+Unpaid balance,2026-03-18,0.0
+Gross sales,2026-03-19,2425.26
+Refunds,2026-03-19,0.0
+Net sales,2026-03-19,2425.26
+Overpayments,2026-03-19,0.0
+Taxes expected,2026-03-19,225.73
+Taxes collected,2026-03-19,225.73
+Tips,2026-03-19,52.18
+Amount collected,2026-03-19,2703.17
+Unpaid balance,2026-03-19,0.0
+Gross sales,2026-03-20,3072.67
+Refunds,2026-03-20,0.0
+Net sales,2026-03-20,3072.67
+Overpayments,2026-03-20,0.0
+Taxes expected,2026-03-20,278.4
+Taxes collected,2026-03-20,278.4
+Tips,2026-03-20,57.69
+Amount collected,2026-03-20,3408.76
+Unpaid balance,2026-03-20,0.0
+Gross sales,2026-03-21,3309.01
+Refunds,2026-03-21,0.0
+Net sales,2026-03-21,3309.01
+Overpayments,2026-03-21,0.0
+Taxes expected,2026-03-21,307.69
+Taxes collected,2026-03-21,307.69
+Tips,2026-03-21,33.82
+Amount collected,2026-03-21,3650.52
+Unpaid balance,2026-03-21,0.0
+Gross sales,2026-03-22,3059.32
+Refunds,2026-03-22,0.0
+Net sales,2026-03-22,3059.32
+Overpayments,2026-03-22,0.0
+Taxes expected,2026-03-22,276.99
+Taxes collected,2026-03-22,276.99
+Tips,2026-03-22,32.87
+Amount collected,2026-03-22,3369.18
+Unpaid balance,2026-03-22,0.0
+Gross sales,2026-03-23,1826.31
+Refunds,2026-03-23,0.0
+Net sales,2026-03-23,1826.31
+Overpayments,2026-03-23,0.0
+Taxes expected,2026-03-23,165.65
+Taxes collected,2026-03-23,165.65
+Tips,2026-03-23,36.69
+Amount collected,2026-03-23,2028.65
+Unpaid balance,2026-03-23,0.0
+Gross sales,2026-03-24,2054.88
+Refunds,2026-03-24,0.0
+Net sales,2026-03-24,2054.88
+Overpayments,2026-03-24,0.0
+Taxes expected,2026-03-24,188.98
+Taxes collected,2026-03-24,188.98
+Tips,2026-03-24,20.87
+Amount collected,2026-03-24,2264.73
+Unpaid balance,2026-03-24,0.0
+Gross sales,2026-03-25,2369.07
+Refunds,2026-03-25,0.0
+Net sales,2026-03-25,2369.07
+Overpayments,2026-03-25,0.0
+Taxes expected,2026-03-25,216.54
+Taxes collected,2026-03-25,216.54
+Tips,2026-03-25,44.88
+Amount collected,2026-03-25,2630.49
+Unpaid balance,2026-03-25,0.0
+Gross sales,2026-03-26,2234.97
+Refunds,2026-03-26,0.0
+Net sales,2026-03-26,2234.97
+Overpayments,2026-03-26,0.0
+Taxes expected,2026-03-26,205.32
+Taxes collected,2026-03-26,205.32
+Tips,2026-03-26,22.57
+Amount collected,2026-03-26,2462.86
+Unpaid balance,2026-03-26,0.0
+Gross sales,2026-03-27,3148.66
+Refunds,2026-03-27,0.0
+Net sales,2026-03-27,3148.66
+Overpayments,2026-03-27,0.0
+Taxes expected,2026-03-27,288.05
+Taxes collected,2026-03-27,287.31
+Tips,2026-03-27,71.81
+Amount collected,2026-03-27,3494.7
+Unpaid balance,2026-03-27,13.08
+Gross sales,2026-03-28,3616.52
+Refunds,2026-03-28,0.0
+Net sales,2026-03-28,3616.52
+Overpayments,2026-03-28,0.0
+Taxes expected,2026-03-28,327.53
+Taxes collected,2026-03-28,327.53
+Tips,2026-03-28,90.15
+Amount collected,2026-03-28,4034.2
+Unpaid balance,2026-03-28,0.0
+Gross sales,2026-03-29,2739.0
+Refunds,2026-03-29,0.0
+Net sales,2026-03-29,2739.0
+Overpayments,2026-03-29,0.0
+Taxes expected,2026-03-29,249.5
+Taxes collected,2026-03-29,249.5
+Tips,2026-03-29,53.3
+Amount collected,2026-03-29,3041.8
+Unpaid balance,2026-03-29,0.0
+Gross sales,2026-03-30,1773.95
+Refunds,2026-03-30,0.0
+Net sales,2026-03-30,1773.95
+Overpayments,2026-03-30,0.0
+Taxes expected,2026-03-30,160.62
+Taxes collected,2026-03-30,159.72
+Tips,2026-03-30,16.97
+Amount collected,2026-03-30,1950.64
+Unpaid balance,2026-03-30,0.0
+Gross sales,2026-03-31,2144.16
+Refunds,2026-03-31,0.0
+Net sales,2026-03-31,2144.16
+Overpayments,2026-03-31,0.0
+Taxes expected,2026-03-31,193.8
+Taxes collected,2026-03-31,193.8
+Tips,2026-03-31,55.78
+Amount collected,2026-03-31,2393.74
+Unpaid balance,2026-03-31,0.0
+Gross sales,2026-04-01,2173.61
+Refunds,2026-04-01,0.0
+Net sales,2026-04-01,2173.61
+Overpayments,2026-04-01,0.0
+Taxes expected,2026-04-01,197.54
+Taxes collected,2026-04-01,197.54
+Tips,2026-04-01,44.56
+Amount collected,2026-04-01,2415.71
+Unpaid balance,2026-04-01,0.0
+Gross sales,2026-04-02,2311.96
+Refunds,2026-04-02,0.0
+Net sales,2026-04-02,2311.96
+Overpayments,2026-04-02,0.0
+Taxes expected,2026-04-02,209.62
+Taxes collected,2026-04-02,209.21
+Tips,2026-04-02,54.87
+Amount collected,2026-04-02,2576.04
+Unpaid balance,2026-04-02,0.0
+Gross sales,2026-04-03,3341.97
+Refunds,2026-04-03,0.0
+Net sales,2026-04-03,3341.97
+Overpayments,2026-04-03,0.0
+Taxes expected,2026-04-03,308.24
+Taxes collected,2026-04-03,308.24
+Tips,2026-04-03,45.12
+Amount collected,2026-04-03,3695.33
+Unpaid balance,2026-04-03,0.0
+Gross sales,2026-04-04,3144.23
+Refunds,2026-04-04,0.0
+Net sales,2026-04-04,3144.23
+Overpayments,2026-04-04,0.0
+Taxes expected,2026-04-04,289.08
+Taxes collected,2026-04-04,289.08
+Tips,2026-04-04,68.04
+Amount collected,2026-04-04,3501.35
+Unpaid balance,2026-04-04,0.0
+Gross sales,2026-04-05,3354.83
+Refunds,2026-04-05,0.0
+Net sales,2026-04-05,3354.83
+Overpayments,2026-04-05,0.0
+Taxes expected,2026-04-05,307.91
+Taxes collected,2026-04-05,307.91
+Tips,2026-04-05,65.68
+Amount collected,2026-04-05,3728.42
+Unpaid balance,2026-04-05,0.0
+Gross sales,2026-04-06,2153.85
+Refunds,2026-04-06,0.0
+Net sales,2026-04-06,2153.85
+Overpayments,2026-04-06,0.0
+Taxes expected,2026-04-06,195.75
+Taxes collected,2026-04-06,195.75
+Tips,2026-04-06,21.81
+Amount collected,2026-04-06,2371.41
+Unpaid balance,2026-04-06,0.0
+Gross sales,2026-04-07,1978.87
+Refunds,2026-04-07,0.0
+Net sales,2026-04-07,1978.87
+Overpayments,2026-04-07,0.0
+Taxes expected,2026-04-07,182.27
+Taxes collected,2026-04-07,182.27
+Tips,2026-04-07,26.33
+Amount collected,2026-04-07,2187.47
+Unpaid balance,2026-04-07,0.0
+Gross sales,2026-04-08,2629.71
+Refunds,2026-04-08,0.0
+Net sales,2026-04-08,2629.71
+Overpayments,2026-04-08,0.0
+Taxes expected,2026-04-08,240.74
+Taxes collected,2026-04-08,240.74
+Tips,2026-04-08,49.85
+Amount collected,2026-04-08,2920.3
+Unpaid balance,2026-04-08,0.0
+Gross sales,2026-04-09,2698.36
+Refunds,2026-04-09,0.0
+Net sales,2026-04-09,2698.36
+Overpayments,2026-04-09,0.0
+Taxes expected,2026-04-09,244.21
+Taxes collected,2026-04-09,244.21
+Tips,2026-04-09,30.99
+Amount collected,2026-04-09,2973.56
+Unpaid balance,2026-04-09,0.0
+Gross sales,2026-04-10,3328.07
+Refunds,2026-04-10,0.0
+Net sales,2026-04-10,3328.07
+Overpayments,2026-04-10,0.0
+Taxes expected,2026-04-10,306.75
+Taxes collected,2026-04-10,306.75
+Tips,2026-04-10,56.55
+Amount collected,2026-04-10,3691.37
+Unpaid balance,2026-04-10,0.0
+Gross sales,2026-04-11,3020.38
+Refunds,2026-04-11,0.0
+Net sales,2026-04-11,3020.38
+Overpayments,2026-04-11,0.0
+Taxes expected,2026-04-11,277.07
+Taxes collected,2026-04-11,277.07
+Tips,2026-04-11,69.24
+Amount collected,2026-04-11,3366.69
+Unpaid balance,2026-04-11,0.0
+Gross sales,2026-04-12,3010.72
+Refunds,2026-04-12,0.0
+Net sales,2026-04-12,3010.72
+Overpayments,2026-04-12,0.0
+Taxes expected,2026-04-12,273.26
+Taxes collected,2026-04-12,273.26
+Tips,2026-04-12,45.12
+Amount collected,2026-04-12,3329.1
+Unpaid balance,2026-04-12,0.0
+Gross sales,2026-04-13,1714.98
+Refunds,2026-04-13,0.0
+Net sales,2026-04-13,1714.98
+Overpayments,2026-04-13,0.0
+Taxes expected,2026-04-13,155.33
+Taxes collected,2026-04-13,155.33
+Tips,2026-04-13,24.78
+Amount collected,2026-04-13,1895.09
+Unpaid balance,2026-04-13,0.0
+Gross sales,2026-04-14,1828.81
+Refunds,2026-04-14,0.0
+Net sales,2026-04-14,1828.81
+Overpayments,2026-04-14,0.0
+Taxes expected,2026-04-14,165.58
+Taxes collected,2026-04-14,165.58
+Tips,2026-04-14,37.96
+Amount collected,2026-04-14,2032.35
+Unpaid balance,2026-04-14,0.0
+Gross sales,2026-04-15,2278.93
+Refunds,2026-04-15,0.0
+Net sales,2026-04-15,2278.93
+Overpayments,2026-04-15,0.0
+Taxes expected,2026-04-15,207.77
+Taxes collected,2026-04-15,207.77
+Tips,2026-04-15,37.32
+Amount collected,2026-04-15,2524.02
+Unpaid balance,2026-04-15,0.0
+Gross sales,2026-04-16,2385.08
+Refunds,2026-04-16,0.0
+Net sales,2026-04-16,2385.08
+Overpayments,2026-04-16,0.28
+Taxes expected,2026-04-16,217.35
+Taxes collected,2026-04-16,217.35
+Tips,2026-04-16,50.6
+Amount collected,2026-04-16,2653.31
+Unpaid balance,2026-04-16,0.0
+Gross sales,2026-04-17,2956.68
+Refunds,2026-04-17,0.0
+Net sales,2026-04-17,2956.68
+Overpayments,2026-04-17,0.0
+Taxes expected,2026-04-17,274.29
+Taxes collected,2026-04-17,274.29
+Tips,2026-04-17,30.26
+Amount collected,2026-04-17,3261.23
+Unpaid balance,2026-04-17,0.0
+Gross sales,2026-04-18,3069.35
+Refunds,2026-04-18,0.0
+Net sales,2026-04-18,3069.35
+Overpayments,2026-04-18,0.0
+Taxes expected,2026-04-18,280.15
+Taxes collected,2026-04-18,279.68
+Tips,2026-04-18,79.16
+Amount collected,2026-04-18,3428.19
+Unpaid balance,2026-04-18,0.0
+Gross sales,2026-04-19,3208.59
+Refunds,2026-04-19,0.0
+Net sales,2026-04-19,3208.59
+Overpayments,2026-04-19,0.0
+Taxes expected,2026-04-19,292.46
+Taxes collected,2026-04-19,292.46
+Tips,2026-04-19,41.69
+Amount collected,2026-04-19,3542.74
+Unpaid balance,2026-04-19,0.0
+Gross sales,2026-04-20,1862.14
+Refunds,2026-04-20,0.0
+Net sales,2026-04-20,1862.14
+Overpayments,2026-04-20,0.0
+Taxes expected,2026-04-20,169.92
+Taxes collected,2026-04-20,169.92
+Tips,2026-04-20,30.89
+Amount collected,2026-04-20,2062.95
+Unpaid balance,2026-04-20,0.0
+Gross sales,2026-04-21,2161.85
+Refunds,2026-04-21,0.0
+Net sales,2026-04-21,2161.85
+Overpayments,2026-04-21,0.0
+Taxes expected,2026-04-21,200.75
+Taxes collected,2026-04-21,200.75
+Tips,2026-04-21,46.03
+Amount collected,2026-04-21,2408.63
+Unpaid balance,2026-04-21,0.0
+Gross sales,2026-04-22,2419.79
+Refunds,2026-04-22,0.0
+Net sales,2026-04-22,2419.79
+Overpayments,2026-04-22,0.0
+Taxes expected,2026-04-22,224.07
+Taxes collected,2026-04-22,224.07
+Tips,2026-04-22,28.08
+Amount collected,2026-04-22,2671.94
+Unpaid balance,2026-04-22,0.0
+Gross sales,2026-04-23,2258.62
+Refunds,2026-04-23,0.0
+Net sales,2026-04-23,2258.62
+Overpayments,2026-04-23,0.0
+Taxes expected,2026-04-23,206.77
+Taxes collected,2026-04-23,206.77
+Tips,2026-04-23,22.58
+Amount collected,2026-04-23,2487.97
+Unpaid balance,2026-04-23,0.0
+Gross sales,2026-04-24,2815.57
+Refunds,2026-04-24,0.0
+Net sales,2026-04-24,2815.57
+Overpayments,2026-04-24,0.0
+Taxes expected,2026-04-24,256.06
+Taxes collected,2026-04-24,256.06
+Tips,2026-04-24,34.85
+Amount collected,2026-04-24,3106.48
+Unpaid balance,2026-04-24,0.0
+Gross sales,2026-04-25,2834.23
+Refunds,2026-04-25,0.0
+Net sales,2026-04-25,2834.23
+Overpayments,2026-04-25,0.0
+Taxes expected,2026-04-25,257.39
+Taxes collected,2026-04-25,257.39
+Tips,2026-04-25,68.48
+Amount collected,2026-04-25,3160.1
+Unpaid balance,2026-04-25,0.0
+Gross sales,2026-04-26,3169.36
+Refunds,2026-04-26,0.0
+Net sales,2026-04-26,3169.36
+Overpayments,2026-04-26,0.0
+Taxes expected,2026-04-26,287.94
+Taxes collected,2026-04-26,287.94
+Tips,2026-04-26,81.68
+Amount collected,2026-04-26,3538.98
+Unpaid balance,2026-04-26,0.0
+Gross sales,2026-04-27,2008.59
+Refunds,2026-04-27,0.0
+Net sales,2026-04-27,2008.59
+Overpayments,2026-04-27,0.0
+Taxes expected,2026-04-27,181.64
+Taxes collected,2026-04-27,181.64
+Tips,2026-04-27,43.65
+Amount collected,2026-04-27,2233.88
+Unpaid balance,2026-04-27,0.0
+Gross sales,2026-04-28,1972.64
+Refunds,2026-04-28,0.0
+Net sales,2026-04-28,1972.64
+Overpayments,2026-04-28,0.0
+Taxes expected,2026-04-28,182.7
+Taxes collected,2026-04-28,182.7
+Tips,2026-04-28,27.41
+Amount collected,2026-04-28,2182.75
+Unpaid balance,2026-04-28,0.0
+Gross sales,2026-04-29,2574.5
+Refunds,2026-04-29,0.0
+Net sales,2026-04-29,2574.5
+Overpayments,2026-04-29,0.0
+Taxes expected,2026-04-29,232.84
+Taxes collected,2026-04-29,232.84
+Tips,2026-04-29,48.96
+Amount collected,2026-04-29,2856.3
+Unpaid balance,2026-04-29,0.0
+Gross sales,2026-04-30,2458.35
+Refunds,2026-04-30,0.0
+Net sales,2026-04-30,2458.35
+Overpayments,2026-04-30,0.0
+Taxes expected,2026-04-30,228.55
+Taxes collected,2026-04-30,228.55
+Tips,2026-04-30,31.1
+Amount collected,2026-04-30,2718.0
+Unpaid balance,2026-04-30,0.0
+Gross sales,2026-05-01,3209.79
+Refunds,2026-05-01,0.0
+Net sales,2026-05-01,3209.79
+Overpayments,2026-05-01,0.0
+Taxes expected,2026-05-01,297.46
+Taxes collected,2026-05-01,297.46
+Tips,2026-05-01,40.46
+Amount collected,2026-05-01,3547.71
+Unpaid balance,2026-05-01,0.0
+Gross sales,2026-05-02,3476.21
+Refunds,2026-05-02,0.0
+Net sales,2026-05-02,3476.21
+Overpayments,2026-05-02,0.0
+Taxes expected,2026-05-02,323.27
+Taxes collected,2026-05-02,323.27
+Tips,2026-05-02,78.39
+Amount collected,2026-05-02,3877.87
+Unpaid balance,2026-05-02,0.0
+Gross sales,2026-05-03,2760.44
+Refunds,2026-05-03,0.0
+Net sales,2026-05-03,2760.44
+Overpayments,2026-05-03,1.93
+Taxes expected,2026-05-03,251.17
+Taxes collected,2026-05-03,251.17
+Tips,2026-05-03,58.0
+Amount collected,2026-05-03,3071.54
+Unpaid balance,2026-05-03,0.0
+Gross sales,2026-05-04,1912.95
+Refunds,2026-05-04,0.0
+Net sales,2026-05-04,1912.95
+Overpayments,2026-05-04,0.0
+Taxes expected,2026-05-04,172.92
+Taxes collected,2026-05-04,172.92
+Tips,2026-05-04,28.46
+Amount collected,2026-05-04,2114.33
+Unpaid balance,2026-05-04,0.0
+Gross sales,2026-05-05,1980.89
+Refunds,2026-05-05,0.0
+Net sales,2026-05-05,1980.89
+Overpayments,2026-05-05,0.0
+Taxes expected,2026-05-05,181.66
+Taxes collected,2026-05-05,181.66
+Tips,2026-05-05,22.54
+Amount collected,2026-05-05,2185.09
+Unpaid balance,2026-05-05,0.0
+Gross sales,2026-05-06,2135.09
+Refunds,2026-05-06,0.0
+Net sales,2026-05-06,2135.09
+Overpayments,2026-05-06,0.0
+Taxes expected,2026-05-06,194.4
+Taxes collected,2026-05-06,194.4
+Tips,2026-05-06,26.27
+Amount collected,2026-05-06,2355.76
+Unpaid balance,2026-05-06,0.0
+Gross sales,2026-05-07,2660.6
+Refunds,2026-05-07,0.0
+Net sales,2026-05-07,2660.6
+Overpayments,2026-05-07,0.0
+Taxes expected,2026-05-07,245.0
+Taxes collected,2026-05-07,245.0
+Tips,2026-05-07,64.71
+Amount collected,2026-05-07,2970.31
+Unpaid balance,2026-05-07,0.0
+Gross sales,2026-05-08,3294.82
+Refunds,2026-05-08,0.0
+Net sales,2026-05-08,3294.82
+Overpayments,2026-05-08,0.0
+Taxes expected,2026-05-08,305.21
+Taxes collected,2026-05-08,305.21
+Tips,2026-05-08,51.21
+Amount collected,2026-05-08,3651.24
+Unpaid balance,2026-05-08,0.0
+Gross sales,2026-05-09,3416.73
+Refunds,2026-05-09,0.0
+Net sales,2026-05-09,3416.73
+Overpayments,2026-05-09,0.0
+Taxes expected,2026-05-09,315.82
+Taxes collected,2026-05-09,315.82
+Tips,2026-05-09,62.2
+Amount collected,2026-05-09,3794.75
+Unpaid balance,2026-05-09,0.0
+Gross sales,2026-05-10,3084.16
+Refunds,2026-05-10,0.0
+Net sales,2026-05-10,3084.16
+Overpayments,2026-05-10,0.0
+Taxes expected,2026-05-10,285.65
+Taxes collected,2026-05-10,285.65
+Tips,2026-05-10,35.29
+Amount collected,2026-05-10,3405.1
+Unpaid balance,2026-05-10,0.0
+Gross sales,2026-05-11,1891.42
+Refunds,2026-05-11,0.0
+Net sales,2026-05-11,1891.42
+Overpayments,2026-05-11,0.0
+Taxes expected,2026-05-11,172.58
+Taxes collected,2026-05-11,172.58
+Tips,2026-05-11,30.55
+Amount collected,2026-05-11,2094.55
+Unpaid balance,2026-05-11,0.0
+Gross sales,2026-05-12,2150.55
+Refunds,2026-05-12,0.0
+Net sales,2026-05-12,2150.55
+Overpayments,2026-05-12,0.0
+Taxes expected,2026-05-12,199.47
+Taxes collected,2026-05-12,199.47
+Tips,2026-05-12,22.24
+Amount collected,2026-05-12,2372.26
+Unpaid balance,2026-05-12,0.0
+Gross sales,2026-05-13,2189.41
+Refunds,2026-05-13,0.0
+Net sales,2026-05-13,2189.41
+Overpayments,2026-05-13,0.0
+Taxes expected,2026-05-13,199.18
+Taxes collected,2026-05-13,199.18
+Tips,2026-05-13,38.67
+Amount collected,2026-05-13,2427.26
+Unpaid balance,2026-05-13,0.0
+Gross sales,2026-05-14,2253.55
+Refunds,2026-05-14,0.0
+Net sales,2026-05-14,2253.55
+Overpayments,2026-05-14,0.0
+Taxes expected,2026-05-14,209.78
+Taxes collected,2026-05-14,209.78
+Tips,2026-05-14,41.6
+Amount collected,2026-05-14,2504.93
+Unpaid balance,2026-05-14,0.0
+Gross sales,2026-05-15,2876.26
+Refunds,2026-05-15,0.0
+Net sales,2026-05-15,2876.26
+Overpayments,2026-05-15,0.0
+Taxes expected,2026-05-15,262.71
+Taxes collected,2026-05-15,262.71
+Tips,2026-05-15,54.81
+Amount collected,2026-05-15,3193.78
+Unpaid balance,2026-05-15,0.0
+Gross sales,2026-05-16,3824.78
+Refunds,2026-05-16,0.0
+Net sales,2026-05-16,3824.78
+Overpayments,2026-05-16,0.0
+Taxes expected,2026-05-16,350.74
+Taxes collected,2026-05-16,350.74
+Tips,2026-05-16,37.18
+Amount collected,2026-05-16,4212.7
+Unpaid balance,2026-05-16,0.0
+Gross sales,2026-05-17,2894.41
+Refunds,2026-05-17,0.0
+Net sales,2026-05-17,2894.41
+Overpayments,2026-05-17,0.0
+Taxes expected,2026-05-17,269.48
+Taxes collected,2026-05-17,269.48
+Tips,2026-05-17,61.01
+Amount collected,2026-05-17,3224.9
+Unpaid balance,2026-05-17,0.0
+Gross sales,2026-05-18,1829.57
+Refunds,2026-05-18,0.0
+Net sales,2026-05-18,1829.57
+Overpayments,2026-05-18,0.0
+Taxes expected,2026-05-18,166.33
+Taxes collected,2026-05-18,166.33
+Tips,2026-05-18,48.55
+Amount collected,2026-05-18,2044.45
+Unpaid balance,2026-05-18,0.0
+Gross sales,2026-05-19,1891.58
+Refunds,2026-05-19,0.0
+Net sales,2026-05-19,1891.58
+Overpayments,2026-05-19,0.0
+Taxes expected,2026-05-19,174.6
+Taxes collected,2026-05-19,174.6
+Tips,2026-05-19,39.01
+Amount collected,2026-05-19,2090.87
+Unpaid balance,2026-05-19,14.32
+Gross sales,2026-05-20,2325.3
+Refunds,2026-05-20,0.0
+Net sales,2026-05-20,2325.3
+Overpayments,2026-05-20,0.0
+Taxes expected,2026-05-20,213.42
+Taxes collected,2026-05-20,213.42
+Tips,2026-05-20,27.09
+Amount collected,2026-05-20,2565.81
+Unpaid balance,2026-05-20,0.0
+Gross sales,2026-05-21,2704.66
+Refunds,2026-05-21,0.0
+Net sales,2026-05-21,2704.66
+Overpayments,2026-05-21,0.0
+Taxes expected,2026-05-21,250.42
+Taxes collected,2026-05-21,250.42
+Tips,2026-05-21,48.89
+Amount collected,2026-05-21,3003.97
+Unpaid balance,2026-05-21,0.0
+Gross sales,2026-05-22,2931.65
+Refunds,2026-05-22,0.0
+Net sales,2026-05-22,2931.65
+Overpayments,2026-05-22,0.0
+Taxes expected,2026-05-22,270.22
+Taxes collected,2026-05-22,270.22
+Tips,2026-05-22,33.02
+Amount collected,2026-05-22,3234.89
+Unpaid balance,2026-05-22,0.0
+Gross sales,2026-05-23,3547.77
+Refunds,2026-05-23,0.0
+Net sales,2026-05-23,3547.77
+Overpayments,2026-05-23,0.0
+Taxes expected,2026-05-23,321.62
+Taxes collected,2026-05-23,321.62
+Tips,2026-05-23,54.0
+Amount collected,2026-05-23,3923.39
+Unpaid balance,2026-05-23,0.0
+Gross sales,2026-05-24,3195.97
+Refunds,2026-05-24,0.0
+Net sales,2026-05-24,3195.97
+Overpayments,2026-05-24,0.0
+Taxes expected,2026-05-24,291.76
+Taxes collected,2026-05-24,291.76
+Tips,2026-05-24,68.33
+Amount collected,2026-05-24,3556.06
+Unpaid balance,2026-05-24,0.0
+Gross sales,2026-05-25,2008.14
+Refunds,2026-05-25,0.0
+Net sales,2026-05-25,2008.14
+Overpayments,2026-05-25,0.0
+Taxes expected,2026-05-25,184.17
+Taxes collected,2026-05-25,184.17
+Tips,2026-05-25,23.81
+Amount collected,2026-05-25,2216.12
+Unpaid balance,2026-05-25,0.0
+Gross sales,2026-05-26,1989.8
+Refunds,2026-05-26,0.0
+Net sales,2026-05-26,1989.8
+Overpayments,2026-05-26,0.0
+Taxes expected,2026-05-26,180.04
+Taxes collected,2026-05-26,180.04
+Tips,2026-05-26,46.1
+Amount collected,2026-05-26,2215.94
+Unpaid balance,2026-05-26,0.0
+Gross sales,2026-05-27,2242.68
+Refunds,2026-05-27,0.0
+Net sales,2026-05-27,2242.68
+Overpayments,2026-05-27,0.0
+Taxes expected,2026-05-27,204.72
+Taxes collected,2026-05-27,204.72
+Tips,2026-05-27,25.79
+Amount collected,2026-05-27,2473.19
+Unpaid balance,2026-05-27,0.0
+Gross sales,2026-05-28,2706.96
+Refunds,2026-05-28,0.0
+Net sales,2026-05-28,2706.96
+Overpayments,2026-05-28,0.0
+Taxes expected,2026-05-28,245.02
+Taxes collected,2026-05-28,245.02
+Tips,2026-05-28,43.78
+Amount collected,2026-05-28,2995.76
+Unpaid balance,2026-05-28,0.0
+Gross sales,2026-05-29,2786.14
+Refunds,2026-05-29,0.0
+Net sales,2026-05-29,2786.14
+Overpayments,2026-05-29,0.0
+Taxes expected,2026-05-29,257.26
+Taxes collected,2026-05-29,257.26
+Tips,2026-05-29,32.66
+Amount collected,2026-05-29,3076.06
+Unpaid balance,2026-05-29,0.0
+Gross sales,2026-05-30,3120.78
+Refunds,2026-05-30,0.0
+Net sales,2026-05-30,3120.78
+Overpayments,2026-05-30,0.0
+Taxes expected,2026-05-30,283.81
+Taxes collected,2026-05-30,283.81
+Tips,2026-05-30,63.76
+Amount collected,2026-05-30,3468.35
+Unpaid balance,2026-05-30,0.0
+Gross sales,2026-05-31,2906.57
+Refunds,2026-05-31,0.0
+Net sales,2026-05-31,2906.57
+Overpayments,2026-05-31,0.0
+Taxes expected,2026-05-31,266.29
+Taxes collected,2026-05-31,266.29
+Tips,2026-05-31,42.48
+Amount collected,2026-05-31,3215.34
+Unpaid balance,2026-05-31,0.0
+Gross sales,2026-06-01,1937.3
+Refunds,2026-06-01,0.0
+Net sales,2026-06-01,1937.3
+Overpayments,2026-06-01,0.0
+Taxes expected,2026-06-01,176.94
+Taxes collected,2026-06-01,176.94
+Tips,2026-06-01,32.24
+Amount collected,2026-06-01,2146.48
+Unpaid balance,2026-06-01,0.0
+Gross sales,2026-06-02,1961.76
+Refunds,2026-06-02,0.0
+Net sales,2026-06-02,1961.76
+Overpayments,2026-06-02,0.0
+Taxes expected,2026-06-02,178.66
+Taxes collected,2026-06-02,178.66
+Tips,2026-06-02,45.18
+Amount collected,2026-06-02,2174.05
+Unpaid balance,2026-06-02,11.55
+Gross sales,2026-06-03,2312.97
+Refunds,2026-06-03,0.0
+Net sales,2026-06-03,2312.97
+Overpayments,2026-06-03,0.0
+Taxes expected,2026-06-03,211.55
+Taxes collected,2026-06-03,210.79
+Tips,2026-06-03,30.36
+Amount collected,2026-06-03,2554.12
+Unpaid balance,2026-06-03,0.0
+Gross sales,2026-06-04,2671.89
+Refunds,2026-06-04,0.0
+Net sales,2026-06-04,2671.89
+Overpayments,2026-06-04,0.0
+Taxes expected,2026-06-04,244.75
+Taxes collected,2026-06-04,244.75
+Tips,2026-06-04,51.85
+Amount collected,2026-06-04,2968.49
+Unpaid balance,2026-06-04,0.0
+Gross sales,2026-06-05,3053.8
+Refunds,2026-06-05,0.0
+Net sales,2026-06-05,3053.8
+Overpayments,2026-06-05,0.0
+Taxes expected,2026-06-05,277.66
+Taxes collected,2026-06-05,277.66
+Tips,2026-06-05,29.62
+Amount collected,2026-06-05,3361.08
+Unpaid balance,2026-06-05,0.0
+Gross sales,2026-06-06,3736.53
+Refunds,2026-06-06,0.0
+Net sales,2026-06-06,3736.53
+Overpayments,2026-06-06,0.0
+Taxes expected,2026-06-06,339.17
+Taxes collected,2026-06-06,339.17
+Tips,2026-06-06,68.57
+Amount collected,2026-06-06,4144.27
+Unpaid balance,2026-06-06,0.0
+Gross sales,2026-06-07,3100.87
+Refunds,2026-06-07,0.0
+Net sales,2026-06-07,3100.87
+Overpayments,2026-06-07,0.0
+Taxes expected,2026-06-07,283.37
+Taxes collected,2026-06-07,283.37
+Tips,2026-06-07,82.51
+Amount collected,2026-06-07,3466.75
+Unpaid balance,2026-06-07,0.0
+Gross sales,2026-06-08,1757.32
+Refunds,2026-06-08,0.0
+Net sales,2026-06-08,1757.32
+Overpayments,2026-06-08,0.7
+Taxes expected,2026-06-08,161.05
+Taxes collected,2026-06-08,161.05
+Tips,2026-06-08,19.51
+Amount collected,2026-06-08,1938.58
+Unpaid balance,2026-06-08,0.0
+Gross sales,2026-06-09,1935.78
+Refunds,2026-06-09,0.0
+Net sales,2026-06-09,1935.78
+Overpayments,2026-06-09,0.0
+Taxes expected,2026-06-09,177.45
+Taxes collected,2026-06-09,177.45
+Tips,2026-06-09,38.58
+Amount collected,2026-06-09,2151.81
+Unpaid balance,2026-06-09,0.0
+Gross sales,2026-06-10,2249.44
+Refunds,2026-06-10,0.0
+Net sales,2026-06-10,2249.44
+Overpayments,2026-06-10,0.0
+Taxes expected,2026-06-10,204.19
+Taxes collected,2026-06-10,204.19
+Tips,2026-06-10,45.69
+Amount collected,2026-06-10,2499.32
+Unpaid balance,2026-06-10,0.0
+Gross sales,2026-06-11,2800.07
+Refunds,2026-06-11,0.0
+Net sales,2026-06-11,2800.07
+Overpayments,2026-06-11,0.0
+Taxes expected,2026-06-11,253.58
+Taxes collected,2026-06-11,253.58
+Tips,2026-06-11,27.49
+Amount collected,2026-06-11,3081.14
+Unpaid balance,2026-06-11,0.0
+Gross sales,2026-06-12,3160.88
+Refunds,2026-06-12,0.0
+Net sales,2026-06-12,3160.88
+Overpayments,2026-06-12,0.0
+Taxes expected,2026-06-12,287.22
+Taxes collected,2026-06-12,287.22
+Tips,2026-06-12,63.11
+Amount collected,2026-06-12,3511.21
+Unpaid balance,2026-06-12,0.0
+Gross sales,2026-06-13,3884.05
+Refunds,2026-06-13,0.0
+Net sales,2026-06-13,3884.05
+Overpayments,2026-06-13,0.0
+Taxes expected,2026-06-13,351.51
+Taxes collected,2026-06-13,351.51
+Tips,2026-06-13,89.43
+Amount collected,2026-06-13,4324.99
+Unpaid balance,2026-06-13,0.0
+Gross sales,2026-06-14,3118.84
+Refunds,2026-06-14,0.0
+Net sales,2026-06-14,3118.84
+Overpayments,2026-06-14,0.0
+Taxes expected,2026-06-14,289.4
+Taxes collected,2026-06-14,289.4
+Tips,2026-06-14,53.69
+Amount collected,2026-06-14,3461.93
+Unpaid balance,2026-06-14,0.0
+Gross sales,2026-06-15,1943.49
+Refunds,2026-06-15,0.0
+Net sales,2026-06-15,1943.49
+Overpayments,2026-06-15,0.0
+Taxes expected,2026-06-15,180.04
+Taxes collected,2026-06-15,180.04
+Tips,2026-06-15,27.24
+Amount collected,2026-06-15,2150.77
+Unpaid balance,2026-06-15,0.0
+Gross sales,2026-06-16,2079.05
+Refunds,2026-06-16,0.0
+Net sales,2026-06-16,2079.05
+Overpayments,2026-06-16,0.0
+Taxes expected,2026-06-16,193.23
+Taxes collected,2026-06-16,193.23
+Tips,2026-06-16,31.13
+Amount collected,2026-06-16,2303.41
+Unpaid balance,2026-06-16,0.0
+Gross sales,2026-06-17,2523.52
+Refunds,2026-06-17,0.0
+Net sales,2026-06-17,2523.52
+Overpayments,2026-06-17,0.0
+Taxes expected,2026-06-17,234.19
+Taxes collected,2026-06-17,234.19
+Tips,2026-06-17,45.68
+Amount collected,2026-06-17,2803.39
+Unpaid balance,2026-06-17,0.0
+Gross sales,2026-06-18,2878.61
+Refunds,2026-06-18,0.0
+Net sales,2026-06-18,2878.61
+Overpayments,2026-06-18,0.0
+Taxes expected,2026-06-18,264.31
+Taxes collected,2026-06-18,264.31
+Tips,2026-06-18,42.38
+Amount collected,2026-06-18,3185.3
+Unpaid balance,2026-06-18,0.0
+Gross sales,2026-06-19,2980.13
+Refunds,2026-06-19,0.0
+Net sales,2026-06-19,2980.13
+Overpayments,2026-06-19,0.0
+Taxes expected,2026-06-19,273.58
+Taxes collected,2026-06-19,273.58
+Tips,2026-06-19,52.31
+Amount collected,2026-06-19,3306.02
+Unpaid balance,2026-06-19,0.0
+Gross sales,2026-06-20,3430.41
+Refunds,2026-06-20,0.0
+Net sales,2026-06-20,3430.41
+Overpayments,2026-06-20,0.0
+Taxes expected,2026-06-20,316.46
+Taxes collected,2026-06-20,316.46
+Tips,2026-06-20,61.22
+Amount collected,2026-06-20,3808.09
+Unpaid balance,2026-06-20,0.0
+Gross sales,2026-06-21,3486.75
+Refunds,2026-06-21,0.0
+Net sales,2026-06-21,3486.75
+Overpayments,2026-06-21,0.0
+Taxes expected,2026-06-21,315.84
+Taxes collected,2026-06-21,315.84
+Tips,2026-06-21,67.4
+Amount collected,2026-06-21,3869.99
+Unpaid balance,2026-06-21,0.0
+Gross sales,2026-06-22,2093.92
+Refunds,2026-06-22,0.0
+Net sales,2026-06-22,2093.92
+Overpayments,2026-06-22,0.0
+Taxes expected,2026-06-22,191.76
+Taxes collected,2026-06-22,191.76
+Tips,2026-06-22,38.6
+Amount collected,2026-06-22,2324.28
+Unpaid balance,2026-06-22,0.0
+Gross sales,2026-06-23,0.0
+Refunds,2026-06-23,0.0
+Net sales,2026-06-23,0.0
+Overpayments,2026-06-23,0.0
+Taxes expected,2026-06-23,0.0
+Taxes collected,2026-06-23,0.0
+Tips,2026-06-23,0.0
+Amount collected,2026-06-23,0.0
+Unpaid balance,2026-06-23,0.0
+Gross sales,2026-06-24,2324.0
+Refunds,2026-06-24,0.0
+Net sales,2026-06-24,2324.0
+Overpayments,2026-06-24,0.0
+Taxes expected,2026-06-24,214.15
+Taxes collected,2026-06-24,214.15
+Tips,2026-06-24,46.26
+Amount collected,2026-06-24,2584.41
+Unpaid balance,2026-06-24,0.0
+Gross sales,2026-06-25,2796.52
+Refunds,2026-06-25,0.0
+Net sales,2026-06-25,2796.52
+Overpayments,2026-06-25,0.0
+Taxes expected,2026-06-25,253.69
+Taxes collected,2026-06-25,253.69
+Tips,2026-06-25,42.78
+Amount collected,2026-06-25,3092.99
+Unpaid balance,2026-06-25,0.0
+Gross sales,2026-06-26,3325.72
+Refunds,2026-06-26,0.0
+Net sales,2026-06-26,3325.72
+Overpayments,2026-06-26,0.0
+Taxes expected,2026-06-26,302.21
+Taxes collected,2026-06-26,301.75
+Tips,2026-06-26,68.63
+Amount collected,2026-06-26,3696.1
+Unpaid balance,2026-06-26,0.0
+Gross sales,2026-06-27,3238.49
+Refunds,2026-06-27,0.0
+Net sales,2026-06-27,3238.49
+Overpayments,2026-06-27,0.0
+Taxes expected,2026-06-27,293.75
+Taxes collected,2026-06-27,293.75
+Tips,2026-06-27,66.68
+Amount collected,2026-06-27,3598.92
+Unpaid balance,2026-06-27,0.0
+Gross sales,2026-06-28,3505.16
+Refunds,2026-06-28,0.0
+Net sales,2026-06-28,3505.16
+Overpayments,2026-06-28,0.0
+Taxes expected,2026-06-28,324.98
+Taxes collected,2026-06-28,324.98
+Tips,2026-06-28,61.55
+Amount collected,2026-06-28,3891.69
+Unpaid balance,2026-06-28,0.0
+Gross sales,2026-06-29,2026.68
+Refunds,2026-06-29,0.0
+Net sales,2026-06-29,2026.68
+Overpayments,2026-06-29,0.0
+Taxes expected,2026-06-29,183.61
+Taxes collected,2026-06-29,183.61
+Tips,2026-06-29,33.99
+Amount collected,2026-06-29,2244.28
+Unpaid balance,2026-06-29,0.0
+Gross sales,2026-06-30,2132.63
+Refunds,2026-06-30,0.0
+Net sales,2026-06-30,2132.63
+Overpayments,2026-06-30,0.0
+Taxes expected,2026-06-30,193.56
+Taxes collected,2026-06-30,193.56
+Tips,2026-06-30,44.92
+Amount collected,2026-06-30,2371.11
+Unpaid balance,2026-06-30,0.0
+Gross sales,2026-07-01,2162.31
+Refunds,2026-07-01,0.0
+Net sales,2026-07-01,2162.31
+Overpayments,2026-07-01,0.0
+Taxes expected,2026-07-01,197.93
+Taxes collected,2026-07-01,197.93
+Tips,2026-07-01,34.21
+Amount collected,2026-07-01,2394.45
+Unpaid balance,2026-07-01,0.0
+Gross sales,2026-07-02,2866.44
+Refunds,2026-07-02,0.0
+Net sales,2026-07-02,2866.44
+Overpayments,2026-07-02,0.0
+Taxes expected,2026-07-02,264.51
+Taxes collected,2026-07-02,264.51
+Tips,2026-07-02,42.42
+Amount collected,2026-07-02,3173.37
+Unpaid balance,2026-07-02,0.0
+Gross sales,2026-07-03,3161.01
+Refunds,2026-07-03,0.0
+Net sales,2026-07-03,3161.01
+Overpayments,2026-07-03,0.0
+Taxes expected,2026-07-03,290.11
+Taxes collected,2026-07-03,289.9
+Tips,2026-07-03,80.67
+Amount collected,2026-07-03,3531.58
+Unpaid balance,2026-07-03,0.0
+Gross sales,2026-07-04,0.0
+Refunds,2026-07-04,0.0
+Net sales,2026-07-04,0.0
+Overpayments,2026-07-04,0.0
+Taxes expected,2026-07-04,0.0
+Taxes collected,2026-07-04,0.0
+Tips,2026-07-04,0.0
+Amount collected,2026-07-04,0.0
+Unpaid balance,2026-07-04,0.0
+Gross sales,2026-07-05,3467.05
+Refunds,2026-07-05,0.0
+Net sales,2026-07-05,3467.05
+Overpayments,2026-07-05,0.0
+Taxes expected,2026-07-05,321.28
+Taxes collected,2026-07-05,321.28
+Tips,2026-07-05,79.55
+Amount collected,2026-07-05,3867.88
+Unpaid balance,2026-07-05,0.0
+Gross sales,2026-07-06,2154.09
+Refunds,2026-07-06,0.0
+Net sales,2026-07-06,2154.09
+Overpayments,2026-07-06,0.0
+Taxes expected,2026-07-06,194.81
+Taxes collected,2026-07-06,194.81
+Tips,2026-07-06,29.74
+Amount collected,2026-07-06,2378.64
+Unpaid balance,2026-07-06,0.0
+Gross sales,2026-07-07,1901.53
+Refunds,2026-07-07,0.0
+Net sales,2026-07-07,1901.53
+Overpayments,2026-07-07,0.0
+Taxes expected,2026-07-07,172.56
+Taxes collected,2026-07-07,172.56
+Tips,2026-07-07,28.52
+Amount collected,2026-07-07,2102.61
+Unpaid balance,2026-07-07,0.0
+Gross sales,2026-07-08,2386.41
+Refunds,2026-07-08,0.0
+Net sales,2026-07-08,2386.41
+Overpayments,2026-07-08,0.0
+Taxes expected,2026-07-08,221.87
+Taxes collected,2026-07-08,221.87
+Tips,2026-07-08,25.41
+Amount collected,2026-07-08,2633.69
+Unpaid balance,2026-07-08,0.0
+Gross sales,2026-07-09,2479.32
+Refunds,2026-07-09,0.0
+Net sales,2026-07-09,2479.32
+Overpayments,2026-07-09,0.0
+Taxes expected,2026-07-09,230.62
+Taxes collected,2026-07-09,230.62
+Tips,2026-07-09,34.76
+Amount collected,2026-07-09,2744.7
+Unpaid balance,2026-07-09,0.0
+Gross sales,2026-07-10,3752.72
+Refunds,2026-07-10,0.0
+Net sales,2026-07-10,3752.72
+Overpayments,2026-07-10,0.0
+Taxes expected,2026-07-10,345.29
+Taxes collected,2026-07-10,345.29
+Tips,2026-07-10,37.32
+Amount collected,2026-07-10,4135.33
+Unpaid balance,2026-07-10,0.0
+Gross sales,2026-07-11,3687.84
+Refunds,2026-07-11,0.0
+Net sales,2026-07-11,3687.84
+Overpayments,2026-07-11,0.0
+Taxes expected,2026-07-11,338.02
+Taxes collected,2026-07-11,338.02
+Tips,2026-07-11,54.7
+Amount collected,2026-07-11,4080.56
+Unpaid balance,2026-07-11,0.0
+Gross sales,2026-07-12,3263.53
+Refunds,2026-07-12,0.0
+Net sales,2026-07-12,3263.53
+Overpayments,2026-07-12,0.0
+Taxes expected,2026-07-12,303.5
+Taxes collected,2026-07-12,303.5
+Tips,2026-07-12,31.59
+Amount collected,2026-07-12,3598.62
+Unpaid balance,2026-07-12,0.0
+Gross sales,2026-07-13,2051.26
+Refunds,2026-07-13,0.0
+Net sales,2026-07-13,2051.26
+Overpayments,2026-07-13,0.0
+Taxes expected,2026-07-13,189.98
+Taxes collected,2026-07-13,189.98
+Tips,2026-07-13,21.63
+Amount collected,2026-07-13,2262.87
+Unpaid balance,2026-07-13,0.0
+Gross sales,2026-07-14,2206.97
+Refunds,2026-07-14,0.0
+Net sales,2026-07-14,2206.97
+Overpayments,2026-07-14,0.0
+Taxes expected,2026-07-14,200.71
+Taxes collected,2026-07-14,200.71
+Tips,2026-07-14,52.93
+Amount collected,2026-07-14,2460.61
+Unpaid balance,2026-07-14,0.0
+Gross sales,2026-07-15,2577.9
+Refunds,2026-07-15,0.0
+Net sales,2026-07-15,2577.9
+Overpayments,2026-07-15,0.0
+Taxes expected,2026-07-15,234.46
+Taxes collected,2026-07-15,232.93
+Tips,2026-07-15,30.16
+Amount collected,2026-07-15,2840.99
+Unpaid balance,2026-07-15,0.0
+Gross sales,2026-07-16,2679.88
+Refunds,2026-07-16,0.0
+Net sales,2026-07-16,2679.88
+Overpayments,2026-07-16,0.0
+Taxes expected,2026-07-16,245.39
+Taxes collected,2026-07-16,245.39
+Tips,2026-07-16,41.91
+Amount collected,2026-07-16,2967.18
+Unpaid balance,2026-07-16,0.0
+Gross sales,2026-07-17,3109.42
+Refunds,2026-07-17,0.0
+Net sales,2026-07-17,3109.42
+Overpayments,2026-07-17,0.0
+Taxes expected,2026-07-17,283.98
+Taxes collected,2026-07-17,283.98
+Tips,2026-07-17,69.18
+Amount collected,2026-07-17,3462.58
+Unpaid balance,2026-07-17,0.0
+Gross sales,2026-07-18,3812.38
+Refunds,2026-07-18,0.0
+Net sales,2026-07-18,3812.38
+Overpayments,2026-07-18,0.0
+Taxes expected,2026-07-18,349.27
+Taxes collected,2026-07-18,349.27
+Tips,2026-07-18,75.19
+Amount collected,2026-07-18,4236.84
+Unpaid balance,2026-07-18,0.0
+Gross sales,2026-07-19,3525.05
+Refunds,2026-07-19,0.0
+Net sales,2026-07-19,3525.05
+Overpayments,2026-07-19,0.0
+Taxes expected,2026-07-19,322.09
+Taxes collected,2026-07-19,322.09
+Tips,2026-07-19,36.61
+Amount collected,2026-07-19,3883.75
+Unpaid balance,2026-07-19,0.0
+Gross sales,2026-07-20,2077.13
+Refunds,2026-07-20,0.0
+Net sales,2026-07-20,2077.13
+Overpayments,2026-07-20,0.0
+Taxes expected,2026-07-20,189.43
+Taxes collected,2026-07-20,189.43
+Tips,2026-07-20,26.03
+Amount collected,2026-07-20,2292.59
+Unpaid balance,2026-07-20,0.0
+Gross sales,2026-07-21,0.0
+Refunds,2026-07-21,0.0
+Net sales,2026-07-21,0.0
+Overpayments,2026-07-21,0.0
+Taxes expected,2026-07-21,0.0
+Taxes collected,2026-07-21,0.0
+Tips,2026-07-21,0.0
+Amount collected,2026-07-21,0.0
+Unpaid balance,2026-07-21,0.0
+Gross sales,2026-07-22,2594.44
+Refunds,2026-07-22,0.0
+Net sales,2026-07-22,2594.44
+Overpayments,2026-07-22,2.05
+Taxes expected,2026-07-22,239.08
+Taxes collected,2026-07-22,239.08
+Tips,2026-07-22,49.32
+Amount collected,2026-07-22,2884.89
+Unpaid balance,2026-07-22,0.0
+Gross sales,2026-07-23,2421.72
+Refunds,2026-07-23,0.0
+Net sales,2026-07-23,2421.72
+Overpayments,2026-07-23,0.0
+Taxes expected,2026-07-23,221.95
+Taxes collected,2026-07-23,221.95
+Tips,2026-07-23,23.78
+Amount collected,2026-07-23,2667.45
+Unpaid balance,2026-07-23,0.0
+Gross sales,2026-07-24,3509.58
+Refunds,2026-07-24,0.0
+Net sales,2026-07-24,3509.58
+Overpayments,2026-07-24,0.0
+Taxes expected,2026-07-24,317.9
+Taxes collected,2026-07-24,317.9
+Tips,2026-07-24,64.86
+Amount collected,2026-07-24,3892.34
+Unpaid balance,2026-07-24,0.0
+Gross sales,2026-07-25,3070.62
+Refunds,2026-07-25,0.0
+Net sales,2026-07-25,3070.62
+Overpayments,2026-07-25,0.0
+Taxes expected,2026-07-25,280.17
+Taxes collected,2026-07-25,280.17
+Tips,2026-07-25,37.35
+Amount collected,2026-07-25,3388.14
+Unpaid balance,2026-07-25,0.0
+Gross sales,2026-07-26,3465.26
+Refunds,2026-07-26,0.0
+Net sales,2026-07-26,3465.26
+Overpayments,2026-07-26,0.0
+Taxes expected,2026-07-26,315.27
+Taxes collected,2026-07-26,315.27
+Tips,2026-07-26,73.66
+Amount collected,2026-07-26,3854.19
+Unpaid balance,2026-07-26,0.0
+Gross sales,2026-07-27,1792.44
+Refunds,2026-07-27,0.0
+Net sales,2026-07-27,1792.44
+Overpayments,2026-07-27,0.0
+Taxes expected,2026-07-27,162.55
+Taxes collected,2026-07-27,162.55
+Tips,2026-07-27,45.6
+Amount collected,2026-07-27,2000.59
+Unpaid balance,2026-07-27,0.0
+Gross sales,2026-07-28,2152.33
+Refunds,2026-07-28,0.0
+Net sales,2026-07-28,2152.33
+Overpayments,2026-07-28,0.0
+Taxes expected,2026-07-28,199.99
+Taxes collected,2026-07-28,199.99
+Tips,2026-07-28,55.28
+Amount collected,2026-07-28,2407.6
+Unpaid balance,2026-07-28,0.0
+Gross sales,2026-07-29,2208.43
+Refunds,2026-07-29,0.0
+Net sales,2026-07-29,2208.43
+Overpayments,2026-07-29,0.0
+Taxes expected,2026-07-29,201.77
+Taxes collected,2026-07-29,201.77
+Tips,2026-07-29,52.95
+Amount collected,2026-07-29,2463.15
+Unpaid balance,2026-07-29,0.0
+Gross sales,2026-07-30,2769.56
+Refunds,2026-07-30,0.0
+Net sales,2026-07-30,2769.56
+Overpayments,2026-07-30,0.0
+Taxes expected,2026-07-30,252.02
+Taxes collected,2026-07-30,252.02
+Tips,2026-07-30,60.44
+Amount collected,2026-07-30,3082.02
+Unpaid balance,2026-07-30,0.0
+Gross sales,2026-07-31,3132.97
+Refunds,2026-07-31,0.0
+Net sales,2026-07-31,3132.97
+Overpayments,2026-07-31,0.0
+Taxes expected,2026-07-31,285.31
+Taxes collected,2026-07-31,285.31
+Tips,2026-07-31,58.79
+Amount collected,2026-07-31,3477.07
+Unpaid balance,2026-07-31,0.0
+Gross sales,2026-08-01,3176.17
+Refunds,2026-08-01,0.0
+Net sales,2026-08-01,3176.17
+Overpayments,2026-08-01,0.0
+Taxes expected,2026-08-01,289.65
+Taxes collected,2026-08-01,289.65
+Tips,2026-08-01,57.14
+Amount collected,2026-08-01,3522.96
+Unpaid balance,2026-08-01,0.0
+Gross sales,2026-08-02,2751.72
+Refunds,2026-08-02,0.0
+Net sales,2026-08-02,2751.72
+Overpayments,2026-08-02,0.0
+Taxes expected,2026-08-02,254.44
+Taxes collected,2026-08-02,254.44
+Tips,2026-08-02,65.13
+Amount collected,2026-08-02,3071.29
+Unpaid balance,2026-08-02,0.0
+Gross sales,2026-08-03,2081.48
+Refunds,2026-08-03,0.0
+Net sales,2026-08-03,2081.48
+Overpayments,2026-08-03,0.0
+Taxes expected,2026-08-03,189.58
+Taxes collected,2026-08-03,189.58
+Tips,2026-08-03,30.46
+Amount collected,2026-08-03,2301.52
+Unpaid balance,2026-08-03,0.0
+Gross sales,2026-08-04,2189.47
+Refunds,2026-08-04,0.0
+Net sales,2026-08-04,2189.47
+Overpayments,2026-08-04,0.0
+Taxes expected,2026-08-04,199.27
+Taxes collected,2026-08-04,199.27
+Tips,2026-08-04,26.45
+Amount collected,2026-08-04,2415.19
+Unpaid balance,2026-08-04,0.0
+Gross sales,2026-08-05,2152.05
+Refunds,2026-08-05,0.0
+Net sales,2026-08-05,2152.05
+Overpayments,2026-08-05,0.0
+Taxes expected,2026-08-05,197.83
+Taxes collected,2026-08-05,197.83
+Tips,2026-08-05,20.55
+Amount collected,2026-08-05,2370.43
+Unpaid balance,2026-08-05,0.0
+Gross sales,2026-08-06,2592.95
+Refunds,2026-08-06,0.0
+Net sales,2026-08-06,2592.95
+Overpayments,2026-08-06,0.0
+Taxes expected,2026-08-06,235.93
+Taxes collected,2026-08-06,235.93
+Tips,2026-08-06,43.98
+Amount collected,2026-08-06,2872.86
+Unpaid balance,2026-08-06,0.0
+Gross sales,2026-08-07,2700.66
+Refunds,2026-08-07,0.0
+Net sales,2026-08-07,2700.66
+Overpayments,2026-08-07,0.0
+Taxes expected,2026-08-07,247.21
+Taxes collected,2026-08-07,245.63
+Tips,2026-08-07,60.06
+Amount collected,2026-08-07,3006.35
+Unpaid balance,2026-08-07,0.0
+Gross sales,2026-08-08,3052.47
+Refunds,2026-08-08,0.0
+Net sales,2026-08-08,3052.47
+Overpayments,2026-08-08,0.0
+Taxes expected,2026-08-08,276.16
+Taxes collected,2026-08-08,276.16
+Tips,2026-08-08,66.73
+Amount collected,2026-08-08,3395.36
+Unpaid balance,2026-08-08,0.0
+Gross sales,2026-08-09,3203.31
+Refunds,2026-08-09,0.0
+Net sales,2026-08-09,3203.31
+Overpayments,2026-08-09,0.0
+Taxes expected,2026-08-09,297.28
+Taxes collected,2026-08-09,297.28
+Tips,2026-08-09,64.92
+Amount collected,2026-08-09,3565.51
+Unpaid balance,2026-08-09,0.0
+Gross sales,2026-08-10,2002.62
+Refunds,2026-08-10,0.0
+Net sales,2026-08-10,2002.62
+Overpayments,2026-08-10,0.0
+Taxes expected,2026-08-10,181.29
+Taxes collected,2026-08-10,181.29
+Tips,2026-08-10,42.3
+Amount collected,2026-08-10,2226.21
+Unpaid balance,2026-08-10,0.0
+Gross sales,2026-08-11,2019.31
+Refunds,2026-08-11,0.0
+Net sales,2026-08-11,2019.31
+Overpayments,2026-08-11,0.0
+Taxes expected,2026-08-11,183.86
+Taxes collected,2026-08-11,183.86
+Tips,2026-08-11,52.7
+Amount collected,2026-08-11,2255.87
+Unpaid balance,2026-08-11,0.0
+Gross sales,2026-08-12,2413.95
+Refunds,2026-08-12,0.0
+Net sales,2026-08-12,2413.95
+Overpayments,2026-08-12,0.0
+Taxes expected,2026-08-12,224.18
+Taxes collected,2026-08-12,224.18
+Tips,2026-08-12,37.95
+Amount collected,2026-08-12,2676.08
+Unpaid balance,2026-08-12,0.0
+Gross sales,2026-08-13,2654.17
+Refunds,2026-08-13,0.0
+Net sales,2026-08-13,2654.17
+Overpayments,2026-08-13,0.0
+Taxes expected,2026-08-13,240.86
+Taxes collected,2026-08-13,240.86
+Tips,2026-08-13,33.68
+Amount collected,2026-08-13,2928.71
+Unpaid balance,2026-08-13,0.0
+Gross sales,2026-08-14,2894.42
+Refunds,2026-08-14,0.0
+Net sales,2026-08-14,2894.42
+Overpayments,2026-08-14,0.0
+Taxes expected,2026-08-14,265.08
+Taxes collected,2026-08-14,263.89
+Tips,2026-08-14,34.94
+Amount collected,2026-08-14,3193.25
+Unpaid balance,2026-08-14,0.0
+Gross sales,2026-08-15,3211.28
+Refunds,2026-08-15,0.0
+Net sales,2026-08-15,3211.28
+Overpayments,2026-08-15,0.0
+Taxes expected,2026-08-15,291.74
+Taxes collected,2026-08-15,291.74
+Tips,2026-08-15,45.77
+Amount collected,2026-08-15,3538.63
+Unpaid balance,2026-08-15,10.16
+Gross sales,2026-08-16,2748.19
+Refunds,2026-08-16,0.0
+Net sales,2026-08-16,2748.19
+Overpayments,2026-08-16,0.0
+Taxes expected,2026-08-16,253.37
+Taxes collected,2026-08-16,253.37
+Tips,2026-08-16,68.86
+Amount collected,2026-08-16,3058.71
+Unpaid balance,2026-08-16,11.71
+Gross sales,2026-08-17,1754.89
+Refunds,2026-08-17,0.0
+Net sales,2026-08-17,1754.89
+Overpayments,2026-08-17,0.0
+Taxes expected,2026-08-17,160.68
+Taxes collected,2026-08-17,160.68
+Tips,2026-08-17,21.66
+Amount collected,2026-08-17,1937.23
+Unpaid balance,2026-08-17,0.0
+Gross sales,2026-08-18,2295.9
+Refunds,2026-08-18,0.0
+Net sales,2026-08-18,2295.9
+Overpayments,2026-08-18,0.0
+Taxes expected,2026-08-18,210.67
+Taxes collected,2026-08-18,210.67
+Tips,2026-08-18,42.85
+Amount collected,2026-08-18,2549.42
+Unpaid balance,2026-08-18,0.0
+Gross sales,2026-08-19,2521.85
+Refunds,2026-08-19,0.0
+Net sales,2026-08-19,2521.85
+Overpayments,2026-08-19,0.0
+Taxes expected,2026-08-19,228.29
+Taxes collected,2026-08-19,226.81
+Tips,2026-08-19,24.75
+Amount collected,2026-08-19,2773.41
+Unpaid balance,2026-08-19,0.0
+Gross sales,2026-08-20,2803.04
+Refunds,2026-08-20,0.0
+Net sales,2026-08-20,2803.04
+Overpayments,2026-08-20,1.03
+Taxes expected,2026-08-20,259.1
+Taxes collected,2026-08-20,259.1
+Tips,2026-08-20,60.42
+Amount collected,2026-08-20,3123.59
+Unpaid balance,2026-08-20,0.0
+Gross sales,2026-08-21,3167.75
+Refunds,2026-08-21,0.0
+Net sales,2026-08-21,3167.75
+Overpayments,2026-08-21,0.0
+Taxes expected,2026-08-21,292.04
+Taxes collected,2026-08-21,292.04
+Tips,2026-08-21,52.57
+Amount collected,2026-08-21,3512.36
+Unpaid balance,2026-08-21,0.0
+Gross sales,2026-08-22,3625.68
+Refunds,2026-08-22,0.0
+Net sales,2026-08-22,3625.68
+Overpayments,2026-08-22,0.0
+Taxes expected,2026-08-22,332.55
+Taxes collected,2026-08-22,332.55
+Tips,2026-08-22,58.88
+Amount collected,2026-08-22,4017.11
+Unpaid balance,2026-08-22,0.0
+Gross sales,2026-08-23,2817.95
+Refunds,2026-08-23,0.0
+Net sales,2026-08-23,2817.95
+Overpayments,2026-08-23,0.0
+Taxes expected,2026-08-23,260.72
+Taxes collected,2026-08-23,260.72
+Tips,2026-08-23,68.24
+Amount collected,2026-08-23,3146.91
+Unpaid balance,2026-08-23,0.0
+Gross sales,2026-08-24,2166.32
+Refunds,2026-08-24,0.0
+Net sales,2026-08-24,2166.32
+Overpayments,2026-08-24,0.0
+Taxes expected,2026-08-24,201.36
+Taxes collected,2026-08-24,201.36
+Tips,2026-08-24,38.51
+Amount collected,2026-08-24,2406.19
+Unpaid balance,2026-08-24,0.0
+Gross sales,2026-08-25,1828.31
+Refunds,2026-08-25,0.0
+Net sales,2026-08-25,1828.31
+Overpayments,2026-08-25,0.0
+Taxes expected,2026-08-25,166.91
+Taxes collected,2026-08-25,166.91
+Tips,2026-08-25,18.66
+Amount collected,2026-08-25,2013.88
+Unpaid balance,2026-08-25,0.0
+Gross sales,2026-08-26,2344.41
+Refunds,2026-08-26,0.0
+Net sales,2026-08-26,2344.41
+Overpayments,2026-08-26,0.0
+Taxes expected,2026-08-26,217.46
+Taxes collected,2026-08-26,217.46
+Tips,2026-08-26,29.06
+Amount collected,2026-08-26,2590.93
+Unpaid balance,2026-08-26,0.0
+Gross sales,2026-08-27,2518.23
+Refunds,2026-08-27,0.0
+Net sales,2026-08-27,2518.23
+Overpayments,2026-08-27,0.0
+Taxes expected,2026-08-27,227.7
+Taxes collected,2026-08-27,227.7
+Tips,2026-08-27,37.86
+Amount collected,2026-08-27,2783.79
+Unpaid balance,2026-08-27,0.0
+Gross sales,2026-08-28,3456.64
+Refunds,2026-08-28,0.0
+Net sales,2026-08-28,3456.64
+Overpayments,2026-08-28,0.0
+Taxes expected,2026-08-28,318.5
+Taxes collected,2026-08-28,318.5
+Tips,2026-08-28,71.36
+Amount collected,2026-08-28,3846.5
+Unpaid balance,2026-08-28,0.0
+Gross sales,2026-08-29,3386.21
+Refunds,2026-08-29,0.0
+Net sales,2026-08-29,3386.21
+Overpayments,2026-08-29,0.0
+Taxes expected,2026-08-29,315.09
+Taxes collected,2026-08-29,315.09
+Tips,2026-08-29,48.54
+Amount collected,2026-08-29,3749.84
+Unpaid balance,2026-08-29,0.0
+Gross sales,2026-08-30,3229.89
+Refunds,2026-08-30,0.0
+Net sales,2026-08-30,3229.89
+Overpayments,2026-08-30,0.0
+Taxes expected,2026-08-30,291.94
+Taxes collected,2026-08-30,291.94
+Tips,2026-08-30,40.4
+Amount collected,2026-08-30,3562.23
+Unpaid balance,2026-08-30,0.0
+Gross sales,2026-08-31,2022.41
+Refunds,2026-08-31,0.0
+Net sales,2026-08-31,2022.41
+Overpayments,2026-08-31,0.0
+Taxes expected,2026-08-31,184.28
+Taxes collected,2026-08-31,184.28
+Tips,2026-08-31,40.23
+Amount collected,2026-08-31,2246.92
+Unpaid balance,2026-08-31,0.0
+Gross sales,2026-09-01,1972.15
+Refunds,2026-09-01,0.0
+Net sales,2026-09-01,1972.15
+Overpayments,2026-09-01,0.0
+Taxes expected,2026-09-01,180.29
+Taxes collected,2026-09-01,180.29
+Tips,2026-09-01,32.4
+Amount collected,2026-09-01,2184.84
+Unpaid balance,2026-09-01,0.0
+Gross sales,2026-09-02,2575.12
+Refunds,2026-09-02,0.0
+Net sales,2026-09-02,2575.12
+Overpayments,2026-09-02,0.0
+Taxes expected,2026-09-02,235.77
+Taxes collected,2026-09-02,235.77
+Tips,2026-09-02,43.18
+Amount collected,2026-09-02,2854.07
+Unpaid balance,2026-09-02,0.0
+Gross sales,2026-09-03,2431.71
+Refunds,2026-09-03,0.0
+Net sales,2026-09-03,2431.71
+Overpayments,2026-09-03,0.0
+Taxes expected,2026-09-03,222.63
+Taxes collected,2026-09-03,222.63
+Tips,2026-09-03,60.38
+Amount collected,2026-09-03,2714.72
+Unpaid balance,2026-09-03,0.0
+Gross sales,2026-09-04,3119.26
+Refunds,2026-09-04,0.0
+Net sales,2026-09-04,3119.26
+Overpayments,2026-09-04,0.0
+Taxes expected,2026-09-04,289.41
+Taxes collected,2026-09-04,289.41
+Tips,2026-09-04,72.5
+Amount collected,2026-09-04,3481.17
+Unpaid balance,2026-09-04,0.0
+Gross sales,2026-09-05,3112.21
+Refunds,2026-09-05,0.0
+Net sales,2026-09-05,3112.21
+Overpayments,2026-09-05,0.0
+Taxes expected,2026-09-05,283.12
+Taxes collected,2026-09-05,283.12
+Tips,2026-09-05,70.71
+Amount collected,2026-09-05,3466.04
+Unpaid balance,2026-09-05,0.0
+Gross sales,2026-09-06,3391.58
+Refunds,2026-09-06,0.0
+Net sales,2026-09-06,3391.58
+Overpayments,2026-09-06,0.0
+Taxes expected,2026-09-06,313.91
+Taxes collected,2026-09-06,313.91
+Tips,2026-09-06,34.56
+Amount collected,2026-09-06,3740.05
+Unpaid balance,2026-09-06,0.0
+Gross sales,2026-09-07,2090.13
+Refunds,2026-09-07,0.0
+Net sales,2026-09-07,2090.13
+Overpayments,2026-09-07,0.0
+Taxes expected,2026-09-07,192.54
+Taxes collected,2026-09-07,192.54
+Tips,2026-09-07,54.24
+Amount collected,2026-09-07,2336.91
+Unpaid balance,2026-09-07,0.0
+Gross sales,2026-09-08,0.0
+Refunds,2026-09-08,0.0
+Net sales,2026-09-08,0.0
+Overpayments,2026-09-08,0.0
+Taxes expected,2026-09-08,0.0
+Taxes collected,2026-09-08,0.0
+Tips,2026-09-08,0.0
+Amount collected,2026-09-08,0.0
+Unpaid balance,2026-09-08,0.0
+Gross sales,2026-09-09,2483.93
+Refunds,2026-09-09,0.0
+Net sales,2026-09-09,2483.93
+Overpayments,2026-09-09,0.0
+Taxes expected,2026-09-09,228.41
+Taxes collected,2026-09-09,228.41
+Tips,2026-09-09,48.91
+Amount collected,2026-09-09,2761.25
+Unpaid balance,2026-09-09,0.0
+Gross sales,2026-09-10,2269.89
+Refunds,2026-09-10,0.0
+Net sales,2026-09-10,2269.89
+Overpayments,2026-09-10,0.0
+Taxes expected,2026-09-10,205.42
+Taxes collected,2026-09-10,205.42
+Tips,2026-09-10,30.89
+Amount collected,2026-09-10,2506.2
+Unpaid balance,2026-09-10,0.0
+Gross sales,2026-09-11,3109.88
+Refunds,2026-09-11,0.0
+Net sales,2026-09-11,3109.88
+Overpayments,2026-09-11,0.0
+Taxes expected,2026-09-11,284.82
+Taxes collected,2026-09-11,283.62
+Tips,2026-09-11,48.44
+Amount collected,2026-09-11,3441.94
+Unpaid balance,2026-09-11,0.0
+Gross sales,2026-09-12,3076.56
+Refunds,2026-09-12,0.0
+Net sales,2026-09-12,3076.56
+Overpayments,2026-09-12,0.0
+Taxes expected,2026-09-12,284.35
+Taxes collected,2026-09-12,284.35
+Tips,2026-09-12,38.3
+Amount collected,2026-09-12,3399.21
+Unpaid balance,2026-09-12,0.0
+Gross sales,2026-09-13,3148.97
+Refunds,2026-09-13,0.0
+Net sales,2026-09-13,3148.97
+Overpayments,2026-09-13,0.0
+Taxes expected,2026-09-13,293.08
+Taxes collected,2026-09-13,293.08
+Tips,2026-09-13,33.43
+Amount collected,2026-09-13,3475.48
+Unpaid balance,2026-09-13,0.0
+Gross sales,2026-09-14,1971.41
+Refunds,2026-09-14,0.0
+Net sales,2026-09-14,1971.41
+Overpayments,2026-09-14,0.0
+Taxes expected,2026-09-14,181.67
+Taxes collected,2026-09-14,181.67
+Tips,2026-09-14,22.53
+Amount collected,2026-09-14,2175.61
+Unpaid balance,2026-09-14,0.0
+Gross sales,2026-09-15,2073.03
+Refunds,2026-09-15,0.0
+Net sales,2026-09-15,2073.03
+Overpayments,2026-09-15,0.0
+Taxes expected,2026-09-15,191.35
+Taxes collected,2026-09-15,191.35
+Tips,2026-09-15,38.3
+Amount collected,2026-09-15,2302.68
+Unpaid balance,2026-09-15,0.0
+Gross sales,2026-09-16,2304.15
+Refunds,2026-09-16,0.0
+Net sales,2026-09-16,2304.15
+Overpayments,2026-09-16,0.0
+Taxes expected,2026-09-16,210.01
+Taxes collected,2026-09-16,210.01
+Tips,2026-09-16,46.83
+Amount collected,2026-09-16,2560.99
+Unpaid balance,2026-09-16,0.0
+Gross sales,2026-09-17,2468.05
+Refunds,2026-09-17,0.0
+Net sales,2026-09-17,2468.05
+Overpayments,2026-09-17,0.0
+Taxes expected,2026-09-17,223.69
+Taxes collected,2026-09-17,223.69
+Tips,2026-09-17,45.54
+Amount collected,2026-09-17,2737.28
+Unpaid balance,2026-09-17,0.0
+Gross sales,2026-09-18,3032.08
+Refunds,2026-09-18,0.0
+Net sales,2026-09-18,3032.08
+Overpayments,2026-09-18,0.0
+Taxes expected,2026-09-18,277.3
+Taxes collected,2026-09-18,277.3
+Tips,2026-09-18,64.49
+Amount collected,2026-09-18,3373.87
+Unpaid balance,2026-09-18,0.0
+Gross sales,2026-09-19,3263.37
+Refunds,2026-09-19,0.0
+Net sales,2026-09-19,3263.37
+Overpayments,2026-09-19,0.0
+Taxes expected,2026-09-19,297.55
+Taxes collected,2026-09-19,297.55
+Tips,2026-09-19,37.25
+Amount collected,2026-09-19,3598.17
+Unpaid balance,2026-09-19,0.0
+Gross sales,2026-09-20,2815.38
+Refunds,2026-09-20,0.0
+Net sales,2026-09-20,2815.38
+Overpayments,2026-09-20,0.0
+Taxes expected,2026-09-20,256.96
+Taxes collected,2026-09-20,256.96
+Tips,2026-09-20,64.0
+Amount collected,2026-09-20,3136.34
+Unpaid balance,2026-09-20,0.0
+Gross sales,2026-09-21,1860.17
+Refunds,2026-09-21,0.0
+Net sales,2026-09-21,1860.17
+Overpayments,2026-09-21,0.0
+Taxes expected,2026-09-21,168.82
+Taxes collected,2026-09-21,168.82
+Tips,2026-09-21,33.37
+Amount collected,2026-09-21,2062.36
+Unpaid balance,2026-09-21,0.0
+Gross sales,2026-09-22,1971.17
+Refunds,2026-09-22,0.0
+Net sales,2026-09-22,1971.17
+Overpayments,2026-09-22,0.0
+Taxes expected,2026-09-22,181.09
+Taxes collected,2026-09-22,181.09
+Tips,2026-09-22,25.69
+Amount collected,2026-09-22,2177.95
+Unpaid balance,2026-09-22,0.0
+Gross sales,2026-09-23,2580.0
+Refunds,2026-09-23,0.0
+Net sales,2026-09-23,2580.0
+Overpayments,2026-09-23,0.97
+Taxes expected,2026-09-23,237.71
+Taxes collected,2026-09-23,237.71
+Tips,2026-09-23,58.34
+Amount collected,2026-09-23,2877.02
+Unpaid balance,2026-09-23,0.0
+Gross sales,2026-09-24,2366.74
+Refunds,2026-09-24,0.0
+Net sales,2026-09-24,2366.74
+Overpayments,2026-09-24,0.0
+Taxes expected,2026-09-24,215.12
+Taxes collected,2026-09-24,215.12
+Tips,2026-09-24,56.34
+Amount collected,2026-09-24,2638.2
+Unpaid balance,2026-09-24,0.0
+Gross sales,2026-09-25,2944.58
+Refunds,2026-09-25,0.0
+Net sales,2026-09-25,2944.58
+Overpayments,2026-09-25,0.0
+Taxes expected,2026-09-25,270.88
+Taxes collected,2026-09-25,270.88
+Tips,2026-09-25,41.49
+Amount collected,2026-09-25,3256.95
+Unpaid balance,2026-09-25,0.0
+Gross sales,2026-09-26,3480.05
+Refunds,2026-09-26,0.0
+Net sales,2026-09-26,3480.05
+Overpayments,2026-09-26,0.0
+Taxes expected,2026-09-26,316.91
+Taxes collected,2026-09-26,316.91
+Tips,2026-09-26,70.17
+Amount collected,2026-09-26,3867.13
+Unpaid balance,2026-09-26,0.0
+Gross sales,2026-09-27,3109.27
+Refunds,2026-09-27,0.0
+Net sales,2026-09-27,3109.27
+Overpayments,2026-09-27,0.0
+Taxes expected,2026-09-27,286.61
+Taxes collected,2026-09-27,286.61
+Tips,2026-09-27,60.14
+Amount collected,2026-09-27,3456.02
+Unpaid balance,2026-09-27,0.0
+Gross sales,2026-09-28,1749.38
+Refunds,2026-09-28,0.0
+Net sales,2026-09-28,1749.38
+Overpayments,2026-09-28,0.0
+Taxes expected,2026-09-28,160.86
+Taxes collected,2026-09-28,160.86
+Tips,2026-09-28,33.93
+Amount collected,2026-09-28,1944.17
+Unpaid balance,2026-09-28,0.0
+Gross sales,2026-09-29,2220.33
+Refunds,2026-09-29,0.0
+Net sales,2026-09-29,2220.33
+Overpayments,2026-09-29,0.0
+Taxes expected,2026-09-29,204.53
+Taxes collected,2026-09-29,204.53
+Tips,2026-09-29,25.33
+Amount collected,2026-09-29,2450.19
+Unpaid balance,2026-09-29,0.0
+Gross sales,2026-09-30,2334.45
+Refunds,2026-09-30,0.0
+Net sales,2026-09-30,2334.45
+Overpayments,2026-09-30,0.0
+Taxes expected,2026-09-30,213.84
+Taxes collected,2026-09-30,213.84
+Tips,2026-09-30,45.73
+Amount collected,2026-09-30,2594.02
+Unpaid balance,2026-09-30,0.0
+Gross sales,2026-10-01,2618.78
+Refunds,2026-10-01,0.0
+Net sales,2026-10-01,2618.78
+Overpayments,2026-10-01,0.0
+Taxes expected,2026-10-01,239.34
+Taxes collected,2026-10-01,239.34
+Tips,2026-10-01,61.93
+Amount collected,2026-10-01,2920.05
+Unpaid balance,2026-10-01,0.0
+Gross sales,2026-10-02,3264.44
+Refunds,2026-10-02,0.0
+Net sales,2026-10-02,3264.44
+Overpayments,2026-10-02,0.0
+Taxes expected,2026-10-02,298.35
+Taxes collected,2026-10-02,298.35
+Tips,2026-10-02,63.96
+Amount collected,2026-10-02,3623.93
+Unpaid balance,2026-10-02,2.82
+Gross sales,2026-10-03,3568.61
+Refunds,2026-10-03,0.0
+Net sales,2026-10-03,3568.61
+Overpayments,2026-10-03,0.0
+Taxes expected,2026-10-03,324.76
+Taxes collected,2026-10-03,324.76
+Tips,2026-10-03,47.94
+Amount collected,2026-10-03,3941.31
+Unpaid balance,2026-10-03,0.0
+Gross sales,2026-10-04,3437.8
+Refunds,2026-10-04,0.0
+Net sales,2026-10-04,3437.8
+Overpayments,2026-10-04,0.0
+Taxes expected,2026-10-04,315.95
+Taxes collected,2026-10-04,315.95
+Tips,2026-10-04,38.18
+Amount collected,2026-10-04,3791.93
+Unpaid balance,2026-10-04,0.0
+Gross sales,2026-10-05,1792.16
+Refunds,2026-10-05,0.0
+Net sales,2026-10-05,1792.16
+Overpayments,2026-10-05,0.0
+Taxes expected,2026-10-05,166.75
+Taxes collected,2026-10-05,166.75
+Tips,2026-10-05,26.08
+Amount collected,2026-10-05,1984.99
+Unpaid balance,2026-10-05,0.0
+Gross sales,2026-10-06,2300.29
+Refunds,2026-10-06,0.0
+Net sales,2026-10-06,2300.29
+Overpayments,2026-10-06,0.0
+Taxes expected,2026-10-06,213.48
+Taxes collected,2026-10-06,213.48
+Tips,2026-10-06,45.79
+Amount collected,2026-10-06,2559.56
+Unpaid balance,2026-10-06,0.0
+Gross sales,2026-10-07,2509.9
+Refunds,2026-10-07,0.0
+Net sales,2026-10-07,2509.9
+Overpayments,2026-10-07,0.0
+Taxes expected,2026-10-07,229.24
+Taxes collected,2026-10-07,229.24
+Tips,2026-10-07,25.65
+Amount collected,2026-10-07,2764.79
+Unpaid balance,2026-10-07,0.0
+Gross sales,2026-10-08,2287.38
+Refunds,2026-10-08,0.0
+Net sales,2026-10-08,2287.38
+Overpayments,2026-10-08,0.0
+Taxes expected,2026-10-08,208.29
+Taxes collected,2026-10-08,208.29
+Tips,2026-10-08,46.15
+Amount collected,2026-10-08,2541.82
+Unpaid balance,2026-10-08,0.0
+Gross sales,2026-10-09,3539.48
+Refunds,2026-10-09,0.0
+Net sales,2026-10-09,3539.48
+Overpayments,2026-10-09,0.0
+Taxes expected,2026-10-09,323.07
+Taxes collected,2026-10-09,323.07
+Tips,2026-10-09,64.93
+Amount collected,2026-10-09,3927.48
+Unpaid balance,2026-10-09,0.0
+Gross sales,2026-10-10,3199.3
+Refunds,2026-10-10,0.0
+Net sales,2026-10-10,3199.3
+Overpayments,2026-10-10,0.0
+Taxes expected,2026-10-10,291.87
+Taxes collected,2026-10-10,291.87
+Tips,2026-10-10,38.46
+Amount collected,2026-10-10,3529.63
+Unpaid balance,2026-10-10,0.0
+Gross sales,2026-10-11,2729.5
+Refunds,2026-10-11,0.0
+Net sales,2026-10-11,2729.5
+Overpayments,2026-10-11,0.0
+Taxes expected,2026-10-11,249.69
+Taxes collected,2026-10-11,249.69
+Tips,2026-10-11,69.84
+Amount collected,2026-10-11,3049.03
+Unpaid balance,2026-10-11,0.0
+Gross sales,2026-10-12,1948.15
+Refunds,2026-10-12,0.0
+Net sales,2026-10-12,1948.15
+Overpayments,2026-10-12,0.0
+Taxes expected,2026-10-12,177.14
+Taxes collected,2026-10-12,177.14
+Tips,2026-10-12,49.07
+Amount collected,2026-10-12,2174.36
+Unpaid balance,2026-10-12,0.0
+Gross sales,2026-10-13,2080.44
+Refunds,2026-10-13,0.0
+Net sales,2026-10-13,2080.44
+Overpayments,2026-10-13,0.0
+Taxes expected,2026-10-13,188.16
+Taxes collected,2026-10-13,188.16
+Tips,2026-10-13,43.84
+Amount collected,2026-10-13,2312.44
+Unpaid balance,2026-10-13,0.0
+Gross sales,2026-10-14,2269.42
+Refunds,2026-10-14,0.0
+Net sales,2026-10-14,2269.42
+Overpayments,2026-10-14,0.0
+Taxes expected,2026-10-14,209.64
+Taxes collected,2026-10-14,209.64
+Tips,2026-10-14,46.59
+Amount collected,2026-10-14,2525.65
+Unpaid balance,2026-10-14,0.0
+Gross sales,2026-10-15,2725.68
+Refunds,2026-10-15,0.0
+Net sales,2026-10-15,2725.68
+Overpayments,2026-10-15,0.0
+Taxes expected,2026-10-15,252.0
+Taxes collected,2026-10-15,252.0
+Tips,2026-10-15,47.37
+Amount collected,2026-10-15,3025.05
+Unpaid balance,2026-10-15,0.0
+Gross sales,2026-10-16,3244.2
+Refunds,2026-10-16,0.0
+Net sales,2026-10-16,3244.2
+Overpayments,2026-10-16,0.0
+Taxes expected,2026-10-16,293.74
+Taxes collected,2026-10-16,293.74
+Tips,2026-10-16,69.67
+Amount collected,2026-10-16,3607.61
+Unpaid balance,2026-10-16,0.0
+Gross sales,2026-10-17,3352.17
+Refunds,2026-10-17,0.0
+Net sales,2026-10-17,3352.17
+Overpayments,2026-10-17,0.0
+Taxes expected,2026-10-17,307.74
+Taxes collected,2026-10-17,307.74
+Tips,2026-10-17,89.17
+Amount collected,2026-10-17,3749.08
+Unpaid balance,2026-10-17,0.0
+Gross sales,2026-10-18,2879.95
+Refunds,2026-10-18,0.0
+Net sales,2026-10-18,2879.95
+Overpayments,2026-10-18,0.0
+Taxes expected,2026-10-18,260.35
+Taxes collected,2026-10-18,259.79
+Tips,2026-10-18,74.24
+Amount collected,2026-10-18,3213.98
+Unpaid balance,2026-10-18,0.0
+Gross sales,2026-10-19,2062.93
+Refunds,2026-10-19,0.0
+Net sales,2026-10-19,2062.93
+Overpayments,2026-10-19,0.0
+Taxes expected,2026-10-19,191.94
+Taxes collected,2026-10-19,191.94
+Tips,2026-10-19,30.46
+Amount collected,2026-10-19,2285.33
+Unpaid balance,2026-10-19,0.0
+Gross sales,2026-10-20,1977.97
+Refunds,2026-10-20,0.0
+Net sales,2026-10-20,1977.97
+Overpayments,2026-10-20,0.0
+Taxes expected,2026-10-20,182.9
+Taxes collected,2026-10-20,182.9
+Tips,2026-10-20,25.29
+Amount collected,2026-10-20,2186.16
+Unpaid balance,2026-10-20,0.0
+Gross sales,2026-10-21,2615.44
+Refunds,2026-10-21,0.0
+Net sales,2026-10-21,2615.44
+Overpayments,2026-10-21,0.0
+Taxes expected,2026-10-21,242.94
+Taxes collected,2026-10-21,242.94
+Tips,2026-10-21,69.63
+Amount collected,2026-10-21,2928.01
+Unpaid balance,2026-10-21,0.0
+Gross sales,2026-10-22,2282.01
+Refunds,2026-10-22,0.0
+Net sales,2026-10-22,2282.01
+Overpayments,2026-10-22,0.0
+Taxes expected,2026-10-22,207.34
+Taxes collected,2026-10-22,207.34
+Tips,2026-10-22,38.95
+Amount collected,2026-10-22,2528.3
+Unpaid balance,2026-10-22,0.0
+Gross sales,2026-10-23,2987.08
+Refunds,2026-10-23,0.0
+Net sales,2026-10-23,2987.08
+Overpayments,2026-10-23,1.73
+Taxes expected,2026-10-23,274.7
+Taxes collected,2026-10-23,273.64
+Tips,2026-10-23,43.02
+Amount collected,2026-10-23,3305.47
+Unpaid balance,2026-10-23,0.0
+Gross sales,2026-10-24,3787.38
+Refunds,2026-10-24,0.0
+Net sales,2026-10-24,3787.38
+Overpayments,2026-10-24,0.0
+Taxes expected,2026-10-24,351.49
+Taxes collected,2026-10-24,351.49
+Tips,2026-10-24,65.66
+Amount collected,2026-10-24,4204.53
+Unpaid balance,2026-10-24,0.0
+Gross sales,2026-10-25,2915.48
+Refunds,2026-10-25,0.0
+Net sales,2026-10-25,2915.48
+Overpayments,2026-10-25,0.0
+Taxes expected,2026-10-25,270.32
+Taxes collected,2026-10-25,270.32
+Tips,2026-10-25,68.24
+Amount collected,2026-10-25,3254.04
+Unpaid balance,2026-10-25,0.0
+Gross sales,2026-10-26,1867.13
+Refunds,2026-10-26,0.0
+Net sales,2026-10-26,1867.13
+Overpayments,2026-10-26,0.0
+Taxes expected,2026-10-26,171.49
+Taxes collected,2026-10-26,171.49
+Tips,2026-10-26,41.39
+Amount collected,2026-10-26,2080.01
+Unpaid balance,2026-10-26,0.0
+Gross sales,2026-10-27,1978.81
+Refunds,2026-10-27,0.0
+Net sales,2026-10-27,1978.81
+Overpayments,2026-10-27,0.0
+Taxes expected,2026-10-27,183.25
+Taxes collected,2026-10-27,183.25
+Tips,2026-10-27,30.75
+Amount collected,2026-10-27,2192.81
+Unpaid balance,2026-10-27,0.0
+Gross sales,2026-10-28,2312.59
+Refunds,2026-10-28,0.0
+Net sales,2026-10-28,2312.59
+Overpayments,2026-10-28,0.0
+Taxes expected,2026-10-28,214.3
+Taxes collected,2026-10-28,214.3
+Tips,2026-10-28,24.28
+Amount collected,2026-10-28,2551.17
+Unpaid balance,2026-10-28,0.0
+Gross sales,2026-10-29,2630.13
+Refunds,2026-10-29,0.0
+Net sales,2026-10-29,2630.13
+Overpayments,2026-10-29,0.0
+Taxes expected,2026-10-29,241.43
+Taxes collected,2026-10-29,241.43
+Tips,2026-10-29,57.41
+Amount collected,2026-10-29,2928.97
+Unpaid balance,2026-10-29,0.0
+Gross sales,2026-10-30,2894.24
+Refunds,2026-10-30,0.0
+Net sales,2026-10-30,2894.24
+Overpayments,2026-10-30,0.0
+Taxes expected,2026-10-30,268.29
+Taxes collected,2026-10-30,268.29
+Tips,2026-10-30,48.67
+Amount collected,2026-10-30,3211.2
+Unpaid balance,2026-10-30,0.0
+Gross sales,2026-10-31,3900.0
+Refunds,2026-10-31,0.0
+Net sales,2026-10-31,3900.0
+Overpayments,2026-10-31,0.0
+Taxes expected,2026-10-31,359.98
+Taxes collected,2026-10-31,359.98
+Tips,2026-10-31,45.21
+Amount collected,2026-10-31,4305.19
+Unpaid balance,2026-10-31,0.0
+Gross sales,2026-11-01,3529.73
+Refunds,2026-11-01,0.0
+Net sales,2026-11-01,3529.73
+Overpayments,2026-11-01,0.0
+Taxes expected,2026-11-01,319.06
+Taxes collected,2026-11-01,317.98
+Tips,2026-11-01,78.59
+Amount collected,2026-11-01,3926.3
+Unpaid balance,2026-11-01,0.0
+Gross sales,2026-11-02,1909.86
+Refunds,2026-11-02,0.0
+Net sales,2026-11-02,1909.86
+Overpayments,2026-11-02,0.0
+Taxes expected,2026-11-02,176.46
+Taxes collected,2026-11-02,176.46
+Tips,2026-11-02,38.61
+Amount collected,2026-11-02,2124.93
+Unpaid balance,2026-11-02,0.0
+Gross sales,2026-11-03,1888.99
+Refunds,2026-11-03,0.0
+Net sales,2026-11-03,1888.99
+Overpayments,2026-11-03,0.0
+Taxes expected,2026-11-03,173.85
+Taxes collected,2026-11-03,173.85
+Tips,2026-11-03,28.3
+Amount collected,2026-11-03,2091.14
+Unpaid balance,2026-11-03,0.0
+Gross sales,2026-11-04,2655.47
+Refunds,2026-11-04,0.0
+Net sales,2026-11-04,2655.47
+Overpayments,2026-11-04,0.0
+Taxes expected,2026-11-04,245.55
+Taxes collected,2026-11-04,245.55
+Tips,2026-11-04,28.46
+Amount collected,2026-11-04,2929.48
+Unpaid balance,2026-11-04,0.0
+Gross sales,2026-11-05,2416.11
+Refunds,2026-11-05,0.0
+Net sales,2026-11-05,2416.11
+Overpayments,2026-11-05,0.0
+Taxes expected,2026-11-05,222.67
+Taxes collected,2026-11-05,222.67
+Tips,2026-11-05,31.02
+Amount collected,2026-11-05,2669.8
+Unpaid balance,2026-11-05,0.0
+Gross sales,2026-11-06,3444.04
+Refunds,2026-11-06,0.0
+Net sales,2026-11-06,3444.04
+Overpayments,2026-11-06,0.0
+Taxes expected,2026-11-06,314.05
+Taxes collected,2026-11-06,314.05
+Tips,2026-11-06,44.8
+Amount collected,2026-11-06,3802.89
+Unpaid balance,2026-11-06,0.0
+Gross sales,2026-11-07,3173.64
+Refunds,2026-11-07,0.0
+Net sales,2026-11-07,3173.64
+Overpayments,2026-11-07,0.0
+Taxes expected,2026-11-07,291.32
+Taxes collected,2026-11-07,291.32
+Tips,2026-11-07,66.12
+Amount collected,2026-11-07,3531.08
+Unpaid balance,2026-11-07,0.0
+Gross sales,2026-11-08,3127.22
+Refunds,2026-11-08,0.0
+Net sales,2026-11-08,3127.22
+Overpayments,2026-11-08,0.0
+Taxes expected,2026-11-08,283.67
+Taxes collected,2026-11-08,283.67
+Tips,2026-11-08,30.19
+Amount collected,2026-11-08,3441.08
+Unpaid balance,2026-11-08,0.0
+Gross sales,2026-11-09,2111.09
+Refunds,2026-11-09,0.0
+Net sales,2026-11-09,2111.09
+Overpayments,2026-11-09,0.0
+Taxes expected,2026-11-09,196.42
+Taxes collected,2026-11-09,196.42
+Tips,2026-11-09,25.45
+Amount collected,2026-11-09,2332.96
+Unpaid balance,2026-11-09,0.0
+Gross sales,2026-11-10,2258.47
+Refunds,2026-11-10,0.0
+Net sales,2026-11-10,2258.47
+Overpayments,2026-11-10,0.0
+Taxes expected,2026-11-10,209.86
+Taxes collected,2026-11-10,209.86
+Tips,2026-11-10,42.39
+Amount collected,2026-11-10,2510.72
+Unpaid balance,2026-11-10,0.0
+Gross sales,2026-11-11,2505.14
+Refunds,2026-11-11,0.0
+Net sales,2026-11-11,2505.14
+Overpayments,2026-11-11,0.0
+Taxes expected,2026-11-11,227.49
+Taxes collected,2026-11-11,227.49
+Tips,2026-11-11,61.86
+Amount collected,2026-11-11,2794.49
+Unpaid balance,2026-11-11,0.0
+Gross sales,2026-11-12,2348.41
+Refunds,2026-11-12,0.0
+Net sales,2026-11-12,2348.41
+Overpayments,2026-11-12,0.0
+Taxes expected,2026-11-12,216.77
+Taxes collected,2026-11-12,216.77
+Tips,2026-11-12,41.6
+Amount collected,2026-11-12,2606.78
+Unpaid balance,2026-11-12,0.0
+Gross sales,2026-11-13,3467.98
+Refunds,2026-11-13,0.0
+Net sales,2026-11-13,3467.98
+Overpayments,2026-11-13,0.0
+Taxes expected,2026-11-13,315.7
+Taxes collected,2026-11-13,315.7
+Tips,2026-11-13,84.72
+Amount collected,2026-11-13,3868.4
+Unpaid balance,2026-11-13,0.0
+Gross sales,2026-11-14,3438.0
+Refunds,2026-11-14,0.0
+Net sales,2026-11-14,3438.0
+Overpayments,2026-11-14,0.0
+Taxes expected,2026-11-14,313.06
+Taxes collected,2026-11-14,313.06
+Tips,2026-11-14,52.98
+Amount collected,2026-11-14,3804.04
+Unpaid balance,2026-11-14,0.0
+Gross sales,2026-11-15,3028.32
+Refunds,2026-11-15,0.0
+Net sales,2026-11-15,3028.32
+Overpayments,2026-11-15,0.0
+Taxes expected,2026-11-15,277.49
+Taxes collected,2026-11-15,277.49
+Tips,2026-11-15,53.43
+Amount collected,2026-11-15,3359.24
+Unpaid balance,2026-11-15,0.0
+Gross sales,2026-11-16,2038.24
+Refunds,2026-11-16,0.0
+Net sales,2026-11-16,2038.24
+Overpayments,2026-11-16,0.0
+Taxes expected,2026-11-16,187.3
+Taxes collected,2026-11-16,187.3
+Tips,2026-11-16,45.77
+Amount collected,2026-11-16,2271.31
+Unpaid balance,2026-11-16,0.0
+Gross sales,2026-11-17,2293.52
+Refunds,2026-11-17,0.0
+Net sales,2026-11-17,2293.52
+Overpayments,2026-11-17,0.0
+Taxes expected,2026-11-17,211.01
+Taxes collected,2026-11-17,211.01
+Tips,2026-11-17,37.81
+Amount collected,2026-11-17,2542.34
+Unpaid balance,2026-11-17,0.0
+Gross sales,2026-11-18,2489.31
+Refunds,2026-11-18,0.0
+Net sales,2026-11-18,2489.31
+Overpayments,2026-11-18,0.0
+Taxes expected,2026-11-18,225.55
+Taxes collected,2026-11-18,225.55
+Tips,2026-11-18,41.67
+Amount collected,2026-11-18,2756.53
+Unpaid balance,2026-11-18,0.0
+Gross sales,2026-11-19,2602.44
+Refunds,2026-11-19,0.0
+Net sales,2026-11-19,2602.44
+Overpayments,2026-11-19,0.0
+Taxes expected,2026-11-19,240.69
+Taxes collected,2026-11-19,240.69
+Tips,2026-11-19,25.99
+Amount collected,2026-11-19,2869.12
+Unpaid balance,2026-11-19,0.0
+Gross sales,2026-11-20,3088.13
+Refunds,2026-11-20,0.0
+Net sales,2026-11-20,3088.13
+Overpayments,2026-11-20,0.0
+Taxes expected,2026-11-20,283.84
+Taxes collected,2026-11-20,283.84
+Tips,2026-11-20,51.27
+Amount collected,2026-11-20,3423.24
+Unpaid balance,2026-11-20,0.0
+Gross sales,2026-11-21,3286.84
+Refunds,2026-11-21,0.0
+Net sales,2026-11-21,3286.84
+Overpayments,2026-11-21,0.0
+Taxes expected,2026-11-21,302.4
+Taxes collected,2026-11-21,302.4
+Tips,2026-11-21,69.5
+Amount collected,2026-11-21,3658.74
+Unpaid balance,2026-11-21,0.0
+Gross sales,2026-11-22,3011.62
+Refunds,2026-11-22,0.0
+Net sales,2026-11-22,3011.62
+Overpayments,2026-11-22,0.0
+Taxes expected,2026-11-22,278.73
+Taxes collected,2026-11-22,278.73
+Tips,2026-11-22,77.16
+Amount collected,2026-11-22,3367.51
+Unpaid balance,2026-11-22,0.0
+Gross sales,2026-11-23,1953.99
+Refunds,2026-11-23,0.0
+Net sales,2026-11-23,1953.99
+Overpayments,2026-11-23,0.0
+Taxes expected,2026-11-23,179.13
+Taxes collected,2026-11-23,179.13
+Tips,2026-11-23,22.45
+Amount collected,2026-11-23,2155.57
+Unpaid balance,2026-11-23,0.0
+Gross sales,2026-11-24,1884.18
+Refunds,2026-11-24,0.0
+Net sales,2026-11-24,1884.18
+Overpayments,2026-11-24,0.0
+Taxes expected,2026-11-24,175.27
+Taxes collected,2026-11-24,175.27
+Tips,2026-11-24,42.18
+Amount collected,2026-11-24,2101.63
+Unpaid balance,2026-11-24,0.0
+Gross sales,2026-11-25,2237.15
+Refunds,2026-11-25,0.0
+Net sales,2026-11-25,2237.15
+Overpayments,2026-11-25,0.0
+Taxes expected,2026-11-25,205.25
+Taxes collected,2026-11-25,205.25
+Tips,2026-11-25,37.94
+Amount collected,2026-11-25,2480.34
+Unpaid balance,2026-11-25,0.0
+Gross sales,2026-11-26,0.0
+Refunds,2026-11-26,0.0
+Net sales,2026-11-26,0.0
+Overpayments,2026-11-26,0.0
+Taxes expected,2026-11-26,0.0
+Taxes collected,2026-11-26,0.0
+Tips,2026-11-26,0.0
+Amount collected,2026-11-26,0.0
+Unpaid balance,2026-11-26,0.0
+Gross sales,2026-11-27,3607.57
+Refunds,2026-11-27,0.0
+Net sales,2026-11-27,3607.57
+Overpayments,2026-11-27,0.0
+Taxes expected,2026-11-27,332.96
+Taxes collected,2026-11-27,332.96
+Tips,2026-11-27,76.27
+Amount collected,2026-11-27,4016.8
+Unpaid balance,2026-11-27,0.0
+Gross sales,2026-11-28,3153.8
+Refunds,2026-11-28,0.0
+Net sales,2026-11-28,3153.8
+Overpayments,2026-11-28,0.0
+Taxes expected,2026-11-28,293.24
+Taxes collected,2026-11-28,293.24
+Tips,2026-11-28,79.85
+Amount collected,2026-11-28,3526.89
+Unpaid balance,2026-11-28,0.0
+Gross sales,2026-11-29,2863.09
+Refunds,2026-11-29,0.0
+Net sales,2026-11-29,2863.09
+Overpayments,2026-11-29,0.0
+Taxes expected,2026-11-29,264.75
+Taxes collected,2026-11-29,264.75
+Tips,2026-11-29,74.16
+Amount collected,2026-11-29,3202.0
+Unpaid balance,2026-11-29,0.0
+Gross sales,2026-11-30,1891.03
+Refunds,2026-11-30,0.0
+Net sales,2026-11-30,1891.03
+Overpayments,2026-11-30,0.0
+Taxes expected,2026-11-30,171.17
+Taxes collected,2026-11-30,171.17
+Tips,2026-11-30,33.09
+Amount collected,2026-11-30,2095.29
+Unpaid balance,2026-11-30,0.0
+Gross sales,2026-12-01,2469.09
+Refunds,2026-12-01,0.0
+Net sales,2026-12-01,2469.09
+Overpayments,2026-12-01,0.0
+Taxes expected,2026-12-01,228.97
+Taxes collected,2026-12-01,228.97
+Tips,2026-12-01,31.15
+Amount collected,2026-12-01,2729.21
+Unpaid balance,2026-12-01,0.0
+Gross sales,2026-12-02,2850.54
+Refunds,2026-12-02,0.0
+Net sales,2026-12-02,2850.54
+Overpayments,2026-12-02,0.0
+Taxes expected,2026-12-02,260.53
+Taxes collected,2026-12-02,260.53
+Tips,2026-12-02,39.29
+Amount collected,2026-12-02,3150.36
+Unpaid balance,2026-12-02,0.0
+Gross sales,2026-12-03,3045.73
+Refunds,2026-12-03,0.0
+Net sales,2026-12-03,3045.73
+Overpayments,2026-12-03,0.0
+Taxes expected,2026-12-03,282.35
+Taxes collected,2026-12-03,280.88
+Tips,2026-12-03,32.66
+Amount collected,2026-12-03,3359.27
+Unpaid balance,2026-12-03,0.0
+Gross sales,2026-12-04,3293.87
+Refunds,2026-12-04,0.0
+Net sales,2026-12-04,3293.87
+Overpayments,2026-12-04,0.0
+Taxes expected,2026-12-04,301.35
+Taxes collected,2026-12-04,301.35
+Tips,2026-12-04,33.72
+Amount collected,2026-12-04,3628.94
+Unpaid balance,2026-12-04,0.0
+Gross sales,2026-12-05,3814.04
+Refunds,2026-12-05,0.0
+Net sales,2026-12-05,3814.04
+Overpayments,2026-12-05,0.0
+Taxes expected,2026-12-05,346.16
+Taxes collected,2026-12-05,346.16
+Tips,2026-12-05,59.15
+Amount collected,2026-12-05,4219.35
+Unpaid balance,2026-12-05,0.0
+Gross sales,2026-12-06,3131.71
+Refunds,2026-12-06,0.0
+Net sales,2026-12-06,3131.71
+Overpayments,2026-12-06,0.0
+Taxes expected,2026-12-06,284.4
+Taxes collected,2026-12-06,284.4
+Tips,2026-12-06,78.59
+Amount collected,2026-12-06,3494.7
+Unpaid balance,2026-12-06,0.0
+Gross sales,2026-12-07,2176.16
+Refunds,2026-12-07,0.0
+Net sales,2026-12-07,2176.16
+Overpayments,2026-12-07,0.0
+Taxes expected,2026-12-07,197.42
+Taxes collected,2026-12-07,197.42
+Tips,2026-12-07,25.26
+Amount collected,2026-12-07,2398.84
+Unpaid balance,2026-12-07,0.0
+Gross sales,2026-12-08,2341.81
+Refunds,2026-12-08,0.0
+Net sales,2026-12-08,2341.81
+Overpayments,2026-12-08,0.0
+Taxes expected,2026-12-08,216.39
+Taxes collected,2026-12-08,216.39
+Tips,2026-12-08,22.4
+Amount collected,2026-12-08,2580.6
+Unpaid balance,2026-12-08,0.0
+Gross sales,2026-12-09,2429.89
+Refunds,2026-12-09,0.0
+Net sales,2026-12-09,2429.89
+Overpayments,2026-12-09,0.0
+Taxes expected,2026-12-09,219.66
+Taxes collected,2026-12-09,219.66
+Tips,2026-12-09,24.9
+Amount collected,2026-12-09,2674.45
+Unpaid balance,2026-12-09,0.0
+Gross sales,2026-12-10,2725.76
+Refunds,2026-12-10,0.0
+Net sales,2026-12-10,2725.76
+Overpayments,2026-12-10,0.0
+Taxes expected,2026-12-10,251.83
+Taxes collected,2026-12-10,250.82
+Tips,2026-12-10,69.7
+Amount collected,2026-12-10,3046.28
+Unpaid balance,2026-12-10,0.0
+Gross sales,2026-12-11,2869.83
+Refunds,2026-12-11,0.0
+Net sales,2026-12-11,2869.83
+Overpayments,2026-12-11,0.0
+Taxes expected,2026-12-11,266.77
+Taxes collected,2026-12-11,266.77
+Tips,2026-12-11,30.78
+Amount collected,2026-12-11,3167.38
+Unpaid balance,2026-12-11,0.0
+Gross sales,2026-12-12,3556.68
+Refunds,2026-12-12,0.0
+Net sales,2026-12-12,3556.68
+Overpayments,2026-12-12,0.0
+Taxes expected,2026-12-12,329.04
+Taxes collected,2026-12-12,329.04
+Tips,2026-12-12,74.76
+Amount collected,2026-12-12,3960.48
+Unpaid balance,2026-12-12,0.0
+Gross sales,2026-12-13,3006.62
+Refunds,2026-12-13,0.0
+Net sales,2026-12-13,3006.62
+Overpayments,2026-12-13,0.0
+Taxes expected,2026-12-13,271.8
+Taxes collected,2026-12-13,271.8
+Tips,2026-12-13,70.18
+Amount collected,2026-12-13,3348.6
+Unpaid balance,2026-12-13,0.0
+Gross sales,2026-12-14,2207.89
+Refunds,2026-12-14,0.0
+Net sales,2026-12-14,2207.89
+Overpayments,2026-12-14,0.0
+Taxes expected,2026-12-14,199.99
+Taxes collected,2026-12-14,199.99
+Tips,2026-12-14,51.34
+Amount collected,2026-12-14,2459.22
+Unpaid balance,2026-12-14,0.0
+Gross sales,2026-12-15,2056.5
+Refunds,2026-12-15,0.0
+Net sales,2026-12-15,2056.5
+Overpayments,2026-12-15,0.0
+Taxes expected,2026-12-15,189.79
+Taxes collected,2026-12-15,189.39
+Tips,2026-12-15,47.3
+Amount collected,2026-12-15,2293.19
+Unpaid balance,2026-12-15,0.0
+Gross sales,2026-12-16,2311.01
+Refunds,2026-12-16,0.0
+Net sales,2026-12-16,2311.01
+Overpayments,2026-12-16,0.0
+Taxes expected,2026-12-16,210.99
+Taxes collected,2026-12-16,210.99
+Tips,2026-12-16,33.14
+Amount collected,2026-12-16,2555.14
+Unpaid balance,2026-12-16,0.0
+Gross sales,2026-12-17,2632.88
+Refunds,2026-12-17,0.0
+Net sales,2026-12-17,2632.88
+Overpayments,2026-12-17,0.0
+Taxes expected,2026-12-17,242.44
+Taxes collected,2026-12-17,242.44
+Tips,2026-12-17,31.96
+Amount collected,2026-12-17,2907.28
+Unpaid balance,2026-12-17,0.0
+Gross sales,2026-12-18,3372.89
+Refunds,2026-12-18,0.0
+Net sales,2026-12-18,3372.89
+Overpayments,2026-12-18,0.0
+Taxes expected,2026-12-18,307.31
+Taxes collected,2026-12-18,307.31
+Tips,2026-12-18,82.87
+Amount collected,2026-12-18,3763.07
+Unpaid balance,2026-12-18,0.0
+Gross sales,2026-12-19,3900.0
+Refunds,2026-12-19,0.0
+Net sales,2026-12-19,3900.0
+Overpayments,2026-12-19,0.0
+Taxes expected,2026-12-19,355.41
+Taxes collected,2026-12-19,355.41
+Tips,2026-12-19,83.74
+Amount collected,2026-12-19,4339.15
+Unpaid balance,2026-12-19,0.0
+Gross sales,2026-12-20,3127.8
+Refunds,2026-12-20,0.0
+Net sales,2026-12-20,3127.8
+Overpayments,2026-12-20,0.0
+Taxes expected,2026-12-20,283.27
+Taxes collected,2026-12-20,283.27
+Tips,2026-12-20,63.51
+Amount collected,2026-12-20,3474.58
+Unpaid balance,2026-12-20,0.0
+Gross sales,2026-12-21,2348.25
+Refunds,2026-12-21,0.0
+Net sales,2026-12-21,2348.25
+Overpayments,2026-12-21,0.0
+Taxes expected,2026-12-21,212.99
+Taxes collected,2026-12-21,212.99
+Tips,2026-12-21,34.24
+Amount collected,2026-12-21,2595.48
+Unpaid balance,2026-12-21,0.0
+Gross sales,2026-12-22,2456.28
+Refunds,2026-12-22,0.0
+Net sales,2026-12-22,2456.28
+Overpayments,2026-12-22,0.0
+Taxes expected,2026-12-22,225.91
+Taxes collected,2026-12-22,224.53
+Tips,2026-12-22,51.8
+Amount collected,2026-12-22,2732.61
+Unpaid balance,2026-12-22,0.0
+Gross sales,2026-12-23,2828.95
+Refunds,2026-12-23,0.0
+Net sales,2026-12-23,2828.95
+Overpayments,2026-12-23,0.0
+Taxes expected,2026-12-23,260.03
+Taxes collected,2026-12-23,260.03
+Tips,2026-12-23,36.49
+Amount collected,2026-12-23,3125.47
+Unpaid balance,2026-12-23,0.0
+Gross sales,2026-12-24,2550.08
+Refunds,2026-12-24,0.0
+Net sales,2026-12-24,2550.08
+Overpayments,2026-12-24,0.0
+Taxes expected,2026-12-24,231.6
+Taxes collected,2026-12-24,231.6
+Tips,2026-12-24,31.8
+Amount collected,2026-12-24,2813.48
+Unpaid balance,2026-12-24,0.0
+Gross sales,2026-12-25,0.0
+Refunds,2026-12-25,0.0
+Net sales,2026-12-25,0.0
+Overpayments,2026-12-25,0.0
+Taxes expected,2026-12-25,0.0
+Taxes collected,2026-12-25,0.0
+Tips,2026-12-25,0.0
+Amount collected,2026-12-25,0.0
+Unpaid balance,2026-12-25,0.0
+Gross sales,2026-12-26,3800.91
+Refunds,2026-12-26,0.0
+Net sales,2026-12-26,3800.91
+Overpayments,2026-12-26,0.0
+Taxes expected,2026-12-26,349.68
+Taxes collected,2026-12-26,349.68
+Tips,2026-12-26,95.85
+Amount collected,2026-12-26,4246.44
+Unpaid balance,2026-12-26,0.0
+Gross sales,2026-12-27,3270.07
+Refunds,2026-12-27,0.0
+Net sales,2026-12-27,3270.07
+Overpayments,2026-12-27,0.0
+Taxes expected,2026-12-27,299.86
+Taxes collected,2026-12-27,299.86
+Tips,2026-12-27,42.31
+Amount collected,2026-12-27,3612.24
+Unpaid balance,2026-12-27,0.0
+Gross sales,2026-12-28,1960.96
+Refunds,2026-12-28,0.0
+Net sales,2026-12-28,1960.96
+Overpayments,2026-12-28,0.0
+Taxes expected,2026-12-28,179.88
+Taxes collected,2026-12-28,179.88
+Tips,2026-12-28,27.93
+Amount collected,2026-12-28,2168.77
+Unpaid balance,2026-12-28,0.0
+Gross sales,2026-12-29,0.0
+Refunds,2026-12-29,0.0
+Net sales,2026-12-29,0.0
+Overpayments,2026-12-29,0.0
+Taxes expected,2026-12-29,0.0
+Taxes collected,2026-12-29,0.0
+Tips,2026-12-29,0.0
+Amount collected,2026-12-29,0.0
+Unpaid balance,2026-12-29,0.0
+Gross sales,2026-12-30,2490.92
+Refunds,2026-12-30,0.0
+Net sales,2026-12-30,2490.92
+Overpayments,2026-12-30,0.0
+Taxes expected,2026-12-30,227.42
+Taxes collected,2026-12-30,227.42
+Tips,2026-12-30,62.62
+Amount collected,2026-12-30,2780.96
+Unpaid balance,2026-12-30,0.0
+Gross sales,2026-12-31,2767.29
+Refunds,2026-12-31,0.0
+Net sales,2026-12-31,2767.29
+Overpayments,2026-12-31,0.0
+Taxes expected,2026-12-31,253.83
+Taxes collected,2026-12-31,253.83
+Tips,2026-12-31,36.62
+Amount collected,2026-12-31,3057.74
+Unpaid balance,2026-12-31,0.0
