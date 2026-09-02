@@ -70,7 +70,7 @@ plt.savefig(
     dpi=300
 )
 
-plt.show()
+plt.close()
 
 monthly_gross_sales = (
     gross_sales
@@ -125,7 +125,7 @@ plt.savefig(
     dpi=300
 )
 
-plt.show()
+plt.close()
 
 top_months = (
     monthly_gross_sales
@@ -165,7 +165,7 @@ plt.savefig(
     dpi=300
 )
 
-plt.show()
+plt.close()
 
 gross_sales["DayOfWeek"] = gross_sales["SalesDate"].dt.day_name()
 
@@ -210,4 +210,4 @@ plt.savefig(
     dpi=300
 )
 
-plt.show()
+plt.close()

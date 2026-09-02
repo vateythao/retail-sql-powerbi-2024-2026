@@ -33,5 +33,15 @@ subprocess.run(
         "03_Python_Scripts/load_sales_to_sql.py"
     ],
     check=True
+    
+)
+print("\n========== RUNNING PYTHON EDA ==========")
+
+subprocess.run(
+    [
+        sys.executable,
+        "03_Python_Scripts/sales_eda_analysis.py"
+    ],
+    check=True
 )
 print("\nETL pipeline completed successfully!")
