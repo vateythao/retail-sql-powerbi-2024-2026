@@ -10,3 +10,5 @@ __pycache__/
 04_PowerBI/*.Report.zip
 04_PowerBI/*.pbip
 04_PowerBI/.gitignore
+# Pipeline log files
+06_Logs/*.log
