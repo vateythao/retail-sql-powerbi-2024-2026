@@ -2,6 +2,8 @@
 
 ### Project Highlights
 
+[![Python Data Tests](https://github.com/vateythao/retail-sql-powerbi-2024-2026/actions/workflows/python-tests.yml/badge.svg)](https://github.com/vateythao/retail-sql-powerbi-2024-2026/actions/workflows/python-tests.yml)
+
 - **End-to-End Pipeline:** Raw Excel → Python ETL → SQL Server → Automated Testing → Python EDA → Power BI
 - **Data Coverage:** 2024–2026 retail sales data
 - **Validated Records:** 9,864 cleaned sales records
@@ -607,3 +609,20 @@ The goal is to demonstrate practical skills relevant to roles such as:
 ## Repository
 
 This repository contains the source data, Python scripts, SQL scripts, Power BI dashboard, generated analysis charts, and documentation required to reproduce the project.
+
+## Continuous Integration with GitHub Actions
+
+This project uses GitHub Actions to automatically run the Python data-quality test suite whenever code is pushed to the `main` branch or a pull request is opened.
+
+The CI workflow automatically:
+
+- Checks out the repository
+- Sets up Python
+- Installs required test dependencies
+- Runs the automated sales data tests
+- Reports whether the test suite passed or failed
+
+The workflow configuration is located at:
+
+```text
+.github/workflows/python-tests.yml
