@@ -2,40 +2,61 @@
 
 ### Project Highlights
 
-- **End-to-End Pipeline:** Raw Excel → Python ETL → SQL Server → Power BI
+- **End-to-End Pipeline:** Raw Excel → Python ETL → SQL Server → Automated Testing → Python EDA → Power BI
 - **Data Coverage:** 2024–2026 retail sales data
 - **Validated Records:** 9,864 cleaned sales records
-- **Automation:** Full ETL pipeline runs with one Python command
-- **Core Technologies:** Python, pandas, SQL Server, Power BI, Git
+- **Automation:** Full ETL and analysis pipeline runs with one Python command
+- **Data Quality:** Automated checks for missing values, duplicates, schema, row count, and date coverage
+- **Core Technologies:** Python, pandas, SQL Server, Power BI, Matplotlib, Git, GitHub
+
+---
 
 ## Project Overview
 
 This project demonstrates an end-to-end retail data analytics workflow using Python, SQL Server, and Power BI.
 
-The project uses fake retail sales and inventory data from 2024 through 2026. Python is used to extract and clean yearly Excel sales reports, perform automated data-quality checks, reshape the data into an analytics-ready format, combine multiple years, and load the cleaned dataset into SQL Server. SQL Server is used for data storage, transformation, reporting views, and analytical queries, while Power BI is used to build an interactive business dashboard.
+The project uses synthetic retail sales and inventory data covering 2024 through 2026. Python is used to extract and clean yearly Excel sales reports, perform automated data-quality checks, reshape the data into an analytics-ready format, combine multiple years, load the cleaned dataset into SQL Server, perform exploratory data analysis, and automatically generate analytical charts.
 
-The Python ETL pipeline can process all three years and load 9,864 validated sales records into SQL Server with a single command.
+SQL Server is used for structured data storage, transformations, reporting views, and analytical queries. Power BI is used to build an interactive business dashboard for executive, monthly, and daily sales analysis.
+
+The automated Python pipeline processes all three years and loads **9,864 validated sales records** into SQL Server.
+
+---
 
 ## Dashboard Preview
 
 ![Power BI Executive Overview](05_Screenshots/06_powerbi_executive_overview_2024_2026.png)
 
+The Power BI report contains three analytical pages:
+
+1. **Executive Overview**
+2. **Monthly Performance**
+3. **Daily Sales Analysis**
+
+The dashboard is connected to the Python-cleaned SQL Server dataset and uses a shared Calendar table for date filtering.
+
+---
 
 ## Tools Used
 
 - Python 3.14
 - pandas
+- Matplotlib
 - openpyxl
 - pyodbc
+- unittest
 - SQL Server
 - SQL Server Management Studio (SSMS)
-- Power BI
+- Power BI Desktop
 - Git
 - GitHub
+- Visual Studio Code
+
+---
 
 ## ETL Workflow
 
-The Python ETL pipeline automates the preparation of retail sales data before it is loaded into SQL Server.
+The Python pipeline automates the preparation, validation, loading, testing, and analysis of retail sales data before it is consumed by Power BI.
 
 ```mermaid
 flowchart TD
@@ -45,8 +66,266 @@ flowchart TD
     D --> E["Combine All Years"]
     E --> F["Clean CSV Output"]
     F --> G["Load into SQL Server"]
-    G --> H["Power BI Dashboard"]
+    G --> H["Automated Data Tests"]
+    H --> I["Python EDA"]
+    I --> J["Generate Analysis Charts"]
+    J --> K["Power BI Dashboard"]
+
+    B -.-> L["Pipeline Logging"]
+    E -.-> L
+    G -.-> L
+    H -.-> L
+    I -.-> L
 ```
+
+The pipeline performs the following tasks:
+
+- Reads yearly Excel sales reports for 2024, 2025, and 2026
+- Extracts the nine required sales metrics
+- Removes report headers and non-data rows
+- Converts currency values into numeric format
+- Converts report dates into standard date values
+- Checks for missing values and duplicate records
+- Reshapes report-style Excel data into analytics-ready long format
+- Creates cleaned yearly CSV files
+- Combines all three years into one dataset
+- Loads 9,864 validated records into SQL Server
+- Runs automated data-quality tests
+- Performs Python exploratory data analysis
+- Regenerates Python analysis charts automatically
+- Writes pipeline execution details and errors to log files
+- Supplies cleaned data to the Power BI reporting layer
+
+---
+
+## How to Run the ETL Pipeline
+
+### 1. Create a Python virtual environment
+
+```powershell
+python -m venv .venv
+```
+
+Activate it:
+
+```powershell
+.venv\Scripts\activate
+```
+
+### 2. Install required packages
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+### 3. Run the complete pipeline
+
+```powershell
+python 03_Python_Scripts\run_etl_pipeline.py
+```
+
+This single command automatically:
+
+- Processes 2024 sales data
+- Processes 2025 sales data
+- Processes 2026 sales data
+- Performs data-quality validation
+- Creates cleaned yearly CSV files
+- Combines all yearly data
+- Loads the final dataset into SQL Server
+- Runs automated tests
+- Performs Python EDA
+- Regenerates analytical charts
+- Writes pipeline execution logs
+
+---
+
+## SQL Server Configuration
+
+The Python scripts use Windows Authentication to connect to SQL Server.
+
+The default configuration is:
+
+```text
+Server: localhost\SQLEXPRESS
+Database: RetailPortfolio_2024_2026
+```
+
+If the SQL Server instance uses a different computer or server name, set environment variables before running the pipeline.
+
+Example:
+
+```powershell
+$env:SQL_SERVER="YOUR_COMPUTER_NAME\SQLEXPRESS"
+$env:SQL_DATABASE="RetailPortfolio_2024_2026"
+```
+
+Then run:
+
+```powershell
+python 03_Python_Scripts\run_etl_pipeline.py
+```
+
+The SQL connection configuration can therefore be changed without modifying the Python source code.
+
+---
+
+## Project Structure
+
+```text
+RetailPortfolio_2024_2026/
+│
+├── 01_Raw_Data/
+│   ├── Sales/
+│   ├── Inventory/
+│   └── Other_Reports/
+│
+├── 02_Clean_Data/
+│   ├── sales_2024_clean.csv
+│   ├── sales_2025_clean.csv
+│   ├── sales_2026_clean.csv
+│   └── sales_2024_2026_combined.csv
+│
+├── 03_Python_Scripts/
+│   ├── data_quality_check.py
+│   ├── combine_sales_data.py
+│   ├── load_sales_to_sql.py
+│   ├── test_sql_connection.py
+│   ├── sales_eda_analysis.py
+│   ├── test_sales_data.py
+│   └── run_etl_pipeline.py
+│
+├── 03_SQL_Scripts/
+│   ├── 01_create_sales_tables_and_views.sql
+│   ├── 02_create_products_and_views.sql
+│   └── 03_create_calendar_table.sql
+│
+├── 04_PowerBI/
+│   └── RetailPortfolio_2024_2026_Dashboard.pbix
+│
+├── 05_Screenshots/
+│   ├── 06_powerbi_executive_overview_2024_2026.png
+│   ├── 09_python_yearly_gross_sales.png
+│   ├── 10_python_monthly_gross_sales_trend.png
+│   ├── 11_python_top_5_sales_months.png
+│   └── 12_python_sales_by_day_of_week.png
+│
+├── 06_Logs/
+│   └── .gitkeep
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+---
+
+## Key Features
+
+- End-to-end retail analytics workflow using Python, SQL Server, and Power BI
+- Automated processing of 2024, 2025, and 2026 sales workbooks
+- Python-based data cleaning and transformation with pandas
+- Automated missing-value and duplicate detection
+- Currency and date standardization
+- Transformation from report-style Excel data into long format
+- Automated combination of multiple yearly datasets
+- SQL Server loading with pyodbc
+- Safe SQL table refresh process to prevent duplicate inserts
+- Automated data-quality tests
+- Pipeline execution logging
+- Python exploratory data analysis
+- Automated analytical chart generation
+- One-command master pipeline
+- Interactive Power BI reporting
+- Git and GitHub version control
+
+---
+
+## Data Quality Results
+
+The final combined dataset contains:
+
+- **9,864 validated sales records**
+- **0 missing values**
+- **0 duplicate Metric + SalesDate records**
+- Complete date coverage from **January 1, 2024 through December 31, 2026**
+- **9 core sales metrics** for each reporting period
+
+The nine sales metrics include:
+
+- Gross sales
+- Refunds
+- Net sales
+- Overpayments
+- Taxes expected
+- Taxes collected
+- Tips
+- Amount collected
+- Unpaid balance
+
+---
+
+## Automated Testing and Logging
+
+The Python pipeline includes automated validation and execution logging to make the workflow more reliable and production-like.
+
+### Automated Data Tests
+
+The test suite validates:
+
+- Expected combined row count: **9,864**
+- No missing values
+- No duplicate `Metric + SalesDate` records
+- Required columns are present
+- Date range is exactly **2024-01-01 through 2026-12-31**
+
+The tests run automatically as part of the master ETL pipeline.
+
+The test file is:
+
+```text
+03_Python_Scripts/test_sales_data.py
+```
+
+Tests can also be executed independently:
+
+```powershell
+python 03_Python_Scripts\test_sales_data.py
+```
+
+A successful test run returns:
+
+```text
+.....
+----------------------------------------------------------------------
+Ran 5 tests
+OK
+```
+
+### Pipeline Logging
+
+Each pipeline run writes execution details to:
+
+```text
+06_Logs/etl_pipeline.log
+```
+
+The log records:
+
+- Pipeline start
+- 2024 processing completion
+- 2025 processing completion
+- 2026 processing completion
+- Data combination completion
+- SQL Server load completion
+- Automated test completion
+- Python EDA completion
+- Pipeline completion
+- Errors and failures
+
+Generated `.log` files are excluded from GitHub through `.gitignore`.
+
+---
 
 ## Data Model
 
@@ -70,220 +349,68 @@ flowchart LR
     M["Calendar"] --> N["Power BI Date Analysis"]
 ```
 
-## Business Questions Answered
+The `python_sales_clean` table contains the validated long-format dataset generated by the Python ETL pipeline.
 
-This project supports analysis of key retail business questions, including:
-
-- How do net sales change from 2024 through 2026?
-- Which months generate the highest and lowest sales?
-- How do gross sales compare with net sales?
-- How much revenue is lost through refunds?
-- How much tax is expected versus actually collected?
-- Which days of the week generate the strongest sales performance?
-- How does overall sales performance change over time?
-
-## Key Insights
-
-The project highlights several useful retail performance patterns:
-
-- Sales performance varies across years and months, making trend analysis important for planning.
-- Net sales and gross sales remain closely related, while refunds reduce realized revenue.
-- Tax expected and tax collected can be compared to identify collection differences.
-- Daily and monthly views help identify periods of stronger and weaker performance.
-- Combining Python, SQL Server, and Power BI creates a repeatable workflow from raw data to business reporting.
-
-## Future Enhancements
-
-Potential improvements to make the pipeline more production-ready include:
-
-- Add structured logging and error handling for ETL runs
-- Implement incremental loading instead of full-table refreshes
-- Store database configuration securely using environment variables
-- Add automated unit and data-quality tests
-- Schedule the ETL pipeline to run automatically
-- Add Python visualizations for exploratory data analysis
-- Deploy the data pipeline using a cloud platform such as Azure or AWS
-
-## Database
-
-Database name:
-
-```sql
-RetailPortfolio_2024_2026
-```
-
-SQL Server connection:
+The Power BI model connects:
 
 ```text
-localhost\SQLEXPRESS
+Calendar[CalendarDate]
+        1
+        |
+        *
+python_sales_clean[SalesDate]
 ```
 
-## How to Run the ETL Pipeline
+This relationship allows Year, Month, and Date slicers to filter the Python-backed sales measures.
 
-1. Create and activate a Python virtual environment.
+---
 
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
+## Power BI Reporting
 
-## SQL Server Configuration
+The Power BI report contains three pages.
 
-The Python scripts use Windows Authentication to connect to SQL Server.
+### 1. Executive Overview
 
-By default, the scripts use:
+Provides high-level business performance metrics and trends, including:
 
-```text
-Server: localhost\SQLEXPRESS
-Database: RetailPortfolio_2024_2026
-## Project Structure
+- Gross Sales
+- Net Sales
+- Refunds
+- Amount Collected
+- Net Sales by Year
+- Monthly Net Sales Trend
+- Net Sales by Day of Week
 
-```text
-RetailPortfolio_2024_2026/
-│
-├── 01_Raw_Data/
-│   ├── Sales/
-│   ├── Inventory/
-│   └── Other_Reports/
-│
-├── 02_Clean_Data/
-│   ├── sales_2024_clean.csv
-│   ├── sales_2025_clean.csv
-│   ├── sales_2026_clean.csv
-│   └── sales_2024_2026_combined.csv
-│
-├── 03_Python_Scripts/
-│   ├── data_quality_check.py
-│   ├── combine_sales_data.py
-│   ├── load_sales_to_sql.py
-│   ├── test_sql_connection.py
-│   └── run_etl_pipeline.py
-│
-├── 03_SQL_Scripts/
-├── 04_PowerBI/
-├── 05_Screenshots/
-├── requirements.txt
-├── .gitignore
-└── README.md
+### 2. Monthly Performance
 
-## Key Features
+Provides month-level performance analysis, including:
 
-- End-to-end retail analytics workflow using Python, SQL Server, and Power BI
-- Automated processing of 2024, 2025, and 2026 sales workbooks
-- Data cleaning and validation with pandas
-- Detection of missing values and duplicate records
-- Currency and date standardization
-- Transformation from report-style Excel data into analytics-ready long format
-- Automated combination of multiple yearly datasets
-- SQL Server loading with pyodbc
-- Safe table refresh process to prevent duplicate inserts
-- One-command master ETL pipeline
-- Power BI dashboard for business reporting and trend analysis
+- Gross Sales
+- Net Sales
+- Refunds
+- Tax Collected
+- Monthly Gross Sales trends
+- Year and Month filtering
 
-## Data Quality Results
+### 3. Daily Sales Analysis
 
-The final combined dataset contains:
+Provides detailed daily sales analysis, including:
 
-- 9,864 validated sales records
-- 0 missing values
-- 0 duplicate Metric + SalesDate records
-- Complete date coverage from January 1, 2024 through December 31, 2026
-- 9 core sales metrics processed for each daily reporting period
+- Reported Net Sales
+- Net Sales After Refunds
+- Gross Sales
+- Refunds
+- Tax Collected
+- Daily Gross Sales Trend
+- Year and Month filtering
 
-## What This Project Demonstrates
+The main Power BI measures are backed by data loaded through the Python pipeline.
 
-This project demonstrates practical experience with:
-
-- Python data cleaning and transformation
-- ETL pipeline design and automation
-- Data quality validation
-- SQL Server database integration
-- Working with multi-year datasets
-- Preparing analytics-ready data for reporting
-- Power BI dashboard development
-- Git and GitHub version control
-- Organizing a real-world analytics project for reproducibility and portfolio presentation
-## Project Workflow
-
-1. Created a local SQL Server database.
-2. Organized raw and cleaned files into project folders.
-3. Exported Excel workbook sheets into SQL-ready CSV files.
-4. Imported 2024, 2025, and 2026 sales data into staging tables.
-5. Combined yearly sales staging tables into one clean sales table.
-6. Imported 2024, 2025, and 2026 product/inventory files into staging tables.
-7. Combined yearly product staging tables into one clean product table.
-8. Created SQL views for sales reporting and product data-quality reporting.
-9. Created a Calendar table for Power BI date filtering.
-10. Connected Power BI Desktop to SQL Server.
-11. Built a dashboard with sales KPIs, trends, and product data-quality visuals.
-
-## Main SQL Objects
-
-### Staging Tables
-
-```sql
-stg_daily_sales_summary_2024
-stg_daily_sales_summary_2025
-stg_daily_sales_summary_2026
-
-stg_products_2024
-stg_products_2025
-stg_products_2026
-```
-
-### Clean Tables
-
-```sql
-DailySalesSummary
-Products
-Calendar
-```
-
-### Reporting Views
-
-```sql
-vw_daily_sales_summary
-vw_monthly_sales
-vw_yearly_sales
-vw_sales_kpi_daily
-vw_product_catalog
-```
-
-## Dashboard Features
-
-The Power BI dashboard includes:
-
-* Total Gross Sales card
-* Total Net Sales card
-* Total Amount Collected card
-* Total Taxes Collected card
-* Net Sales by Year chart
-* Monthly Net Sales Trend chart
-* Net Sales by Day of Week chart
-* Product Price Status chart
-* Product Category Status chart
-* Year slicer
-
-## Skills Demonstrated
-
-* SQL Server database setup
-* CSV import into SQL Server
-* Staging table workflow
-* SQL data cleaning
-* Combining multiple years of data with `UNION ALL`
-* SQL views for reporting
-* Data-quality checks
-* Calendar/date table creation
-* Power BI data modeling
-* Power BI dashboard design
-* Portfolio project organization
-
-## Data Note
-
-This project uses fake/sample retail data for learning and portfolio purposes.
+---
 
 ## Python Exploratory Data Analysis
 
-Python was also used for exploratory data analysis and business insight generation on the cleaned 2024–2026 retail sales dataset.
+Python is also used for exploratory data analysis and business insight generation on the cleaned 2024–2026 retail sales dataset.
 
 Key analyses include:
 
@@ -293,26 +420,190 @@ Key analyses include:
 - Top 5 Gross Sales months
 - Average Gross Sales by day of week
 
+The analysis script is:
+
+```text
+03_Python_Scripts/sales_eda_analysis.py
+```
+
+---
+
 ### Yearly Gross Sales
 
 ![Python Yearly Gross Sales](05_Screenshots/09_python_yearly_gross_sales.png)
+
+Gross Sales totals:
+
+| Year | Gross Sales |
+|---|---:|
+| 2024 | $900,437.31 |
+| 2025 | $930,735.11 |
+| 2026 | $937,772.19 |
+
+Year-over-Year growth:
+
+- **2025:** 3.36%
+- **2026:** 0.76%
+
+---
 
 ### Monthly Gross Sales Trend
 
 ![Python Monthly Gross Sales Trend](05_Screenshots/10_python_monthly_gross_sales_trend.png)
 
+The monthly analysis makes it possible to compare seasonality and sales performance across all three years.
+
+---
+
 ### Top 5 Gross Sales Months
 
 ![Python Top 5 Sales Months](05_Screenshots/11_python_top_5_sales_months.png)
+
+The five strongest monthly Gross Sales periods were:
+
+| Rank | Period | Gross Sales |
+|---|---|---:|
+| 1 | August 2025 | $84,339.32 |
+| 2 | December 2025 | $84,126.02 |
+| 3 | October 2026 | $83,958.84 |
+| 4 | May 2026 | $82,199.63 |
+| 5 | December 2026 | $81,794.41 |
+
+---
 
 ### Average Gross Sales by Day of Week
 
 ![Python Sales by Day of Week](05_Screenshots/12_python_sales_by_day_of_week.png)
 
-### Key Python Insights
+The analysis identified differences in sales performance by weekday.
 
-- Gross Sales increased from **$900,437.31 in 2024** to **$930,735.11 in 2025** and **$937,772.19 in 2026**.
-- Year-over-Year Gross Sales growth was approximately **3.36% in 2025** and **0.76% in 2026**.
-- **August 2025** was the strongest sales month, with approximately **$84,339.32** in Gross Sales.
-- Other high-performing months included **December 2025, October 2026, May 2026, and December 2026**.
-- **Saturday** had the highest average Gross Sales at approximately **$3,317**, while **Tuesday** had the lowest at approximately **$1,731**.
+- **Saturday** had the highest average Gross Sales at approximately **$3,317**
+- **Tuesday** had the lowest average Gross Sales at approximately **$1,731**
+
+---
+
+## Key Python Insights
+
+- Gross Sales increased from **$900,437.31 in 2024** to **$930,735.11 in 2025** and **$937,772.19 in 2026**
+- Year-over-Year Gross Sales growth was approximately **3.36% in 2025**
+- Growth continued in 2026 but slowed to approximately **0.76%**
+- **August 2025** was the strongest sales month in the three-year dataset
+- December performed strongly in both 2025 and 2026
+- **Saturday** produced the highest average Gross Sales
+- **Tuesday** produced the lowest average Gross Sales
+- Multi-year analysis helps identify both long-term growth and seasonal sales patterns
+
+---
+
+## Business Questions Answered
+
+This project supports analysis of key retail business questions, including:
+
+- How do sales change from 2024 through 2026?
+- Which months generate the highest and lowest sales?
+- Which days of the week perform best?
+- How do Gross Sales compare with Net Sales?
+- How much revenue is lost through refunds?
+- How much tax is collected?
+- How does sales performance change over time?
+- Are there recurring seasonal patterns?
+- Is year-over-year growth accelerating or slowing?
+
+---
+
+## Key Insights
+
+The project highlights several useful retail performance patterns:
+
+- Sales increased across the three-year reporting period
+- Growth between 2025 and 2026 was slower than growth between 2024 and 2025
+- Monthly sales performance varies significantly throughout the year
+- Certain months consistently produce stronger revenue
+- Weekend sales, particularly Saturday, outperform several weekdays
+- Refund-adjusted Net Sales provide a more conservative view of realized revenue
+- Python, SQL Server, and Power BI provide complementary layers for data preparation, validation, analysis, and reporting
+
+---
+
+## What This Project Demonstrates
+
+This project demonstrates practical experience with:
+
+- Python data cleaning
+- pandas data transformation
+- ETL pipeline development
+- Data-quality validation
+- Automated testing
+- Application logging
+- SQL Server integration
+- SQL views and analytical queries
+- Data modeling
+- Power BI dashboard development
+- DAX measures
+- Time-series analysis
+- Exploratory data analysis
+- Matplotlib visualization
+- Multi-year dataset analysis
+- Git version control
+- GitHub project documentation
+- Reproducible analytics workflows
+
+---
+
+## Future Enhancements
+
+Potential improvements to make the pipeline more production-ready include:
+
+- Implement incremental loading instead of full-table refreshes
+- Add additional unit and integration tests
+- Add SQL Server validation tests
+- Add pipeline run IDs and execution-duration tracking
+- Add structured JSON logging
+- Schedule the ETL pipeline automatically
+- Add alerting when a pipeline test fails
+- Add additional Python visualizations and statistical analysis
+- Add forecasting or predictive analytics
+- Deploy the pipeline using Azure or AWS
+- Add continuous integration with GitHub Actions
+- Publish the Power BI report through Power BI Service
+
+---
+
+## Portfolio Purpose
+
+This project was designed as a portfolio demonstration of an end-to-end analytics workflow rather than a single dashboard.
+
+It shows how raw business data can move through:
+
+```text
+Raw Data
+   ↓
+Python ETL
+   ↓
+Data Quality Validation
+   ↓
+SQL Server
+   ↓
+Automated Testing
+   ↓
+Python Analysis
+   ↓
+Power BI
+   ↓
+Business Insights
+```
+
+The goal is to demonstrate practical skills relevant to roles such as:
+
+- Data Analyst
+- Business Intelligence Analyst
+- Junior Data Engineer
+- Reporting Analyst
+- SQL Analyst
+- Power BI Developer
+
+---
+
+## Repository
+
+This repository contains the source data, Python scripts, SQL scripts, Power BI dashboard, generated analysis charts, and documentation required to reproduce the project.
