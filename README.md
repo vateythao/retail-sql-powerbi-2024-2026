@@ -280,3 +280,39 @@ The Power BI dashboard includes:
 ## Data Note
 
 This project uses fake/sample retail data for learning and portfolio purposes.
+
+## Python Exploratory Data Analysis
+
+Python was also used for exploratory data analysis and business insight generation on the cleaned 2024–2026 retail sales dataset.
+
+Key analyses include:
+
+- Yearly Gross Sales comparison
+- Year-over-Year Gross Sales growth
+- Monthly Gross Sales trends
+- Top 5 Gross Sales months
+- Average Gross Sales by day of week
+
+### Yearly Gross Sales
+
+![Python Yearly Gross Sales](05_Screenshots/09_python_yearly_gross_sales.png)
+
+### Monthly Gross Sales Trend
+
+![Python Monthly Gross Sales Trend](05_Screenshots/10_python_monthly_gross_sales_trend.png)
+
+### Top 5 Gross Sales Months
+
+![Python Top 5 Sales Months](05_Screenshots/11_python_top_5_sales_months.png)
+
+### Average Gross Sales by Day of Week
+
+![Python Sales by Day of Week](05_Screenshots/12_python_sales_by_day_of_week.png)
+
+### Key Python Insights
+
+- Gross Sales increased from **$900,437.31 in 2024** to **$930,735.11 in 2025** and **$937,772.19 in 2026**.
+- Year-over-Year Gross Sales growth was approximately **3.36% in 2025** and **0.76% in 2026**.
+- **August 2025** was the strongest sales month, with approximately **$84,339.32** in Gross Sales.
+- Other high-performing months included **December 2025, October 2026, May 2026, and December 2026**.
+- **Saturday** had the highest average Gross Sales at approximately **$3,317**, while **Tuesday** had the lowest at approximately **$1,731**.
